@@ -29,11 +29,11 @@ At its most basic level, the theme JSON file has only one required line: `name`.
 
 Other than `name`, everything else is optional. Add only the properties you want to format to the theme file. You can continue to use Power BI's defaults in the base theme for the rest.
 
-When you create a JSON file, you can specify that all charts use a font size of 12, that certain visuals use a particular font family, or that data labels are turned off for specific chart types. By using a JSON file, you can create a report theme file that standardizes your charts and reports, making it easy for your organization's reports to be consistent.
+For example, you can set a default font size for all charts, specify font families for certain visuals, or turn off data labels for specific chart types. This approach makes it easy to standardize the look of your organization's reports.
 
-When you import your theme file, Power BI validates it to make sure it can successfully read its full contents. If Power BI finds fields it doesn't understand, it shows you a message letting you know that the theme file is invalid, and inviting you to reimport with a corrected theme file. Power BI also publishes the schema it uses to check your theme file in a public location, updating it automatically whenever Microsoft changes it in Power BI, so that you can ensure your theme files are always current.
+When you import your theme file, Power BI validates it to make sure it can successfully read its full contents. If Power BI finds fields it doesn't understand, it displays an error message and prompts you to reimport a corrected theme file. Power BI publishes the validation schema in a public location and updates it automatically whenever Power BI changes. You can use this published schema to ensure your theme files stay current.
 
-Power BI validates custom themes based on a *JSON schema*. This [JSON schema is available for download](https://github.com/microsoft/powerbi-desktop-samples/tree/main/Report%20Theme%20JSON%20Schema) for use with an IDE that supports JSON validation, which can help identify available formatting options and highlight invalid theme formatting. More information is available in the [Report Theme JSON Schema repository](https://github.com/microsoft/powerbi-desktop-samples/tree/main/Report%20Theme%20JSON%20Schema).
+Power BI validates custom themes based on a *JSON schema*. You can [download this JSON schema](https://github.com/microsoft/powerbi-desktop-samples/tree/main/Report%20Theme%20JSON%20Schema) and use it with an IDE that supports JSON validation. The schema helps you identify available formatting options and highlights invalid formatting. For more information, see the [Report Theme JSON Schema repository](https://github.com/microsoft/powerbi-desktop-samples/tree/main/Report%20Theme%20JSON%20Schema).
 
 > [!NOTE]
 > Modifying a custom JSON report theme in the **Customize theme** dialog box is safe. The dialog doesn't modify theme settings that it can't control and updates the changes made to the report theme that's in place.
@@ -43,7 +43,7 @@ A theme file has four main components:
 - [Theme colors](#set-theme-colors)
 - [Structural colors](#set-structural-colors)
 - [Text classes](#set-formatted-text-defaults)
-- [Visual styles](#set-properties-for-visuals-types)
+- [Visual styles](#set-properties-for-visual-types)
 
 The following sections describe each component in detail.
 
@@ -51,7 +51,7 @@ The following sections describe each component in detail.
 
 Under `name`, add the following basic data color-related properties:
 
-- `dataColors`: These hexadecimal codes determine the color of shapes that represent data in Power BI Desktop visuals. This list can have as many colors as you want. After all colors from this list are used, if the visual still needs more colors, it rotates the theme color palette slightly with saturation and hue adjustment and cycles over and over to generate unique colors without repetition.
+- `dataColors`: These hexadecimal codes determine the color of shapes that represent data in Power BI Desktop visuals. This list can have as many colors as you want. When all colors are used, Power BI automatically generates additional unique colors by adjusting saturation and hue.
 - `good`, `neutral`, `bad`: These properties set the status colors used by the waterfall chart and the KPI visual.
 - `maximum`, `center`, `minimum`, `null`: These colors set the various gradient colors in the conditional formatting dialog box.
 
@@ -173,7 +173,7 @@ Here's a sample theme that sets the color classes:
 ```
  
 > [!TIP]
-> If you use a dark theme or other colorful theme that diverges from the typical black `firstLevelElements` on white `background` style, set the values for other structural colors and the [primary text class colors](#set-formatted-text-defaults). This ensures that data labels on charts with a label background match the anticipated style, are readable, and have visible axis gridlines.
+> If you use a dark theme or other colorful theme that diverges from the typical black `firstLevelElements` on white `background` style, set the values for other structural colors and the [primary text class colors](#set-formatted-text-defaults). This configuration ensures that data labels on charts with a label background match the anticipated style, are readable, and have visible axis gridlines.
 
 ## Set formatted text defaults
 
@@ -196,7 +196,7 @@ The following table shows:
 |Header|N/A|header|Segoe UI Semibold #252423 12 pt |Key influencers headers |
 | Title || title |DIN #252423 12 pt |Category axis title Value axis title  Multi-row card title *Slicer header|
 |-| Large title | largeTitle |14 pt |Visual title |
-|Label ||label |Segoe UI# 252423 10 pt |Table and matrix column headers Matrix row headers Table and matrix grid Table and matrix values |
+|Label ||label |Segoe UI #252423 10 pt |Table and matrix column headers Matrix row headers Table and matrix grid Table and matrix values |
 |-|Semibold |semiboldLabel| Segoe UI Semibold | Key influencers profile text|
 |-|Large |largeLabel |12 pt | Multi-row card data labels |
 |-|Small |smallLabel |9 pt |Reference line labels *Slicer date range labels Slicer numeric input text style Slicer search box Key influencers influencer text|
@@ -273,11 +273,11 @@ If you already manually formatted a visual to a specific style and now want to c
 1. Save your report as a [PBIP](/power-bi/developer/projects/projects-overview) by going to **File** > **Save as** then choosing *PBIP* from the file type.
 1. Enable **Report objects** / **Copy object names when right clicking on report visuals.** in **File** > **Options and settings** > **Options** > **GLOBAL** > **Report settings**.
 1. In the context menu of the visual you want to find the properties you set, choose **Copy object name**.
-1. Using the file explorer, navigate to the folder you have your PBIP folders.
-1. Right-click in that folder to open the folder in [Visual Studio Code](https://code.visualstudio.com/download) by choosing **Open in Code**.
-1. Search all files in this folder using the top search box for the object name you copied earlier.
-1. Open the file with that visual object.
-1. In the **objects** node, there you will see the property name and values for all the options you chose in the formatting pane. You can't copy and paste these as they are, as they have to be restructured for the theme file.
+1. In File Explorer, navigate to the folder containing your PBIP project.
+1. Right-click the folder and choose **Open in Code** to open it in [Visual Studio Code](https://code.visualstudio.com/download).
+1. Use the search box at the top to search all files for the object name you copied earlier.
+1. Open the file containing that visual object.
+1. The **objects** node contains the property names and values for the formatting options you configured. You can't copy and paste these values directly because the theme file requires a different structure.
 
 For example, here is an input slicer's *corner radius* option set to *4px* in the format pane. In the [PBIR file format](/power-bi/developer/projects/projects-report#pbir-format), this option looks like this:
 
@@ -333,7 +333,7 @@ To use, add a `visualStyles` section to the JSON file. See the following example
 ```
 
 - **visualName** is the name of the visual type. 
-- **stylePresetName** can be an asterisk ("*") for the default visual style, or a name in quotes ("My new preset") for it to show in a drop down that can be picked for all those types of visuals without modifying the default. Named style presets also inherit anything set in the default visual style, so if you want something common to all presets for that visual, set it in the default style only.
+- **stylePresetName** can be an asterisk ("*") for the default visual style, or a name in quotes ("My new preset") to create a named preset that appears in a dropdown menu. Named style presets inherit settings from the default visual style, so define common settings in the default style only.
 - **cardName** is the name of the formatting section you want to target. This can be an asterisk ("*") if you want to target properties in many formatting sections, such as font sizes. What the formatting pane displays in Power BI may not map to the theme file card name, so be sure to utilize the theme schema file or [PBIR file](/power-bi/developer/projects/projects-report#pbir-format).
 - **propertyName** is the name of the property you want to set.
 - **propertyValue** is the value you want to set to that property.
@@ -446,7 +446,7 @@ The example theme depicted in the previous screenshot is displayed in the follow
 
 ### Apply style presets
 
-Using the above custom theme, let's walk through an example of how to define and then use custom style presets on a visualization. Keep in mind that the style presets are specific to the visual they're defined on.
+The following example shows how to define and use custom style presets on a visualization. Style presets are specific to the visual type they're defined on.
 
 The following steps outline the process to define and import a custom theme JSON file that includes style presets:
 
