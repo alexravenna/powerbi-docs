@@ -155,7 +155,9 @@
         - name: Use organizational themes (preview)
           href: desktop-organizational-themes.md
         - name: Use report themes in Power BI
-          href: desktop-report-themes.md            
+          href: desktop-report-themes.md
+        - name: Create custom report themes
+          href: report-themes-create-custom.md
     - name: Translytical task flows
       items: 
         - name: Understand translytical task flows
@@ -524,6 +526,8 @@
         href: ../visuals/service-tips-and-tricks-for-color-formatting.md
       - name: Report themes
         href: desktop-report-themes.md
+      - name: Create custom report themes
+        href: report-themes-create-custom.md
       - name: Conditional formatting
         href: ../visuals/power-bi-visualization-conditional-formatting.md
       - name: Custom format strings
