@@ -15,7 +15,7 @@ LocalizationGroup: Create reports
 
 [!INCLUDE [applies-yes-desktop-yes-service](../includes/applies-yes-desktop-yes-service.md)]
 
-By using Power BI *report themes*, you can apply design changes to your entire report, such as using different theme colors, applying default visual formatting, or defining custom visual style presets. When you apply a report theme, all visuals in your report use the colors and formatting from your selected theme as their default style. The style can be formatted on the visual itself which is not impacted by the custom theme until they are reset to default. A few exceptions are described later in this article.
+Power BI *report themes* let you apply design changes to your entire report. You can change theme colors, set default visual formatting, and define custom style presets. When you apply a report theme, all visuals in your report use the colors and formatting from that theme as their default style. You can format individual visuals separately, and the custom theme doesn't override those changes until you reset the visual to default. A few exceptions are described later in this article.
 
 Select report themes by going to the **View** ribbon. In the **Themes** section, select the dropdown arrow, and then select the built-in theme you want, browse for a custom theme file, or customize the current theme.
 
@@ -24,11 +24,11 @@ Select report themes by going to the **View** ribbon. In the **Themes** section,
 The upper section shows:
 
 - **Built-in report themes** provide different kinds of predefined themes.
-- **Organizational report themes** show in the dropdown if your tenant admin has made additional custom report themes available.
+- **Organizational report themes** appear in the dropdown when your tenant admin makes additional custom report themes available.
 
 The lower section shows:
 
-- **Browse for themes** to find a report theme file you have downloaded previously to use in this report.
+- **Browse for themes** to find a report theme file you downloaded to use in this report.
 - **Theme gallery** takes you to the community site where you can find report themes to download.
 - **Customize current theme** lets you adjust or create a current theme for this report. Selecting this option opens a dialog where you can specify different colors, fonts, visual background styles, page background and wallpaper styles, and the filter pane style. When we make updates to our base theme, or the default look of reports without a custom theme specified, a banner shows in this dialog to update the base theme of existing reports using the base theme from when the report was created.
 - **Save current theme** lets you export the custom theme of this report so you can share it with others, make further modifications to it in a text editor, or use it in another report.
@@ -39,7 +39,7 @@ The lower section shows:
 
 ## Understand how the report uses themes
 
-Every report has a base theme defining the default colors and style used across all visuals. The styles include common styles across visuals, such as border, padding, and title font, and styles specific to visuals types, such as line style for line charts. The base theme is added when you create a report and even when new releases may make updates the base theme, this base theme stays as-is until you explicitly update it. The base theme is what is used for the default style of any new visual created. The base theme is managed by Microsoft as part of Power BI.
+Every report has a base theme defining the default colors and style used across all visuals. The styles include common styles across visuals, such as border, padding, and title font, and styles specific to visuals types, such as line style for line charts. Power BI adds the base theme when you create a report. New releases might update the base theme, but your report keeps its original base theme until you update it. The base theme is what is used for the default style of any new visual created. Microsoft manages the base theme as part of Power BI.
 
 Individual visuals can be formatted differently using the format pane. You can pick another color from the theme colors or a color not in the theme colors. You can deviate from the theme on padding or title font, for just that visual. To revert the style of a visual back to the theme style, you can **reset to default** for the entire visual, or formatting section on that visual.
 
@@ -50,25 +50,25 @@ If you want to modify the colors and styles for an entire report, including exis
 
 With a custom theme applied, **reset to default** reverts a visual to the custom theme style (not the base theme). Custom themes can be created or modified in a limited way in Power BI Desktop and created or modified extensively in the `JSON` theme file. You can export any report's custom theme as a file for use in another report, and add a custom theme to a report by browsing for the `JSON` theme file.
 
-Custom themes are usually called the report theme.
+Custom themes are also called report themes.
 
 ## Understand how theme colors are used by the report
 
-Theme colors are used when you create any visuals in the report. The colors come from data colors in the theme. When you edit any color element in a visual the dialog shows you the theme colors with various shades of those colors to pick from. You also have the option to choose **More colors** and pick any color you need.
+Theme colors are used when you create any visuals in the report. The colors come from data colors in the theme. When you edit any color element in a visual, the dialog shows you the theme colors with various shades of those colors to pick from. You can also select **More colors** to pick any color you need.
 
-It's best practice to use the theme colors. When you pick a theme color and then change the theme later, the visuals will update to the new theme colors automatically. To avoid having to manually update every visual to new colors on a theme update, pick theme colors.
+It's best practice to use the theme colors. When you pick a theme color and then change the theme later, the visuals update to the new theme colors automatically. To avoid having to manually update every visual to new colors on a theme update, pick theme colors.
 
-The colors in the color palette are relative to the current theme. For example, suppose you select the third color of the top row for a data point. Later, if you change to a different theme, that data point's color updates automatically to the third color of the top row in the new theme, just as you'd see when changing themes in Microsoft Office.
+The colors in the color palette are relative to the current theme. For example, suppose you select the third color of the top row for a data point. If you change to a different theme, that data point's color automatically updates to the third color of the top row in the new theme. This behavior is similar to changing themes in Microsoft Office.
 
 If you prefer a visual to not automatically update, don't use a theme color by going to **more colors** in the color palette. To return any visual to the theme colors, choose **reset to default** in the visual's formatting pane.
 
 ### Colors used by dynamic and static series in visuals
 
-Colors are applied in the order they are added in the report theme data colors when a visual has a series, such as when you add a legend to a visual or use more than one measure in the values section.
+When a visual has a series, Power BI applies colors in the order they appear in the theme's data colors. A visual has a series when you add a legend or use more than one measure in the values section.
 
 A **dynamic series** is when you add a column to a legend or axis that then shows the series per value. These values are dynamic in that a column can have any number of values and the values may change based on interactions within the report, such as filters applied and slicer selections.
 
-For example, if you show *Profit by Region* in a visual, you might have two sales regions, or you might have four or a different set of regions. The number and selected set of regions is dynamic, so it's considered a dynamic series.
+For example, if you show *Profit by Region* in a visual, you might have two sales regions, or you might have four or a different set of regions. The number and selected set of regions is dynamic, making this a dynamic series.
 
 A **static series** is when you add more than one measure, or stack, measures in the field well of a visual. For *static series*, you control the number of members in the series and their order. For example, *Profit* and *Revenue* measures used in a visual are a static series.
 
@@ -76,11 +76,11 @@ Colors are assigned to the value of the series by the order they appear in the v
 
 In the dynamic series example, if I have a visual showing *Profit* by *North* and *South* region, and another visual showing it by *East* and *North* regions, then the first values, *North* and *East* use the first color, and *South* and *North* use the second color. *North* has a different color as it's used in a different order in the visuals.
 
-In the static series example, if I have *Profit* then *Revenue* in one visual, and *Revenue* then *Profit* in another visual, then the colors will be different.
+In the static series example, if I have *Profit* then *Revenue* in one visual, and *Revenue* then *Profit* in another visual, the colors are different.
 
 You can always assign specific members of a series to a particular theme color by using the formatting pane: see more information about how to [change the color of a single data point](../visuals/service-tips-and-tricks-for-color-formatting.md#change-the-color-of-a-single-data-point). 
 
-Visual level color assignment can be undone at any time by choosing **reset to default** on the particular formatting pane section for that visual, and the visual will again automatically use the theme colors in the order the series member appear in the visual.
+Visual level color assignment can be undone at any time by choosing **reset to default** on the particular formatting pane section for that visual, and the visual again automatically uses the theme colors in the order the series members appear in the visual.
 
 ## Apply a built-in report theme
 
@@ -124,7 +124,7 @@ The following table shows the available built-in report themes.
 
 ## Apply an organizational report theme
 
-Additional themes may be available to you in the theme dropdown if your tenant admin has added them to organizational themes. These are applied like the built-in themes; they remove any previous custom theme and uses this custom theme.
+More themes may be available in the theme dropdown if your tenant admin adds them to organizational themes. These themes are applied like the built-in themes; they remove any previous custom theme and use the selected custom theme.
 
 ## Customize the current report theme
 
@@ -199,7 +199,7 @@ When successful, Power BI shows a dialog that the import was successful. A dialo
 
 ### Custom report theme files you can use right now
 
-Want to get started with report themes? See the custom report themes in the [themes gallery](https://community.powerbi.com/t5/Themes-Gallery/bd-p/ThemesGallery) or the following ready-made custom report theme JSON files, which you can download and import into your Power BI Desktop report:
+Want to get started with report themes? Browse the [themes gallery](https://community.powerbi.com/t5/Themes-Gallery/bd-p/ThemesGallery) for custom themes. You can also download and import the following JSON files into your Power BI Desktop report:
 
 - [Waveform theme](https://community.powerbi.com/t5/Themes-Gallery/Waveform/m-p/140536). This report theme was introduced in the [blog post](https://powerbi.microsoft.com/blog/power-bi-desktop-march-feature-summary/) that announced the first release of report themes. [Download Waveform.json](https://go.microsoft.com/fwlink/?linkid=843924).
 
@@ -264,7 +264,7 @@ Built-in themes affected by this limitation:
 If you use one of the affected themes and you don't need to modify the text settings, you can safely use the other tabs of the dialog box. However, if you want to use the text classes with one of the affected themes, you have the following options:
 
 - Select the Default theme options to enable the text classes.
-- If you want to keep your current custom theme and enable the text tab:
+- To keep your current custom theme and enable the text tab:
     1. Export your current theme.
     1. Select the default theme.
     1. Import the custom theme you exported in the first step.
