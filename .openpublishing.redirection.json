@@ -4807,7 +4807,12 @@
     },
     {
       "source_path": "powerbi-docs/desktop-send-smile-privacy-statement.md",
-      "redirect_url": "/power-bi/fundamentals/desktop-send-smile-privacy-statement",
+      "redirect_url": "https://blogs.windows.com/windowsexperience/2018/01/24/microsoft-introduces-new-privacy-tools-ahead-of-data-privacy-day/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "powerbi-docs/fundamentals/desktop-send-smile-privacy-statement.md",
+      "redirect_url": "https://blogs.windows.com/windowsexperience/2018/01/24/microsoft-introduces-new-privacy-tools-ahead-of-data-privacy-day/",
       "redirect_document_id": false
     },
     {
@@ -6617,7 +6622,7 @@
     },
     {
       "source_path": "powerbi-docs/enterprise/desktop-privacy-levels.md",
-      "redirect_url": "/fabric/enterprise/powerbi/desktop-privacy-levels",
+      "redirect_url": "/power-query/privacy-levels",
       "redirect_document_id": false
     },
     {
@@ -6962,7 +6967,12 @@
     },
     {
       "source_path": "powerbi-docs/visuals/power-bi-visualization-text-slicer-considerations-limitations.md",
-      "redirect_url": "/power-bi/visuals/power-bi-visualization-text-slicer",
+      "redirect_url": "/power-bi/visuals/power-bi-visualization-input-slicer",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "powerbi-docs/visuals/power-bi-visualization-text-slicer.md",
+      "redirect_url": "/power-bi/visuals/power-bi-visualization-input-slicer",
       "redirect_document_id": false
     },
     {

@@ -7,7 +7,7 @@ ms.reviewer: ''
 ms.service: powerbi
 ms.subservice: powerbi-report-server
 ms.topic: concept-article
-ms.date: 11/18/2025
+ms.date: 02/17/2026
 ms.custom: intro-whats-new
 ai-usage: ai-assisted
 ---
@@ -20,13 +20,50 @@ Download [Power BI Report Server and Power BI Desktop for Power BI Report Server
 
 Reminder: [How you can find your report server product key](find-product-key.md)
 
+## January 2026
+
+Read the Power BI blog post, [Power BI Report Server January 2026 Feature Summary](https://powerbi.microsoft.com/blog/power-bi-report-server-january-2026-feature-summary/) for details.
+
+### Visualizations
+
+This release includes a variety of new and updated visuals from Microsoft partners and the broader community. These visuals enable richer storytelling, advanced exploration, and more engaging report experiences.
+
+- Activity Gauge by Powerviz
+- Decomposition Tree – All Expanding
+- Dynamic chart legends in Zebra BI Charts
+- Drill Down Bubble PRO by ZoomCharts
+- Power Gantt Chart by Nova Silva
+- Turn any image into data insights with Synoptic Panel by OKVIZ
+- Sankey Chart by Powerviz
+- Your Timeline Slicer: Reimagining Date Filtering for Modern Dashboards
+- Drill Down Scatter PRO by ZoomCharts
+- Multiple Sparklines
+- Performance Bar by JTA
+- Financial Reporting Matrix v8.2
+- ADWISE Advanced Column v 2.0
+- Zebra BI Tables: Calculated Reports in One Click and Brand Images
+- Word Cloud by Powerviz
+- Drill Down Combo Bar PRO by ZoomCharts
+- CAGR Arrows Now in Zebra BI Charts
+
+### Reporting
+
+This release also includes several reporting enhancements to improve layout behavior, visual styling, and interaction options to help you build polished, intuitive, and modern reports.
+
+- Automatically expand matrix columns to fill available space
+- Card visual (Generally Available)
+- Enhancing Image visuals with styling, states, and more
+- Button slicer (Generally Available)
+- Automatically expand table columns to fill available space
+- Performance analyzer available when editing a report in the web
+
 ## September 2025
 
 Read the Power BI blog post, [Power BI Report Server September 2025 Feature Summary](https://powerbi.microsoft.com/blog/power-bi-report-server-september-2025-feature-summary/) for details.
 
 ### General announcements
 
-#### SQL Server 2025 Updates
+#### SQL Server 2025 updates
 
 Starting with SQL Server 2025, Microsoft is consolidating all on-premises reporting services under Power BI Report Server (PBIRS). No new versions of SQL Server Reporting Services (SSRS) will be released. PBIRS becomes the default on-premises reporting solution for SQL Server.
 
@@ -36,9 +73,9 @@ Starting with the September 2025 release, Power BI Desktop for Power BI Report S
 
 **Migration guidance:**
 
-- Administrators and authors should migrate from 32-bit to 64-bit Power BI Desktop for Report Server.
-- Download the latest 64-bit version from the [Power BI Report Server download page](download-powerbi-report-server.md).
-- For supported architectures and system requirements, see [Hardware and software requirements for installing Power BI Report Server](system-requirements.md).
+1. Administrators and authors should migrate from 32-bit to 64-bit Power BI Desktop for Report Server.
+1. Download the latest 64-bit version from the [Power BI Report Server download page](download-powerbi-report-server.md).
+1. For supported architectures and system requirements, see [Hardware and software requirements for installing Power BI Report Server](system-requirements.md).
 
 ### Visualizations
 
@@ -417,7 +454,7 @@ This release has updates for the Report Server web portal, modeling, and reporti
 ### Report Server
 
 - [Accent color update](#power-bi-report-server-accent-color-update)
-- [.rdl and .pbix file migration tool](#publish-rdl-pbix-files-to-power-bi-from-power-bi-report-server)
+- [.rdl and .pbix file migration tool](#publish-rdl-and-pbix-files-to-power-bi-from-power-bi-report-server)
 - New .rdl report community: Join the [on-premises .rdl migration user group](https://community.powerbi.com/t5/Reporting-Services-Migration-to/gh-p/ReportingServices-MigrationtoPowerBI).
 
 #### Power BI Report Server accent color update
@@ -426,7 +463,7 @@ In November 2022, Power BI announced the upcoming change in color accent to teal
 
 The Power BI brand color and icon logo remain yellow.
 
-#### Publish .rdl &.pbix files to Power BI from Power BI Report Server
+#### Publish .rdl and .pbix files to Power BI from Power BI Report Server
 
 - Power BI Pro licenses now support [paginated reports](../consumer/end-user-paginated-report.md).
 - Power BI Report Server has a [new tool to migrate .rdl reports to the Power BI service](../guidance/publish-reporting-services-power-bi-service.md). The new migration tool is available in the January 2023 release.

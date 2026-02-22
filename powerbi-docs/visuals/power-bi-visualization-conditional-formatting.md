@@ -16,7 +16,7 @@ ai-usage: ai-assisted
 
 [!INCLUDE [applies-yes-desktop-yes-service](../includes/applies-yes-desktop-yes-service.md)]
 
-Conditional formatting in Power BI lets you dynamically change the appearance of your visuals based on data values. Instead of using static colors and styles, you can set colors to change based on field values, rules you define, or color scales that map values to a gradient. This capability helps you highlight important data points, show status indicators, or create heat map effects within your visuals.
+Conditional formatting in Power BI lets you dynamically change the appearance of your visuals based on data values. Instead of using static colors and styles, you can set colors to change based on field values, rules you define, or color scales that map values to a gradient. This capability helps you highlight important data points, show status indicators, or create heat map effects within your visuals. You can also create dynamic, expression-based titles and subtitles, and apply rich formatting options to tables and matrices.
 
 With conditional formatting, your reports become more intuitive and easier to interpret. Viewers can quickly identify trends, outliers, and key insights without needing to analyze raw numbers.
 
@@ -35,9 +35,16 @@ Conditional formatting is available for many Power BI visuals, though the specif
 | **Cards** | Callout values, labels, and other card elements |
 | **Gauges** | Target colors, callout values |
 | **KPIs** | Indicator colors, goal colors |
+| **Most visuals** | Titles, subtitles (expression-based) |
 
 > [!NOTE]
-> Line charts don't natively support conditional formatting for lines, shaded areas, or markers. Some visuals might have limited conditional formatting options compared to others.
+> Line charts don't natively support conditional formatting for lines, shaded areas, or markers. Some visuals offer fewer conditional formatting options than others.
+
+## Customize visual titles and subtitles
+
+You can use conditional formatting to create dynamic, expression-based titles and subtitles for your visuals. By creating DAX expressions based on fields, variables, or other programmatic elements, your visual titles and subtitles can automatically adjust based on filters, selections, or other user interactions.
+
+For detailed instructions on creating expression-based titles, see [Expression-based titles in Power BI Desktop](../create-reports/desktop-conditional-format-visual-titles.md).
 
 ## Access conditional formatting
 
@@ -87,10 +94,10 @@ Rules-based formatting applies specific colors based on conditions you define. T
 - Assign a specific color to each rule.
 - Use percentage-based rules or number-based rules depending on your needs.
 
-For example, you might use rules to color sales data green for values above target, yellow for values near target, and red for values below target.
+For example, you might use rules to color sales data green for values that exceed a target, yellow for values close to the target, and red for values that fall short of the target.
 
 > [!TIP]
-> When formatting fields that contain percentages, enter rule values as decimals (such as .25 for 25%) and select **Number** for the format, not **Percent**.
+> When formatting fields that contain percentages, enter rule values as decimals (such as 0.25 for 25%) and select **Number** for the format, not **Percent**.
 
 ### Field value
 
@@ -103,7 +110,7 @@ Field value formatting uses color values stored directly in your data. This styl
   - HSL or HSLA values
   - Color names (such as Green, SkyBlue, PeachPuff)
 
-Field value formatting is ideal when you want to implement custom business logic for colors or when color assignments are determined by your data source.
+Use field value formatting when you want to apply custom color logic or when your data source already contains color values.
 
 ## Create a color measure for conditional formatting
 
@@ -123,6 +130,26 @@ StatusColor = SWITCH(
 
 After creating the measure, select **Field value** as the format style and choose your color measure as the field to base the formatting on.
 
+## Troubleshoot field errors in conditional formatting
+
+When a field used by conditional formatting is no longer available or is in an error state, Power BI displays visual indicators to help you identify and fix the issue.
+
+When you edit a visual with a conditional formatting error:
+
+- A **warning icon** appears in the visual header.
+- The **Format** pane shows a warning icon next to the section that contains the affected formatting option.
+- The specific formatting option displays an error message, such as "To fix the problem, pick a different field."
+
+:::image type="content" source="media/power-bi-visualization-conditional-formatting/conditional-formatting-field-error.png" alt-text="Screenshot showing a visual with conditional formatting errors. Warning icons appear in the visual header and Format pane, and an error message instructs the user to pick a different field.":::
+
+Field errors typically occur when:
+
+- The field used for conditional formatting is deleted from the semantic model.
+- The field is renamed, breaking the reference. Broken references can occur when you create a report using a live connection to a semantic model.
+- A measure used for conditional formatting contains an error.
+
+To resolve a field error, open the conditional formatting dialog and select a different, valid field. You can also remove the conditional formatting entirely and reapply it with a new field.
+
 ## Considerations and limitations
 
 Keep these considerations in mind when working with conditional formatting:
@@ -141,6 +168,7 @@ Keep these considerations in mind when working with conditional formatting:
 
 ## Related content
 
+- [Expression-based titles in Power BI Desktop](../create-reports/desktop-conditional-format-visual-titles.md)
 - [Apply conditional formatting in tables and matrices](../create-reports/desktop-conditional-table-formatting.md)
 - [Tips and tricks for color formatting in reports](service-tips-and-tricks-for-color-formatting.md)
 - [Get started formatting report visualizations](service-getting-started-with-color-formatting-and-axis-properties.md)
