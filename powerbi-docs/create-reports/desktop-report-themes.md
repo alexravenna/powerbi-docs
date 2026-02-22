@@ -191,7 +191,7 @@ To install the custom theme `JSON` file:
 
 1. Go to the location where you downloaded the JSON file, and select it.
 
-When successful, Power BI shows a dialog that the import was successful. A dialog also shows when it is not successful with details on the error in the custom theme file.
+When successful, Power BI shows a dialog that the import was successful. A dialog also shows when it isn't successful with details on the error in the custom theme file.
 
 > [!TIP]
 > You can find theme files created by others by selecting **Theme gallery** and downloading it to your machine. You can also use online tools or simply use a text editor such as VS Code to create your own or edit an existing custom theme file.
