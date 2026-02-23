@@ -18,7 +18,7 @@
         - name: Get started with Microsoft Fabric and Power BI
           href: fabric-get-started.md
         - name: Download samples in the Power BI mobile apps
-          href: ../consumer/mobile/mobile-apps-download-samples.md
+          href: mobile-apps-download-samples.md
     - name: Licensing
       items:
         - name: Sign up or purchase Power BI as an individual
@@ -36,7 +36,7 @@
     - name: Resources
       items:
         - name: Power BI feature list for business users
-          href: ../consumer/end-user-features.md
+          href: end-user-features.md
         - name: Videos
           href: videos.md
         - name: Power BI updates archive

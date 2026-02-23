@@ -29,7 +29,7 @@
       - name: Troubleshoot the Power BI add-in for PowerPoint
         href: ../collaborate-share/service-power-bi-powerpoint-add-in-troubleshoot.md
       - name: "Fix 'corporate SSL certificate untrusted' on Android"
-        href: ../consumer/mobile/mobile-android-app-error-corporate-ssl-account-is-untrusted.md 
+        href: mobile-android-app-error-corporate-ssl-account-is-untrusted.md 
     - name: Capacity management
       expanded: false
       items:

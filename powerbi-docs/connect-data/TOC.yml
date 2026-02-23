@@ -248,7 +248,7 @@
       - name: "Data refresh in Power BI"
         href: refresh-data.md
       - name: "Refresh semantic models in Power BI mobile apps"
-        href: ../consumer/mobile/mobile-apps-dataset-refresh.md
+        href: mobile-apps-dataset-refresh.md
       - name: "Configure scheduled refresh"
         href: refresh-scheduled-refresh.md
       - name: "Refresh summaries"

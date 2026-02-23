@@ -7049,6 +7049,71 @@
       "source_path": "powerbi-docs/consumer/end-user-focus.md",
       "redirect_url": "/power-bi/consumer/end-user-report-view#zoom-in-on-a-visual",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "powerbi-docs/consumer/end-user-features.md",
+      "redirect_url": "/power-bi/fundamentals/end-user-features",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "powerbi-docs/consumer/end-user-workspaces.md",
+      "redirect_url": "/power-bi/collaborate-share/end-user-workspaces",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "powerbi-docs/consumer/org-app-items/org-app-cicd.md",
+      "redirect_url": "/power-bi/developer/embedded/org-app-cicd",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "powerbi-docs/consumer/mobile/mobile-apps-download-samples.md",
+      "redirect_url": "/power-bi/fundamentals/mobile-apps-download-samples",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "powerbi-docs/consumer/mobile/mobile-apps-deep-link-specific-location.md",
+      "redirect_url": "/power-bi/developer/embedded/mobile-apps-deep-link-specific-location",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "powerbi-docs/consumer/mobile/mobile-apps-nfc-tags.md",
+      "redirect_url": "/power-bi/developer/embedded/mobile-apps-nfc-tags",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "powerbi-docs/consumer/mobile/mobile-app-configuration.md",
+      "redirect_url": "/power-bi/developer/embedded/mobile-app-configuration",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "powerbi-docs/consumer/mobile/mobile-app-shared-device-mode.md",
+      "redirect_url": "/power-bi/developer/embedded/mobile-app-shared-device-mode",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "powerbi-docs/consumer/mobile/mobile-android-app-error-corporate-ssl-account-is-untrusted.md",
+      "redirect_url": "/power-bi/troubleshoot/mobile-android-app-error-corporate-ssl-account-is-untrusted",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "powerbi-docs/consumer/mobile/mobile-apps-dataset-refresh.md",
+      "redirect_url": "/power-bi/connect-data/mobile-apps-dataset-refresh",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "powerbi-docs/consumer/mobile/mobile-apps-launch-item.md",
+      "redirect_url": "/power-bi/developer/embedded/mobile-apps-launch-item",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "powerbi-docs/consumer/mobile/mobile-app-interaction-settings.md",
+      "redirect_url": "/power-bi/developer/embedded/mobile-app-interaction-settings",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "powerbi-docs/consumer/business-user-teams-create-reports.md",
+      "redirect_url": "/power-bi/collaborate-share/business-user-teams-create-reports",
+      "redirect_document_id": true
     }
   ]
 }                           
