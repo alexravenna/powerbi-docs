@@ -15,16 +15,23 @@ LocalizationGroup: Create reports
 
 [!INCLUDE [applies-yes-desktop-yes-service](../includes/applies-yes-desktop-yes-service.md)]
 
-Power BI *report themes* let you apply design changes to your entire report. You can change theme colors, set default visual formatting, and define custom style presets. When you apply a report theme, all visuals in your report use the colors and formatting from that theme as their default style. You can format individual visuals separately, and the custom theme doesn't override those changes until you reset the visual to default. A few exceptions are described later in this article.
+Power BI *report themes* let you apply design changes to your entire report. You can change theme colors, set default visual formatting, and define [custom style presets](report-themes-create-custom.md#create-style-presets-in-custom-themes). When you apply a report theme, all visuals in your report use the colors and formatting from that theme as their default style.
 
-Select report themes by going to the **View** ribbon. In the **Themes** section, select the dropdown arrow, and then select the built-in theme you want, browse for a custom theme file, or customize the current theme.
+You can use the formatting pane to format individual visuals. When formatted individually on the report canvas, the custom theme doesn't override those changes until you reset the visual to default.
+
+To select report themes:
+
+- In Power BI Desktop, go to the **View** ribbon. In the **Themes** section, select the dropdown arrow.
+- In the Power BI service, select **View** > **Theme**.
+
+From the dropdown, select the built-in theme you want, browse for a custom theme file, or customize the current theme.
 
 :::image type="content" source="media/desktop-report-themes/report-themes-dropdown-menu.png" alt-text="Screenshot of the Themes dropdown menu.":::
 
 The upper section shows:
 
 - **Built-in report themes** provide different kinds of predefined themes.
-- **Organizational report themes** appear in the dropdown when your tenant admin makes additional custom report themes available.
+- **[Organizational report themes](desktop-organizational-themes.md)** appear in the dropdown when your tenant admin makes additional custom report themes available.
 
 The lower section shows:
 
@@ -48,7 +55,7 @@ Individual visuals can be formatted differently using the format pane. You can p
 
 If you want to modify the colors and styles for an entire report, including existing visuals and new visuals, you use a custom theme. The custom theme layers on top of the base theme, letting you override or add to any style or color defined in the base theme, including style presets for specific visual types.
 
-With a custom theme applied, **reset to default** reverts a visual to the custom theme style (not the base theme). Custom themes can be created or modified in a limited way in Power BI Desktop and created or modified extensively in the `JSON` theme file. You can export any report's custom theme as a file for use in another report, and add a custom theme to a report by browsing for the `JSON` theme file.
+With a custom theme applied, **reset to default** reverts a visual to the custom theme style, and for anything not defined in the custom theme, the base theme style. Custom themes can be created or modified in a limited way in Power BI Desktop and created or modified extensively in the `JSON` theme file. You can export any report's custom theme as a file for use in another report, and add a custom theme to a report by browsing for the `JSON` theme file.
 
 Custom themes are also called report themes.
 
@@ -124,7 +131,7 @@ The following table shows the available built-in report themes.
 
 ## Apply an organizational report theme
 
-More themes may be available in the theme dropdown if your tenant admin adds them to organizational themes. These themes are applied like the built-in themes; they remove any previous custom theme and use the selected custom theme.
+More themes may be available in the theme dropdown if your tenant admin adds them to [organizational themes](desktop-organizational-themes.md). These themes are applied like the built-in themes; they remove any previous custom theme and use the selected custom theme.
 
 ## Customize the current report theme
 
@@ -272,6 +279,8 @@ If you use one of the affected themes and you don't need to modify the text sett
 The text in your report might change to match the default theme, but you can then access the text tab in the theme dialog box.
 
 Elements that are considered part of the interface can't be changed using a report theme, including the Filter, Format, and Data panes and the [visual matrix in visual calculations](../transform-model/desktop-visual-calculations-overview.md).
+
+**Reset to default** also removes formatting pane items controlling actions on buttons and images, all conditional formatting rules, images from URLs or data-bound fields, and other data-bound items such as reference labels.
 
 ## Related content
 
