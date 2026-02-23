@@ -267,7 +267,7 @@ When you plan to distribute content to workspace viewers, consider the following
 
 #### Option 3: View content in an app
 
-You can distribute content via [apps](../consumer/end-user-apps.md), which bundle related content in a straightforward user interface that streamlines the experience for content consumers. Unlike viewing content in workspaces, apps don't confuse or overwhelm consumers by showing nonreporting items (like semantic models).
+You can distribute content via [apps](../explore-reports/end-user-apps.md), which bundle related content in a straightforward user interface that streamlines the experience for content consumers. Unlike viewing content in workspaces, apps don't confuse or overwhelm consumers by showing nonreporting items (like semantic models).
 
 When you distribute content via apps, there's no risk of accidentally giving consumers Write permission. Apps require you to share content by adding consumers to an [app audience](../collaborate-share/service-create-distribute-apps.md#create-and-manage-multiple-audiences). It's also possible to share an app with the [entire organization](../collaborate-share/service-create-distribute-apps.md#publish-the-app-to-your-entire-organization).
 
@@ -456,7 +456,7 @@ Consider the following Power BI features that provide flexibility to consumers:
 
 - **Field parameters**: You can create [field parameters](../create-reports/power-bi-field-parameters.md) in semantic models that support the dynamic selection of dimensions and measures in reports. This option provides users with the ability to select a field from a slicer, and that field will be then used in visuals.
 - **Decomposition tree visual**: You can use the [decomposition tree](../visuals/power-bi-visualization-decomposition-tree.md) visual in reports to let consumers explore data across multiple dimensions that they choose.
-- **Personalize visuals**: You can enable [personalization of visuals](../consumer/end-user-personalize-visuals.md) in a report, which lets consumers change visuals to suit themselves. They can modify any visual, including the visual type, format settings, and which fields the visual uses. They can also customize the report page to any field you preselect from the semantic model, enabling them to perform ad-hoc analysis.
+- **Personalize visuals**: You can enable [personalization of visuals](../explore-reports/end-user-personalize-visuals.md) in a report, which lets consumers change visuals to suit themselves. They can modify any visual, including the visual type, format settings, and which fields the visual uses. They can also customize the report page to any field you preselect from the semantic model, enabling them to perform ad-hoc analysis.
 
 If consumers don't require Build permission now, they might need it in the future. Business objectives and data needs can evolve quickly. Teaching users to create their own content and perform their own analysis is a good way to scale your implementation by [enabling users](fabric-adoption-roadmap-mentoring-and-user-enablement.md) and advance your [data culture maturity](fabric-adoption-roadmap-data-culture.md).
 

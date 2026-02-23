@@ -32,7 +32,7 @@ Power BI offers several ways to collaborate and share Power BI reports, dashboar
 ### Share reports and dashboards
 
 - Share from My Workspace or other workspaces (with the right role or permissions).
-- [Share from the Power BI mobile apps](../consumer/mobile/mobile-share-dashboard-from-the-mobile-apps.md).
+- [Share from the Power BI mobile apps](../explore-reports/mobile/mobile-share-dashboard-from-the-mobile-apps.md).
 - [Share from Power BI Desktop](../create-reports/desktop-sharepoint-save-share.md) with OneDrive and SharePoint integration.
 - [Publish reports from Power BI Desktop](../create-reports/desktop-upload-desktop-files.md) to the Power BI service.
 

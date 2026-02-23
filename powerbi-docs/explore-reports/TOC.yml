@@ -33,10 +33,6 @@
       href: end-user-app-view.md
     - name: Get started with org apps (preview)
       href: org-app-items/org-app-items.md
-  - name: Glossary and terminology
-    href: end-user-glossary.md
-  - name: Frequently asked questions
-    href: end-user-faq.yml
 
 # =============================================================================
 # VIEW REPORTS AND DASHBOARDS
@@ -67,8 +63,16 @@
     href: end-user-fresh.md
   - name: Add comments
     href: end-user-comment.md
-  - name: Use accessibility features
-    href: desktop-accessibility-consuming-tools.md
+  - name: Download reports to Desktop
+    href: ../create-reports/service-export-to-pbix.md?context=/power-bi/explore-reports/context/context
+  - name: Accessibility
+    items:
+    - name: Accessibility overview
+      href: ../create-reports/desktop-accessibility-overview.md?context=/power-bi/explore-reports/context/context
+    - name: Use accessibility features
+      href: desktop-accessibility-consuming-tools.md
+    - name: Keyboard shortcuts
+      href: ../create-reports/desktop-accessibility-keyboard-shortcuts.md?context=/power-bi/explore-reports/context/context
 
 # =============================================================================
 # FILTER AND INTERACT
@@ -92,7 +96,7 @@
   - name: Use ArcGIS maps
     href: end-user-arcgis.md
   - name: Interact with small multiples
-    href: ../visuals/power-bi-visualization-small-multiples-interact.md
+    href: ../visuals/power-bi-visualization-small-multiples-interact.md?context=/power-bi/explore-reports/context/context
 
 # =============================================================================
 # ASK QUESTIONS WITH AI
@@ -112,9 +116,9 @@
     - name: Chat with your data
       href: copilot-chat-with-data-standalone.md
     - name: "Tutorial: Discover data"
-      href: ../create-reports/tutorial-copilot-power-bi-discover-data.md
+      href: ../create-reports/tutorial-copilot-power-bi-discover-data.md?context=/power-bi/explore-reports/context/context
     - name: "Tutorial: Explore data"
-      href: ../create-reports/tutorial-copilot-power-bi-explore-data.md
+      href: ../create-reports/tutorial-copilot-power-bi-explore-data.md?context=/power-bi/explore-reports/context/context
 
 # =============================================================================
 # DISCOVER INSIGHTS
@@ -128,7 +132,7 @@
   - name: Analyze fluctuations in visuals
     href: end-user-analyze-visuals.md
   - name: Understand anomaly detection
-    href: ../visuals/power-bi-visualization-anomaly-detection.md
+    href: ../visuals/power-bi-visualization-anomaly-detection.md?context=/power-bi/explore-reports/context/context
 
 # =============================================================================
 # EXPORT AND SHARE
@@ -136,17 +140,17 @@
 - name: Export and share
   items:
   - name: View data behind a visual
-    href: ../visuals/service-reports-show-data.md
+    href: ../visuals/service-reports-show-data.md?context=/power-bi/explore-reports/context/context
   - name: Export data from a visual
-    href: ../visuals/power-bi-visualization-export-data.md
+    href: ../visuals/power-bi-visualization-export-data.md?context=/power-bi/explore-reports/context/context
   - name: Understand data point limits
-    href: ../visuals/power-bi-data-points.md
+    href: ../visuals/power-bi-data-points.md?context=/power-bi/explore-reports/context/context
   - name: Export a report to PDF
-    href: ../collaborate-share/end-user-pdf.md
+    href: ../collaborate-share/end-user-pdf.md?context=/power-bi/explore-reports/context/context
   - name: Export a report to PowerPoint
-    href: ../collaborate-share/end-user-powerpoint.md
+    href: ../collaborate-share/end-user-powerpoint.md?context=/power-bi/explore-reports/context/context
   - name: Subscribe to reports and dashboards
-    href: ../collaborate-share/end-user-subscribe.md
+    href: ../collaborate-share/end-user-subscribe.md?context=/power-bi/explore-reports/context/context
   - name: Set alerts on reports
     href: business-user-set-alerts.md
   - name: Set alerts on dashboards
@@ -282,6 +286,8 @@
 # =============================================================================
 - name: Resources
   items:
+  - name: Glossary and terminology
+    href: end-user-glossary.md
   - name: Contribute to Fabric docs
     href: /contribute/
   - name: Microsoft Q & A

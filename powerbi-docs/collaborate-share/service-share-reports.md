@@ -36,14 +36,14 @@ Power BI also offers [other ways to collaborate and distribute your reports](ser
 
 ## Share via link
 
-1. Open a report in [Reading view](../consumer/end-user-reading-view.md) and apply a filter.
+1. Open a report in [Reading view](../explore-reports/end-user-reading-view.md) and apply a filter.
 1. Select **Share** and make sure **Include my changes** is selected: 
 
     :::image type="content" source="media/service-share-reports/include-my-changes-setting.png" alt-text="Screenshot of sharing Share via link.":::
 
 ## Share a report in Teams
 
-1. Open a report in [Reading view](../consumer/end-user-reading-view.md) and apply a filter.
+1. Open a report in [Reading view](../explore-reports/end-user-reading-view.md) and apply a filter.
 1. You can access **Chat in Teams** from the action bar: 
 
     ![Screenshot showing Chat in Teams in action bar.](media/service-share-reports/power-bi-chat-teams-action-bar.png)
@@ -56,7 +56,7 @@ Power BI also offers [other ways to collaborate and distribute your reports](ser
 
 You can also share individual visuals.
 
-1. Open a report in [Reading view](../consumer/end-user-reading-view.md) and apply a filter.
+1. Open a report in [Reading view](../explore-reports/end-user-reading-view.md) and apply a filter.
 1. Right-click a visual, then select **Share > Link to this visual**.
 
     :::image type="content" source="./media/service-share-reports/power-bi-share-visual-menu-link-to-selection.png" alt-text="Screenshot showing Visual right-click menu with Share submenu expanded.":::
@@ -77,7 +77,7 @@ You can share live, filtered report pages or visuals by adding them to a PowerPo
 
 If you prefer to share directly to users, you can also share your filtered report through direct access sharing. 
 
-1. Open a report in [Reading view](../consumer/end-user-reading-view.md) and apply a filter.
+1. Open a report in [Reading view](../explore-reports/end-user-reading-view.md) and apply a filter.
 1. Select **Share** > **More options (...)** > **Manage permissions**: 
 
     ![Screenshot showing Manage permissions filter.](media/service-share-reports/manage-permissions-filter.png)

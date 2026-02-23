@@ -416,11 +416,11 @@ Here are several common uses of registry settings related to Power BI Desktop.
 
 ### Mobile device management
 
-Many users like to interact with Power BI content on a mobile device, such as a tablet or a phone, whether they're at home or traveling. The [Power BI mobile apps](../consumer/mobile/mobile-apps-for-mobile-devices.md) for iOS, Android, and Windows are primarily designed for smaller form factors and touch screens. They make it easier to interact with content that's been published to the Power BI service or Power BI Report Server.
+Many users like to interact with Power BI content on a mobile device, such as a tablet or a phone, whether they're at home or traveling. The [Power BI mobile apps](../explore-reports/mobile/mobile-apps-for-mobile-devices.md) for iOS, Android, and Windows are primarily designed for smaller form factors and touch screens. They make it easier to interact with content that's been published to the Power BI service or Power BI Report Server.
 
 You can specify app protection policies and device protection policies for managed and unmanaged devices by using [Microsoft Intune](../enterprise/service-admin-mobile-intune.md). Intune is a software service that provides mobile device and application management, and it supports mobile application management (MAM) policies. Policies can be set at various [levels of protection](/mem/intune/apps/app-protection-policy#app-protection-policy-data-protection-framework).
 
-Optionally, a mobile device management (MDM) solution from Microsoft 365, or a third party, might also be used to [customize](../consumer/mobile/mobile-app-configuration.md) the behavior of Power BI mobile apps. The Power BI app for Windows also supports [Windows Information Protection (WIP)](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip).
+Optionally, a mobile device management (MDM) solution from Microsoft 365, or a third party, might also be used to [customize](../explore-reports/mobile/mobile-app-configuration.md) the behavior of Power BI mobile apps. The Power BI app for Windows also supports [Windows Information Protection (WIP)](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip).
 
 Here are several ways that you might choose to use MAM and MDM policies.
 

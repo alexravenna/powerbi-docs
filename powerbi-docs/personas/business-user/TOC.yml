@@ -36,7 +36,7 @@
   - name: Glossary and terminology
     href: ../../explore-reports/end-user-glossary.md?context=/power-bi/personas/business-user/context/context
   - name: Frequently asked questions
-    href: ../../explore-reports/end-user-faq.yml?context=/power-bi/personas/business-user/context/context
+    href: end-user-faq.yml
 
 # =============================================================================
 # VIEW REPORTS AND DASHBOARDS
