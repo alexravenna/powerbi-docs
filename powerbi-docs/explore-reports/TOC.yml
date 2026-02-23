@@ -1,7 +1,7 @@
 # =============================================================================
 # DOCUMENTATION ROOT (REQUIRED)
 # =============================================================================
-- name: Power BI business user documentation
+- name: Power BI report exploration documentation
   href: index.yml
 
 # =============================================================================
