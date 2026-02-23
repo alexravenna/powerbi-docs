@@ -689,7 +689,7 @@ The following updates are new to Power BI Desktop this month:
 * Table view improvements  [[blog]](https://powerbi.microsoft.com/blog/power-bi-march-2025-feature-summary/#post-29214-_Toc193819904) 
 * Distribution, discovery, and consumption  [[blog]](https://powerbi.microsoft.com/blog/power-bi-march-2025-feature-summary/#post-29214-_Toc193819905) 
 * CI/CD for org apps (preview)  [[blog]](https://powerbi.microsoft.com/blog/power-bi-march-2025-feature-summary/#post-29214-_Toc193819906)  [[video]](https://youtu.be/dgxeFAUSfE8&t=335s)  [[article]](/fabric/cicd/git-integration/intro-to-git-integration)
-* Introducing new customization options for org apps - combined navigation (preview)  [[blog]](https://powerbi.microsoft.com/blog/power-bi-march-2025-feature-summary/#post-29214-_Toc193819907)  [[article]](../consumer/org-app-items/org-app-items.md#customizing-your-org-app)
+* Introducing new customization options for org apps - combined navigation (preview)  [[blog]](https://powerbi.microsoft.com/blog/power-bi-march-2025-feature-summary/#post-29214-_Toc193819907)  [[article]](../consumer/org-app-items.md#customizing-your-org-app)
 
 
 ### Data connectivity

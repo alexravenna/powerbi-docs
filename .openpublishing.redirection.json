@@ -7114,6 +7114,21 @@
       "source_path": "powerbi-docs/consumer/business-user-teams-create-reports.md",
       "redirect_url": "/power-bi/collaborate-share/business-user-teams-create-reports",
       "redirect_document_id": true
+    },
+    {
+      "source_path": "powerbi-docs/create-reports/copilot-pane-summarize-content.md",
+      "redirect_url": "/power-bi/consumer/copilot-pane-summarize-content",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "powerbi-docs/create-reports/copilot-chat-with-data-standalone.md",
+      "redirect_url": "/power-bi/consumer/copilot-chat-with-data-standalone",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "powerbi-docs/consumer/org-app-items/org-app-items.md",
+      "redirect_url": "/power-bi/consumer/org-app-items",
+      "redirect_document_id": true
     }
   ]
 }                           

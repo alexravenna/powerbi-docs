@@ -21,7 +21,7 @@ Applies to:
 
 Org apps are the next generation of Power BI apps, designed to simplify access to Power BI and Fabric items. In the Power BI mobile apps, users can view org apps and interact with supported content. 
 
-To read more about org apps, see [Get started with org apps (preview)](../org-app-items/org-app-items.md)
+To read more about org apps, see [Get started with org apps (preview)](org-app-items.md)
 
 ## Discover and access org apps 
 Org apps appear in the apps section alongside workspace apps, and in workspace content lists. You can filter a workspace by apps to view all available ones.  

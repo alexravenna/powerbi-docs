@@ -21,15 +21,25 @@
     href: end-user-sign-in.md
   - name: Get around the Power BI service
     href: end-user-experience.md
+  - name: Search and sort content
+    href: end-user-search-sort.md
+  - name: Apps
+    items:
+    - name: Apps in Power BI
+      href: end-user-apps.md
+    - name: Install and use apps
+      href: end-user-app-view.md
+    - name: Get started with org apps (preview)
+      href: org-app-items/org-app-items.md
   - name: Glossary and terminology
     href: end-user-glossary.md
   - name: Frequently asked questions
     href: end-user-faq.yml
 
 # =============================================================================
-# VIEW REPORTS AND DASHBOARDS
+# WORK WITH REPORTS AND DASHBOARDS
 # =============================================================================
-- name: View reports and dashboards
+- name: Work with reports and dashboards
   items:
   - name: Reports
     items:
@@ -41,6 +51,8 @@
       href: end-user-report-view.md
     - name: Interact with reports
       href: end-user-reading-view.md
+    - name: Set an alert on a report
+      href: business-user-set-alerts.md
   - name: Dashboards
     items:
     - name: Dashboards overview
@@ -49,28 +61,36 @@
       href: end-user-dashboard-open.md
     - name: Dashboard tiles
       href: end-user-tiles.md
-  - name: Visuals
-    items:
-    - name: Interact with visuals
-      href: end-user-visualizations.md
-    - name: How to use an ArcGIS map
-      href: end-user-arcgis.md
+    - name: Set a dashboard alert
+      href: end-user-alerts.md
+  - name: Print dashboards and reports
+    href: end-user-print.md
+  - name: Add a comment or start a conversation
+    href: end-user-comment.md
+  - name: View related content
+    href: end-user-related.md
+  - name: Check content freshness
+    href: end-user-fresh.md
 
 # =============================================================================
 # FILTER AND EXPLORE
 # =============================================================================
 - name: Filter and explore
   items:
-  - name: Use filters in a report
-    href: end-user-report-filter.md
+  - name: Interact with visuals
+    href: end-user-visualizations.md
   - name: Learn how visuals cross-filter each other
     href: end-user-interactions.md
+  - name: Change the sort order in a visual
+    href: end-user-change-sort.md
+  - name: Use an ArcGIS map
+    href: end-user-arcgis.md
+  - name: Use filters in a report
+    href: end-user-report-filter.md
   - name: Interact with report slicers
     href: end-user-slicer.md
   - name: Identify and use buttons
     href: end-user-buttons.md
-  - name: Change the sort order in a visual
-    href: end-user-change-sort.md
   - name: Use Explore (preview)
     href: explore-data-service.md
   - name: Ask questions with Q&A
@@ -79,6 +99,36 @@
       href: end-user-q-and-a.md
     - name: Tips and tricks for Q&A
       href: end-user-q-and-a-tips.md
+  - name: Use Copilot
+    items:
+    - name: Summarize report content
+      href: copilot-pane-summarize-content.md
+    - name: Chat with your data
+      href: copilot-chat-with-data-standalone.md
+    - name: "Tutorial: Discover data"
+      href: ../create-reports/tutorial-copilot-power-bi-discover-data.md
+    - name: "Tutorial: Explore data"
+      href: ../create-reports/tutorial-copilot-power-bi-explore-data.md
+  - name: Insights
+    items:
+    - name: View automatic insights for dashboard tiles
+      href: end-user-insights.md
+    - name: Types of Quick Insights
+      href: end-user-insight-types.md
+    - name: Analyze fluctuations in visuals
+      href: end-user-analyze-visuals.md
+  - name: Work with data
+    items:
+    - name: View data behind a visual
+      href: ../visuals/service-reports-show-data.md
+    - name: Export data from a visual
+      href: ../visuals/power-bi-visualization-export-data.md
+    - name: Understand data point limits
+      href: ../visuals/power-bi-data-points.md
+    - name: Understand anomaly detection
+      href: ../visuals/power-bi-visualization-anomaly-detection.md
+    - name: Interact with small multiples
+      href: ../visuals/power-bi-visualization-small-multiples-interact.md
 
 # =============================================================================
 # PERSONALIZE
@@ -91,56 +141,8 @@
     href: end-user-bookmarks.md
   - name: Spotlight visuals in a report
     href: end-user-spotlight.md
-  - name: Print dashboards and reports
-    href: end-user-print.md
-
-# =============================================================================
-# STAY INFORMED
-# =============================================================================
-- name: Stay informed
-  items:
-  - name: Alerts
-    items:
-    - name: Create a dashboard alert
-      href: end-user-alerts.md
-    - name: Set an alert on a report
-      href: business-user-set-alerts.md
-    - name: Set data alerts in mobile apps
-      href: mobile/mobile-set-data-alerts-in-the-mobile-apps.md
-  - name: Comments and collaboration
-    items:
-    - name: Add a comment or start a conversation
-      href: end-user-comment.md
-  - name: Insights
-    items:
-    - name: View automatic insights for dashboard tiles
-      href: end-user-insights.md
-    - name: Types of Quick Insights
-      href: end-user-insight-types.md
-    - name: Analyze fluctuations in visuals
-      href: end-user-analyze-visuals.md
-  - name: Check content freshness
-    href: end-user-fresh.md
-
-# =============================================================================
-# NAVIGATE AND ORGANIZE CONTENT
-# =============================================================================
-- name: Navigate and organize content
-  items:
   - name: Favorite dashboards, reports, and apps
     href: end-user-favorite.md
-  - name: Search and sort content
-    href: end-user-search-sort.md
-  - name: View related content
-    href: end-user-related.md
-  - name: Apps
-    items:
-    - name: Apps in Power BI
-      href: end-user-apps.md
-    - name: Install and use apps
-      href: end-user-app-view.md
-    - name: Get started with org apps (preview)
-      href: org-app-items/org-app-items.md
 
 # =============================================================================
 # USE POWER BI MOBILE

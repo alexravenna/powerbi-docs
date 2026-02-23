@@ -8,7 +8,6 @@ ms.service: powerbi
 ms.subservice: pbi-reports-dashboards
 ms.topic: concept-article
 ms.date: 01/20/2026
-LocalizationGroup: Create reports
 no-loc: [Copilot]
 ms.collection: ce-skilling-ai-copilot
 ---
