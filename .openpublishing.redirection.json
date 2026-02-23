@@ -1,6 +1,21 @@
 {
   "redirections": [
     {
+      "source_path": "powerbi-docs/explore-reports/end-user-consumer.md",
+      "redirect_url": "/power-bi/personas/business-user/end-user-consumer",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "powerbi-docs/create-reports/desktop-accessibility-consuming-tools.md",
+      "redirect_url": "/power-bi/explore-reports/desktop-accessibility-consuming-tools",
+      "redirect_document_id": true
+    },
+    {
+      "source_path": "powerbi-docs/collaborate-share/end-user-shared-with-me.md",
+      "redirect_url": "/power-bi/explore-reports/end-user-shared-with-me",
+      "redirect_document_id": true
+    },
+    {
       "source_path": "powerbi-docs/visuals/power-bi-visualization-types-for-reports-and-q-and-a.md",
       "redirect_url": "/power-bi/visuals/power-bi-visualizations-overview",
       "redirect_document_id": true
@@ -857,7 +872,7 @@
     },
     {
       "source_path": "powerbi-docs/explore-reports/end-user-consuming.md",
-      "redirect_url": "/power-bi/explore-reports/end-user-consumer",
+      "redirect_url": "/power-bi/personas/business-user/end-user-consumer",
       "redirect_document_id": false
     },
     {
@@ -1402,13 +1417,8 @@
     },
     {
       "source_path": "powerbi-docs/service-shared-with-me.md",
-      "redirect_url": "/power-bi/collaborate-share/end-user-shared-with-me",
+      "redirect_url": "/power-bi/explore-reports/end-user-shared-with-me",
       "redirect_document_id": false
-    },
-    {
-      "source_path": "powerbi-docs/explore-reports/end-user-shared-with-me.md",
-      "redirect_url": "/power-bi/collaborate-share/end-user-shared-with-me",
-      "redirect_document_id": true
     },
     {
       "source_path": "powerbi-docs/service-the-new-power-bi-experience.md",
@@ -4007,7 +4017,7 @@
     },
     {
       "source_path": "powerbi-docs/desktop-accessibility-consuming-tools.md",
-      "redirect_url": "/power-bi/create-reports/desktop-accessibility-consuming-tools",
+      "redirect_url": "/power-bi/explore-reports/desktop-accessibility-consuming-tools",
       "redirect_document_id": true
     },
     {

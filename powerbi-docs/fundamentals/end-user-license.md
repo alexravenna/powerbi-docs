@@ -20,7 +20,7 @@ ai-usage: ai-assisted
 
 [!INCLUDE[consumer-appliesto-ynnn](../includes/consumer-appliesto-ynnn.md)]
 
-As a [business user](../consumer/end-user-consumer.md), you use the Power BI service to explore reports and dashboards so you can make data-backed business decisions. If you've used Power BI for a while, you probably notice that some features only work if you have a certain type of license, subscription, or permissions.
+As a [business user](../personas/business-user/end-user-consumer.md), you use the Power BI service to explore reports and dashboards so you can make data-backed business decisions. If you've used Power BI for a while, you probably notice that some features only work if you have a certain type of license, subscription, or permissions.
 
 What you can do in the Power BI service depends on three things:
 
@@ -147,6 +147,6 @@ Power BI Pro creators share and collaborate with other Pro users in either works
 
 ## Related content
 
-- [Am I a Power BI business user?](../consumer/end-user-consumer.md)  
+- [Am I a Power BI business user?](../personas/business-user/end-user-consumer.md)  
 - [Purchase Power BI](https://www.microsoft.com/power-platform/products/power-bi/pricing)  
-- [Features for free users](../consumer/end-user-features.md)
+- [Features for free users](../explore-reports/end-user-features.md)

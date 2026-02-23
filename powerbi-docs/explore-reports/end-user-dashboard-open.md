@@ -42,7 +42,7 @@ On the left navigation pane, you can view and open dashboards from:
 - **Browse**
   - **Recent** - if you recently visited a dashboard
   - **Favorites** - if you [set a dashboard as a favorite](end-user-favorite.md)
-  - **Shared with me** - if a colleague [shared a dashboard with you](/power-bi/collaborate-share/end-user-shared-with-me)
+  - **Shared with me** - if a colleague [shared a dashboard with you](end-user-shared-with-me.md)
 - **Data hub** - contains content from across your organization
 - **Apps** - most apps contain both dashboards and reports
 - **Workspaces**, including **My workspace** - if you downloaded any of the [Power BI samples](/power-bi/create-reports/sample-datasets) or other content, or if colleagues shared content with you.

@@ -197,4 +197,4 @@ The second column represents a free user working with content in a workspace tha
 
 ## Related content
 
-- [Power BI for *business users*](end-user-consumer.md)
+- [Power BI for *business users*](../personas/business-user/end-user-consumer.md)

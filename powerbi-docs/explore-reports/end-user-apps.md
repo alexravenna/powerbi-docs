@@ -72,4 +72,4 @@ There are a few other ways to get apps.
 ## Related content
 
 - [Install and use apps with dashboards and reports in Power BI](end-user-app-view.md)
-- [Other ways to share content](../collaborate-share/end-user-shared-with-me.md)
+- [Other ways to share content](end-user-shared-with-me.md)

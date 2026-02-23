@@ -159,4 +159,4 @@ If you got a template app from AppSource, the next time you open the app, you se
 
 - [Back to the apps overview](end-user-apps.md)
 - [View a Power BI report](end-user-report-open.md)
-- [Other ways content is shared with you](../collaborate-share/end-user-shared-with-me.md)
+- [Other ways content is shared with you](end-user-shared-with-me.md)

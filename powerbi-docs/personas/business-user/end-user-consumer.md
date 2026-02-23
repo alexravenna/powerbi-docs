@@ -16,7 +16,7 @@ ms.custom: intro-overview
 
 # The Power BI service for business users
 
-[!INCLUDE[consumer-appliesto-ynnn](../includes/consumer-appliesto-ynnn.md)]
+[!INCLUDE[consumer-appliesto-ynnn](../../includes/consumer-appliesto-ynnn.md)]
 
 You live in a data culture where business decisions are based on facts, not opinions. You need data to make these decisions, and your colleagues don't let you down. They send you all types of reports, spreadsheets, emails with charts, and even printed handouts.
 
@@ -51,7 +51,7 @@ Because you're working with content that is shared with you, at least one of the
 > [!NOTE]
 > Users with PPU capacity subscriptions can only share content with other users who also have a PPU license.
 
-For more information about licenses and subscriptions, see [Which license do I have?](../fundamentals/end-user-license.md)
+For more information about licenses and subscriptions, see [Which license do I have?](../../fundamentals/end-user-license.md)
 
 ## Safely interact with content
 
@@ -65,6 +65,6 @@ That limitation doesn't mean that you can't save your changes. You can, but thos
 
 ## Related content
 
-- [Take a tour of the Power BI service for business users.](end-user-reading-view.md)  
+- [Take a tour of the Power BI service for business users.](../../explore-reports/end-user-reading-view.md)  
 - [Power BI service training for business users.](/training/paths/consume-data-with-power-bi/)  
-- [Basics of the Power BI service](../fundamentals/service-basic-concepts.md)
+- [Basics of the Power BI service](../../fundamentals/service-basic-concepts.md)

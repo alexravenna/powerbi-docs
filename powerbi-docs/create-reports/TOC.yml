@@ -1414,8 +1414,6 @@
       href: desktop-accessibility-creating-reports.md      
     - name: Create reports with accessibility tools
       href: desktop-accessibility-creating-tools.md 
-    - name: Consume reports with accessibility features
-      href: desktop-accessibility-consuming-tools.md             
     - name: Keyboard shortcuts in Power BI Desktop
       href: desktop-accessibility-keyboard-shortcuts.md                            
   - name: Other tasks

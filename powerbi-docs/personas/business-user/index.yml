@@ -20,7 +20,7 @@ landingContent:
       - linkListType: get-started
         links:
           - text: Am I a Power BI business user?
-            url: ../../explore-reports/end-user-consumer.md?context=/power-bi/personas/business-user/context/context
+            url: end-user-consumer.md
           - text: Get around in the Power BI service
             url: ../../explore-reports/end-user-experience.md?context=/power-bi/personas/business-user/context/context
           - text: Sign in to Power BI
@@ -86,7 +86,7 @@ landingContent:
           - text: Set data alerts
             url: ../../explore-reports/end-user-alerts.md?context=/power-bi/personas/business-user/context/context
           - text: View shared content
-            url: ../../collaborate-share/end-user-shared-with-me.md?context=/power-bi/personas/business-user/context/context
+            url: ../../explore-reports/end-user-shared-with-me.md?context=/power-bi/personas/business-user/context/context
           - text: Add favorites
             url: ../../explore-reports/end-user-favorite.md?context=/power-bi/personas/business-user/context/context
 

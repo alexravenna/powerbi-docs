@@ -201,4 +201,4 @@ This article is a quick overview of just some of the things *business users* can
 
 ## Related content
 
-- [Power BI for business users](end-user-consumer.md)
+- [Power BI for business users](../personas/business-user/end-user-consumer.md)

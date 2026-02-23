@@ -17,7 +17,7 @@ ai-usage: ai-assisted
 
 A Power BI report is one or more pages of organized visuals. All Power BI users can create and edit their own reports. However, opening reports created by others requires a paid license (Power BI Pro or Premium Per User) or special access to a [Premium capacity](../fundamentals/end-user-license.md#find-out-if-you-have-access-to-premium-capacity).
 
-This article teaches you how to open reports that are shared with you. The most common scenarios are covered. The first scenario is when a Power BI designer creates a report and [shares it directly](../collaborate-share/end-user-shared-with-me.md). The second scenario is when a designer shares a report as part of an [app](end-user-apps.md). 
+This article teaches you how to open reports that are shared with you. The most common scenarios are covered. The first scenario is when a Power BI designer creates a report and [shares it directly](end-user-shared-with-me.md). The second scenario is when a designer shares a report as part of an [app](end-user-apps.md). 
 
 For more information about sharing reports, see [Licenses and subscriptions for business users](../fundamentals/end-user-license.md).
 

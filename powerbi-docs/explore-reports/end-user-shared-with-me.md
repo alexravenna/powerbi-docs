@@ -10,7 +10,7 @@ ms.search.form: product-power-bi, See content that others have shared with me
 ms.topic: how-to
 ms.date: 01/12/2026
 ai-usage: ai-assisted
-LocalizationGroup: Dashboards
+LocalizationGroup: Consumer
 ---
 
 # View shared dashboards and reports in Power BI
@@ -23,7 +23,7 @@ Your colleagues create apps, reports, dashboards, scorecards, workspaces, and se
 
 ## Interact with shared content
 
-You have options for interacting with the shared dashboards and reports, depending on the permissions the *designer* gives you. These interactions include being able to make copies of the dashboard, subscribe, edit a report, and reshare with other colleagues. For more information, see [Share Power BI reports and dashboards with coworkers and others](service-share-dashboards.md).
+You have options for interacting with the shared dashboards and reports, depending on the permissions the *designer* gives you. These interactions include being able to make copies of the dashboard, subscribe, edit a report, and reshare with other colleagues. For more information, see [Share Power BI reports and dashboards with coworkers and others](../collaborate-share/service-share-dashboards.md).
 
 ## Licenses for viewing shared content
 
@@ -38,7 +38,7 @@ Content that others directly share with you appears in your **Shared with me** t
 
 :::image type="content" source="./media/end-user-shared-with-me/power-bi-shared-list.png" alt-text="Screenshot of the nav pane, browse menu, and Shared with me window.":::
 
-From this list, you can [favorite](../consumer/end-user-favorite.md) and open content.
+From this list, you can [favorite](end-user-favorite.md) and open content.
 
 If your **Shared with me** content list gets long, use several options to find what you need. Sort by one of the columns (1), use the keyword filter field (2), or use the Filters pane (3). To open the Filters pane, select **Filters** from the upper right corner.
 
@@ -56,19 +56,19 @@ Your **Apps** tab shows apps that others share directly with you and apps you do
 
 1. You receive the app as a link in an email, and you select the link.
 1. The app *creator* or *owner* automatically installs the app for you.
-1. You install the app from [AppSource](../consumer/end-user-apps.md#get-a-new-app).
+1. You install the app from [AppSource](end-user-apps.md#get-a-new-app).
 
 Scroll through **Apps** to see reports, dashboards, and scorecards. To display the list, select the **Apps** icon from the nav pane.
 
 :::image type="content" source="media/end-user-shared-with-me/power-bi-app.png" alt-text="Screenshot of the Apps icon highlighted in the nav panel and apps listed in the main pane.":::
 
-For more information, see [Apps in Power BI](../consumer/end-user-apps.md).
+For more information, see [Apps in Power BI](end-user-apps.md).
 
 ## Collaborate on content in a *workspace*
 
-*Creators* can share content by granting you a [role](service-roles-new-workspaces.md) in a workspace. What you can do with the content in that workspace depends on the role assigned to you: Viewer, Contributor, Member, or Admin.
+*Creators* can share content by granting you a [role](../collaborate-share/service-roles-new-workspaces.md) in a workspace. What you can do with the content in that workspace depends on the role assigned to you: Viewer, Contributor, Member, or Admin.
 
 ## Related content
 
-- [Ways to collaborate and share reports and dashboards in Power BI](service-share-dashboards.md)
+- [Ways to collaborate and share reports and dashboards in Power BI](../collaborate-share/service-share-dashboards.md)
 - [Introduction to semantic models across workspaces](../connect-data/service-datasets-across-workspaces.md)

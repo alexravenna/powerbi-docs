@@ -5,11 +5,11 @@ author: JulCsc
 ms.author: juliacawthra
 ms.reviewer: ''
 ms.service: powerbi
-ms.subservice: pbi-reports-dashboards
+ms.subservice: pbi-explore
 ms.topic: concept-article
 ms.date: 12/01/2025
 ai-usage: ai-assisted
-LocalizationGroup: Create reports
+LocalizationGroup: Consumer
 #customer intent: As a Power BI user I want to learn how to use built-in accessibility features.
 ---
 
@@ -32,7 +32,7 @@ When you launch Power BI Desktop or the Power BI service, as soon as you press *
 
 :::image type="content" source="media/desktop-accessibility/accessibility-consuming-tool-02.png" alt-text="Screenshot of the tab accessibility options.":::
 
-Pressing **?** opens a dialog with the most frequently used keyboard shortcuts in Power BI. To see a full list of keyboard shortcuts available in Power BI, you can navigate to the link at the bottom of the dialog, which takes you to the Power BI documentation on [keyboard shortcuts](desktop-accessibility-keyboard-shortcuts.md).
+Pressing **?** opens a dialog with the most frequently used keyboard shortcuts in Power BI. To see a full list of keyboard shortcuts available in Power BI, you can navigate to the link at the bottom of the dialog, which takes you to the Power BI documentation on [keyboard shortcuts](../create-reports/desktop-accessibility-keyboard-shortcuts.md).
 
 :::image type="content" source="media/desktop-accessibility/accessibility-consuming-tools-03.png" alt-text="Screenshot of the keyboard shortcuts dialog.":::
 
@@ -120,8 +120,8 @@ To activate, select **View > Show visuals as tables**. To revert back to origina
 
 A collection of articles for Power BI accessibility:
 
-- [Overview of accessibility in Power BI](desktop-accessibility-overview.md)
-- [Design Power BI reports for accessibility](desktop-accessibility-creating-reports.md)
-- [Creating reports in Power BI using accessibility tools](desktop-accessibility-creating-tools.md)
-- [Keyboard shortcuts in Power BI Desktop](desktop-accessibility-keyboard-shortcuts.md)
-- [Report accessibility checklist](desktop-accessibility-creating-reports.md#report-accessibility-checklist)
+- [Overview of accessibility in Power BI](../create-reports/desktop-accessibility-overview.md)
+- [Design Power BI reports for accessibility](../create-reports/desktop-accessibility-creating-reports.md)
+- [Creating reports in Power BI using accessibility tools](../create-reports/desktop-accessibility-creating-tools.md)
+- [Keyboard shortcuts in Power BI Desktop](../create-reports/desktop-accessibility-keyboard-shortcuts.md)
+- [Report accessibility checklist](../create-reports/desktop-accessibility-creating-reports.md#report-accessibility-checklist)
