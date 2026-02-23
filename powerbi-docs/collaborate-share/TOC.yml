@@ -50,6 +50,8 @@
     items: 
     - name: "Workspaces in Power BI"
       href: service-new-workspaces.md
+    - name: "Workspaces for business users"
+      href: ../consumer/end-user-workspaces.md
     - name: "Create workspaces"
       href: service-create-the-new-workspaces.md
     - name: "Roles in workspaces"

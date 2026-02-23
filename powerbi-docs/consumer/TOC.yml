@@ -6,8 +6,6 @@
     items:
     - name: "What is a Power BI business user?"
       href: end-user-consumer.md
-    - name: "List of features"
-      href: end-user-features.md
     - name: "Glossary and terminology"
       href: end-user-glossary.md
     - name: "Frequently asked questions"
@@ -22,8 +20,6 @@
     items:
     - name: "Favorite dashboards, reports, and apps"
       href: end-user-favorite.md
-    - name: "Workspaces in Power BI"
-      href: end-user-workspaces.md
     - name: "Apps in Power BI"
       href: end-user-apps.md
     - name: "Install and use apps"
@@ -37,8 +33,6 @@
     - name: "Look up the content owner and last refreshed date"
       href: end-user-fresh.md
       displayName: apps, org apps, preview, distribution, sharing
-    - name: Org apps and CI/CD
-      href: org-app-items/org-app-cicd.md
   - name: "Monitor key metrics with dashboards"
     items:
     - name: "Dashboards overview"
@@ -77,8 +71,6 @@
       href: end-user-reading-view.md
     - name: "Interact with visuals"
       href: end-user-visualizations.md
-    - name: "Drill down in a visualization"
-      href: ../create-reports/desktop-drillthrough.md
     - name: "How to use an ArcGIS map in Power BI"
       href: end-user-arcgis.md
   - name: "Ask questions and use AI assistance"
@@ -114,8 +106,6 @@
         href: mobile/mobile-whats-new-in-the-mobile-apps.md
       - name: "Meet the home page"
         href: mobile/mobile-apps-home-page.md
-      - name: "Download samples in the Power BI service"
-        href: mobile/mobile-apps-download-samples.md
     - name: "Explore content"
       items:
       - name: "Explore dashboards and reports"
@@ -144,8 +134,6 @@
         href: mobile/mobile-share-dashboard-from-the-mobile-apps.md
       - name: "Work with metrics"
         href: mobile/mobile-apps-metrics.md
-      - name: "Create a deep link"
-        href: mobile/mobile-apps-deep-link-specific-location.md
       - name: "Filter a report by location"
         href: mobile/mobile-apps-geographic-filtering.md
       - name: "Use data in real-world context"
@@ -154,20 +142,14 @@
         href: mobile/mobile-apps-qr-code.md
       - name: "Scan barcodes"
         href: mobile/mobile-apps-scan-barcode.md
-      - name: "Use NFC tags"
-        href: mobile/mobile-apps-nfc-tags.md
       - name: "Ask questions with Q&A virtual analyst"
         href: mobile/tutorial-mobile-apps-ios-qna.md
       - name: "Dark mode"
         href: mobile/mobile-apps-dark-mode.md
-    - name: "Manage offline access, security, and administration"
+    - name: "Manage offline access and external content"
       items:
       - name: "View your data offline"
         href: mobile/mobile-apps-offline-data.md
-      - name: "Admin: Configuration (MDM)"
-        href: mobile/mobile-app-configuration.md
-      - name: "Admin: Shared device mode"
-        href: mobile/mobile-app-shared-device-mode.md
       - name: "Access external org content (B2B)"
         href: mobile/mobile-apps-b2b.md
     - name: Platform specifics
@@ -186,16 +168,8 @@
           href: mobile/mobile-android-app-get-started.md
         - name: "Use Android app Shortcuts"
           href: mobile/mobile-app-quick-access-shortcuts.md
-        - name: "Fix 'corporate SSL certificate untrusted'"
-          href: mobile/mobile-android-app-error-corporate-ssl-account-is-untrusted.md
-    - name: "Use advanced and developer features"
+    - name: "Advanced features"
       items:
-      - name: "Work with semantic models"
-        href: mobile/mobile-apps-dataset-refresh.md
-      - name: "Set up a launch item"
-        href: mobile/mobile-apps-launch-item.md
-      - name: "Configure interaction settings"
-        href: mobile/mobile-app-interaction-settings.md
       - name: "Work side by side with other apps"
         href: mobile/mobile-apps-split-screen.md
     - name: Resources
@@ -210,8 +184,6 @@
       href: business-user-teams-goals.md
     - name: "Lead data-driven discussions"
       href: business-user-teams-share-data.md
-    - name: "Create reports from your data"
-      href: business-user-teams-create-reports.md
   - name: "Personalize, present, and print content"
     items:
     - name: "Print dashboards and reports"
