@@ -123,7 +123,7 @@ For more information about how to integrate teams with Power BI, see:
 
 - [Add the Power BI app to Microsoft Teams](../collaborate-share/service-microsoft-teams-app.md): Integrate the Power BI experience into Microsoft Teams.
 - [Embed interactive reports in Teams channels and chats with a Power BI tab](../collaborate-share/service-embed-report-microsoft-teams.md): Help colleagues find and discuss your team's data.
-- [Use interactive reports in Teams meetings](../consumer/business-user-teams-meetings.md): Discuss a report during a meeting, or use the report to support the meeting objectives.
+- [Use interactive reports in Teams meetings](../explore-reports/business-user-teams-meetings.md): Discuss a report during a meeting, or use the report to support the meeting objectives.
 - [Create a link preview in the Teams message box](../collaborate-share/service-teams-link-preview.md): Paste links to reports, dashboards, or Power BI apps.
 - [Chat in Microsoft Teams directly from within the Power BI service](../collaborate-share/service-share-report-teams.md): Share a filtered view of reports and dashboards, and start conversations.
 - [View all the Power BI tabs you have in Microsoft Teams](../collaborate-share/service-teams-pivot.md): Select the _In Teams_ tab on the Power BI app home page.

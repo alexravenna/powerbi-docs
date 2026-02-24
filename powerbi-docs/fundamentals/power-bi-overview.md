@@ -78,7 +78,7 @@ Power BI has two main components: **Power BI Desktop** and the **Power BI servic
 |-----------------|-----------------------------------------------|---------------------------------------|
 | Create reports  | [Power BI Desktop](desktop-getting-started.md) | Full data modeling and design tools   |
 | Share with team | [Power BI service](service-get-started.md)     | Collaboration and sharing features    |
-| View on mobile  | [Power BI Mobile apps](../consumer/mobile/mobile-apps-for-mobile-devices.md) | Optimized for phones and tablets |
+| View on mobile  | [Power BI Mobile apps](../explore-reports/mobile/mobile-apps-for-mobile-devices.md) | Optimized for phones and tablets |
 
 ## Core features of Power BI Desktop and the Power BI service
 
@@ -120,4 +120,4 @@ The Power BI ecosystem includes specialized tools and features to enhance report
 - [Basic concepts for report designers](service-basic-concepts.md)
 - [What is Microsoft Fabric?](/fabric/get-started/microsoft-fabric-overview)
 - [Compare Power BI Desktop and Power BI service](../fundamentals/service-service-vs-desktop.md)
-- [Tutorial: Navigate the Power BI service](../consumer/end-user-experience.md)
+- [Tutorial: Navigate the Power BI service](../explore-reports/end-user-experience.md)

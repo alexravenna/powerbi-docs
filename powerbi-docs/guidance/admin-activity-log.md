@@ -318,7 +318,7 @@ Here's a sample JSON response. It includes two activities that the user performe
 
 ## Example 4: View three activities for N days
 
-Sometimes you might want to investigate several related activities. This example shows how to retrieve three specific activities for the previous seven days. It focuses on activities related to [Power BI apps](../consumer/end-user-apps.md) including creating an app, updating an app, and installing an app.
+Sometimes you might want to investigate several related activities. This example shows how to retrieve three specific activities for the previous seven days. It focuses on activities related to [Power BI apps](../explore-reports/end-user-apps.md) including creating an app, updating an app, and installing an app.
 
 ### Sample request 4
 
