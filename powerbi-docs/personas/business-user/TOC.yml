@@ -61,44 +61,62 @@
       href: ../../explore-reports/end-user-dashboard-open.md?context=/power-bi/personas/business-user/context/context
     - name: Interact with dashboard tiles
       href: ../../explore-reports/end-user-tiles.md?context=/power-bi/personas/business-user/context/context
+  - name: Paginated reports
+    items:
+    - name: Paginated reports overview
+      href: ../../explore-reports/end-user-paginated-report.md?context=/power-bi/personas/business-user/context/context
+    - name: View a paginated report
+      href: ../../explore-reports/paginated-reports-view-power-bi-service.md?context=/power-bi/personas/business-user/context/context
+    - name: Interact with parameters
+      href: ../../explore-reports/paginated-reports-view-parameters.md?context=/power-bi/personas/business-user/context/context
   - name: View related content
     href: ../../explore-reports/end-user-related.md?context=/power-bi/personas/business-user/context/context
   - name: Check content freshness
     href: ../../explore-reports/end-user-fresh.md?context=/power-bi/personas/business-user/context/context
-  - name: Add comments
-    href: ../../explore-reports/end-user-comment.md?context=/power-bi/personas/business-user/context/context
-  - name: Use accessibility features
-    href: ../../explore-reports/desktop-accessibility-consuming-tools.md?context=/power-bi/personas/business-user/context/context
 
 # =============================================================================
-# FILTER AND INTERACT
+# UNDERSTAND DATA AND INSIGHTS
 # =============================================================================
-- name: Filter and interact
+- name: Understand data and insights
   items:
-  - name: Interact with visuals
-    href: ../../explore-reports/end-user-visualizations.md?context=/power-bi/personas/business-user/context/context
-  - name: Understand cross-filtering
-    href: ../../explore-reports/end-user-interactions.md?context=/power-bi/personas/business-user/context/context
-  - name: Change sort order
-    href: ../../explore-reports/end-user-change-sort.md?context=/power-bi/personas/business-user/context/context
-  - name: Use filters
-    href: ../../explore-reports/end-user-report-filter.md?context=/power-bi/personas/business-user/context/context
-  - name: Use slicers
-    href: ../../explore-reports/end-user-slicer.md?context=/power-bi/personas/business-user/context/context
-  - name: Use buttons and actions
-    href: ../../explore-reports/end-user-buttons.md?context=/power-bi/personas/business-user/context/context
-  - name: Use Explore (preview)
-    href: ../../explore-reports/explore-data-service.md?context=/power-bi/personas/business-user/context/context
-  - name: Use ArcGIS maps
-    href: ../../explore-reports/end-user-arcgis.md?context=/power-bi/personas/business-user/context/context
-  - name: Interact with small multiples
-    href: ../../visuals/power-bi-visualization-small-multiples-interact.md?context=/power-bi/personas/business-user/context/context
+  - name: View automatic insights
+    href: ../../explore-reports/end-user-insights.md?context=/power-bi/personas/business-user/context/context
+  - name: Types of insights
+    href: ../../explore-reports/end-user-insight-types.md?context=/power-bi/personas/business-user/context/context
+  - name: Analyze fluctuations in visuals
+    href: ../../explore-reports/end-user-analyze-visuals.md?context=/power-bi/personas/business-user/context/context
+  - name: Understand anomaly detection
+    href: ../../visuals/power-bi-visualization-anomaly-detection.md?context=/power-bi/personas/business-user/context/context
+  - name: View data behind a visual
+    href: ../../visuals/service-reports-show-data.md?context=/power-bi/personas/business-user/context/context
+  - name: Understand data point limits
+    href: ../../visuals/power-bi-data-points.md?context=/power-bi/personas/business-user/context/context
 
 # =============================================================================
-# ASK QUESTIONS WITH AI
+# EXPLORE DATA TO ANSWER QUESTIONS
 # =============================================================================
-- name: Ask questions with AI
+- name: Explore data to answer questions
   items:
+  - name: Filter and interact
+    items:
+    - name: Interact with visuals
+      href: ../../explore-reports/end-user-visualizations.md?context=/power-bi/personas/business-user/context/context
+    - name: Understand cross-filtering
+      href: ../../explore-reports/end-user-interactions.md?context=/power-bi/personas/business-user/context/context
+    - name: Change sort order
+      href: ../../explore-reports/end-user-change-sort.md?context=/power-bi/personas/business-user/context/context
+    - name: Use filters
+      href: ../../explore-reports/end-user-report-filter.md?context=/power-bi/personas/business-user/context/context
+    - name: Use slicers
+      href: ../../explore-reports/end-user-slicer.md?context=/power-bi/personas/business-user/context/context
+    - name: Use buttons and actions
+      href: ../../explore-reports/end-user-buttons.md?context=/power-bi/personas/business-user/context/context
+    - name: Use Explore (preview)
+      href: ../../explore-reports/explore-data-service.md?context=/power-bi/personas/business-user/context/context
+    - name: Use ArcGIS maps
+      href: ../../explore-reports/end-user-arcgis.md?context=/power-bi/personas/business-user/context/context
+    - name: Interact with small multiples
+      href: ../../visuals/power-bi-visualization-small-multiples-interact.md?context=/power-bi/personas/business-user/context/context
   - name: Use Q&A
     items:
     - name: Q&A overview
@@ -117,47 +135,9 @@
       href: ../../create-reports/tutorial-copilot-power-bi-explore-data.md?context=/power-bi/personas/business-user/context/context
 
 # =============================================================================
-# DISCOVER INSIGHTS
+# PERSONALIZE YOUR EXPERIENCE
 # =============================================================================
-- name: Discover insights
-  items:
-  - name: View automatic insights
-    href: ../../explore-reports/end-user-insights.md?context=/power-bi/personas/business-user/context/context
-  - name: Types of insights
-    href: ../../explore-reports/end-user-insight-types.md?context=/power-bi/personas/business-user/context/context
-  - name: Analyze fluctuations in visuals
-    href: ../../explore-reports/end-user-analyze-visuals.md?context=/power-bi/personas/business-user/context/context
-  - name: Understand anomaly detection
-    href: ../../visuals/power-bi-visualization-anomaly-detection.md?context=/power-bi/personas/business-user/context/context
-
-# =============================================================================
-# EXPORT AND SHARE
-# =============================================================================
-- name: Export and share
-  items:
-  - name: View data behind a visual
-    href: ../../visuals/service-reports-show-data.md?context=/power-bi/personas/business-user/context/context
-  - name: Export data from a visual
-    href: ../../visuals/power-bi-visualization-export-data.md?context=/power-bi/personas/business-user/context/context
-  - name: Understand data point limits
-    href: ../../visuals/power-bi-data-points.md?context=/power-bi/personas/business-user/context/context
-  - name: Export a report to PDF
-    href: ../../collaborate-share/end-user-pdf.md?context=/power-bi/personas/business-user/context/context
-  - name: Export a report to PowerPoint
-    href: ../../collaborate-share/end-user-powerpoint.md?context=/power-bi/personas/business-user/context/context
-  - name: Subscribe to reports and dashboards
-    href: ../../collaborate-share/end-user-subscribe.md?context=/power-bi/personas/business-user/context/context
-  - name: Set alerts on reports
-    href: ../../explore-reports/business-user-set-alerts.md?context=/power-bi/personas/business-user/context/context
-  - name: Set alerts on dashboards
-    href: ../../explore-reports/end-user-alerts.md?context=/power-bi/personas/business-user/context/context
-  - name: Print reports and dashboards
-    href: ../../explore-reports/end-user-print.md?context=/power-bi/personas/business-user/context/context
-
-# =============================================================================
-# PERSONALIZE YOUR VIEW
-# =============================================================================
-- name: Personalize your view
+- name: Personalize your experience
   items:
   - name: Personalize visuals
     href: ../../explore-reports/end-user-personalize-visuals.md?context=/power-bi/personas/business-user/context/context
@@ -169,9 +149,45 @@
     href: ../../explore-reports/end-user-favorite.md?context=/power-bi/personas/business-user/context/context
 
 # =============================================================================
-# USE POWER BI MOBILE
+# COLLABORATE AND SHARE INSIGHTS
 # =============================================================================
-- name: Use Power BI mobile
+- name: Collaborate and share insights
+  items:
+  - name: Add comments
+    href: ../../explore-reports/end-user-comment.md?context=/power-bi/personas/business-user/context/context
+  - name: Export a report to PDF
+    href: ../../collaborate-share/end-user-pdf.md?context=/power-bi/personas/business-user/context/context
+  - name: Export a report to PowerPoint
+    href: ../../collaborate-share/end-user-powerpoint.md?context=/power-bi/personas/business-user/context/context
+  - name: Export data from a visual
+    href: ../../visuals/power-bi-visualization-export-data.md?context=/power-bi/personas/business-user/context/context
+  - name: Print reports and dashboards
+    href: ../../explore-reports/end-user-print.md?context=/power-bi/personas/business-user/context/context
+  - name: Use Power BI in Teams
+    items:
+    - name: Use data for productive meetings
+      href: ../../explore-reports/business-user-teams-meetings.md?context=/power-bi/personas/business-user/context/context
+    - name: Use metrics to drive results
+      href: ../../explore-reports/business-user-teams-goals.md?context=/power-bi/personas/business-user/context/context
+    - name: Lead data-driven discussions
+      href: ../../explore-reports/business-user-teams-share-data.md?context=/power-bi/personas/business-user/context/context
+
+# =============================================================================
+# STAY INFORMED WITH ALERTS AND SUBSCRIPTIONS
+# =============================================================================
+- name: Stay informed with alerts and subscriptions
+  items:
+  - name: Subscribe to reports and dashboards
+    href: ../../collaborate-share/end-user-subscribe.md?context=/power-bi/personas/business-user/context/context
+  - name: Set alerts on reports
+    href: ../../explore-reports/business-user-set-alerts.md?context=/power-bi/personas/business-user/context/context
+  - name: Set alerts on dashboards
+    href: ../../explore-reports/end-user-alerts.md?context=/power-bi/personas/business-user/context/context
+
+# =============================================================================
+# USE POWER BI ON MOBILE
+# =============================================================================
+- name: Use Power BI on mobile
   items:
   - name: Overview
     items:
@@ -253,28 +269,22 @@
       href: ../../explore-reports/mobile/mobile-apps-supported-languages.md?context=/power-bi/personas/business-user/context/context
 
 # =============================================================================
-# VIEW PAGINATED REPORTS
+# WORK ACCESSIBLY AND EFFICIENTLY
 # =============================================================================
-- name: View paginated reports
+- name: Work accessibly and efficiently
   items:
-  - name: Paginated reports overview
-    href: ../../explore-reports/end-user-paginated-report.md?context=/power-bi/personas/business-user/context/context
-  - name: View a paginated report
-    href: ../../explore-reports/paginated-reports-view-power-bi-service.md?context=/power-bi/personas/business-user/context/context
-  - name: Interact with parameters
-    href: ../../explore-reports/paginated-reports-view-parameters.md?context=/power-bi/personas/business-user/context/context
+  - name: Use accessibility features
+    href: ../../explore-reports/desktop-accessibility-consuming-tools.md?context=/power-bi/personas/business-user/context/context
 
 # =============================================================================
-# USE POWER BI IN TEAMS
+# WHAT BUSINESS USERS DON'T MANAGE
 # =============================================================================
-- name: Use Power BI in Teams
+- name: What business users don't manage
   items:
-  - name: Use data for productive meetings
-    href: ../../explore-reports/business-user-teams-meetings.md?context=/power-bi/personas/business-user/context/context
-  - name: Use metrics to drive results
-    href: ../../explore-reports/business-user-teams-goals.md?context=/power-bi/personas/business-user/context/context
-  - name: Lead data-driven discussions
-    href: ../../explore-reports/business-user-teams-share-data.md?context=/power-bi/personas/business-user/context/context
+  - name: Understand workspaces
+    href: ../../collaborate-share/end-user-workspaces.md?context=/power-bi/personas/business-user/context/context
+  - name: Understand licenses
+    href: ../../fundamentals/end-user-license.md?context=/power-bi/personas/business-user/context/context
 
 # =============================================================================
 # RESOURCES (don't change this - standardized with Fabric)

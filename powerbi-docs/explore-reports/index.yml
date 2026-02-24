@@ -11,115 +11,112 @@ metadata:
   ms.update-cycle: 1095-days
   author: julcsc
   ms.author: juliacawthra
-  ms.date: 02/23/2026
+  ms.date: 02/24/2026
   ai-usage: ai-assisted
 
 landingContent:
 
-  - title: About report exploration
-    linkLists:
-      - linkListType: overview
-        links:
-          - text: Explore reports in Power BI
-            url: explore-reports-overview.md
-          - text: What are reports?
-            url: end-user-reports.md
-          - text: What are dashboards?
-            url: end-user-dashboards.md
-          - text: What are apps?
-            url: end-user-apps.md
-
-  - title: Get started
-    linkLists:
-      - linkListType: quickstart
-        links:
-          - text: Sign in for the first time
-            url: end-user-sign-in.md
-          - text: Get around the Power BI service
-            url: end-user-experience.md
-          - text: Open and view a report
-            url: end-user-report-open.md
-      - linkListType: video
-        links:
-          - text: Power BI videos
-            url: ../fundamentals/videos.md
-
-  - title: Find answers with AI
+  - title: Find what matters
     linkLists:
       - linkListType: how-to-guide
         links:
+          - text: Search and sort content
+            url: end-user-search-sort.md
+          - text: Find content shared with you
+            url: end-user-shared-with-me.md
           - text: Ask questions with Q&A
             url: end-user-q-and-a.md
           - text: Chat with your data using Copilot
             url: copilot-chat-with-data-standalone.md
-          - text: Summarize reports with Copilot
-            url: copilot-pane-summarize-content.md
-      - linkListType: tutorial
-        links:
-          - text: "Tutorial: Discover data with Copilot"
-            url: ../create-reports/tutorial-copilot-power-bi-discover-data.md
 
-  - title: Analyze and discover insights
+  - title: Filter and slice data
     linkLists:
-      - linkListType: concept
-        links:
-          - text: Understand cross-filtering
-            url: end-user-interactions.md
-          - text: Types of automatic insights
-            url: end-user-insight-types.md
       - linkListType: how-to-guide
         links:
-          - text: Use filters and slicers
+          - text: Use filters in a report
             url: end-user-report-filter.md
-          - text: Analyze fluctuations in visuals
-            url: end-user-analyze-visuals.md
+          - text: Use slicers to filter data
+            url: end-user-slicer.md
+          - text: Understand cross-filtering
+            url: end-user-interactions.md
+          - text: Change the sort order
+            url: end-user-change-sort.md
+
+  - title: Drill into details
+    linkLists:
+      - linkListType: how-to-guide
+        links:
+          - text: Use drillthrough in reports
+            url: ../create-reports/desktop-drillthrough.md
+          - text: Use the decomposition tree
+            url: ../visuals/power-bi-visualization-decomposition-tree.md
+          - text: Use buttons and actions
+            url: end-user-buttons.md
+          - text: Use Explore (preview)
+            url: explore-data-service.md
+
+  - title: Interact with visuals
+    linkLists:
+      - linkListType: how-to-guide
+        links:
+          - text: Work with visuals in a report
+            url: end-user-visualizations.md
+          - text: Interact with dashboard tiles
+            url: end-user-tiles.md
+          - text: Use ArcGIS maps
+            url: end-user-arcgis.md
+          - text: Interact with small multiples
+            url: ../visuals/power-bi-visualization-small-multiples-interact.md
+
+  - title: Analyze and uncover insights
+    linkLists:
+      - linkListType: how-to-guide
+        links:
           - text: View automatic insights
             url: end-user-insights.md
+          - text: Analyze fluctuations in visuals
+            url: end-user-analyze-visuals.md
+          - text: Understand anomaly detection
+            url: ../visuals/power-bi-visualization-anomaly-detection.md
+          - text: Use key influencers
+            url: ../visuals/power-bi-visualization-influencers.md
 
-  - title: Customize and save your view
+  - title: Compare data and trends
+    linkLists:
+      - linkListType: how-to-guide
+        links:
+          - text: Compare with small multiples
+            url: ../visuals/power-bi-visualization-small-multiples.md
+          - text: Use the Analytics pane
+            url: ../transform-model/desktop-analytics-pane.md
+          - text: Use scatter charts
+            url: ../visuals/power-bi-visualization-scatter.md
+          - text: Use line charts
+            url: ../visuals/power-bi-line-chart.md
+
+  - title: Customize your view
     linkLists:
       - linkListType: how-to-guide
         links:
           - text: Personalize visuals
             url: end-user-personalize-visuals.md
+          - text: Change report display settings
+            url: end-user-report-view.md
+          - text: Spotlight visuals
+            url: end-user-spotlight.md
+
+  - title: Save and reuse views
+    linkLists:
+      - linkListType: how-to-guide
+        links:
           - text: Create and use bookmarks
             url: end-user-bookmarks.md
-          - text: Subscribe to reports
-            url: ../collaborate-share/end-user-subscribe.md
-          - text: Set alerts on dashboards
-            url: end-user-alerts.md
+          - text: Favorite content
+            url: end-user-favorite.md
+          - text: Download reports to Desktop
+            url: ../create-reports/service-export-to-pbix.md
 
-  - title: Use Power BI on mobile
-    linkLists:
-      - linkListType: overview
-        links:
-          - text: What are the Power BI mobile apps?
-            url: mobile/mobile-apps-for-mobile-devices.md
-      - linkListType: get-started
-        links:
-          - text: Explore dashboards and reports
-            url: mobile/mobile-apps-quickstart-view-dashboard-report.md
-          - text: Get started on iOS
-            url: mobile/mobile-iphone-app-get-started.md
-          - text: Get started on Android
-            url: mobile/mobile-android-app-get-started.md
-      - linkListType: how-to-guide
-        links:
-          - text: Use Copilot in mobile apps
-            url: mobile/mobile-copilot-overview.md
-
-  - title: Use Power BI in Teams
-    linkLists:
-      - linkListType: how-to-guide
-        links:
-          - text: Use data for productive meetings
-            url: business-user-teams-meetings.md
-          - text: Lead data-driven discussions
-            url: business-user-teams-share-data.md
-          - text: Use metrics to drive results
-            url: business-user-teams-goals.md
-
-  - title: Export and share
+  - title: Export and work with data
     linkLists:
       - linkListType: how-to-guide
         links:
@@ -129,8 +126,21 @@ landingContent:
             url: ../collaborate-share/end-user-powerpoint.md
           - text: Export data from a visual
             url: ../visuals/power-bi-visualization-export-data.md
-          - text: Download reports to Desktop
-            url: ../create-reports/service-export-to-pbix.md
+          - text: View the data behind a visual
+            url: ../visuals/service-reports-show-data.md
+
+  - title: Share and discuss insights
+    linkLists:
+      - linkListType: how-to-guide
+        links:
+          - text: Add comments to reports
+            url: end-user-comment.md
+          - text: Subscribe to reports and dashboards
+            url: ../collaborate-share/end-user-subscribe.md
+          - text: Set alerts on dashboards
+            url: end-user-alerts.md
+          - text: Use Power BI in Teams
+            url: business-user-teams-share-data.md
 
   - title: Use accessibility tools
     linkLists:
@@ -145,13 +155,19 @@ landingContent:
           - text: Keyboard shortcuts
             url: ../create-reports/desktop-accessibility-keyboard-shortcuts.md
 
-  - title: Find resources
+  - title: Explore reports on mobile
     linkLists:
-      - linkListType: reference
+      - linkListType: overview
         links:
-          - text: Glossary and terminology
-            url: end-user-glossary.md
-      - linkListType: learn
+          - text: What are the mobile apps?
+            url: mobile/mobile-apps-for-mobile-devices.md
+      - linkListType: get-started
         links:
-          - text: Power BI Community
-            url: https://community.fabric.microsoft.com/
+          - text: Explore dashboards and reports
+            url: mobile/mobile-apps-quickstart-view-dashboard-report.md
+          - text: View reports on mobile
+            url: mobile/mobile-reports-in-the-mobile-apps.md
+      - linkListType: how-to-guide
+        links:
+          - text: Use Copilot in mobile apps
+            url: mobile/mobile-copilot-overview.md

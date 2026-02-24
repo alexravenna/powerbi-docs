@@ -35,9 +35,9 @@
       href: org-app-items.md
 
 # =============================================================================
-# VIEW REPORTS AND DASHBOARDS
+# OPEN AND NAVIGATE REPORTS
 # =============================================================================
-- name: View reports and dashboards
+- name: Open and navigate reports
   items:
   - name: Reports
     items:
@@ -45,10 +45,10 @@
       href: end-user-reports.md
     - name: Open a report
       href: end-user-report-open.md
-    - name: Change report display settings
-      href: end-user-report-view.md
     - name: Interact with reports
       href: end-user-reading-view.md
+    - name: Change report display settings
+      href: end-user-report-view.md
   - name: Dashboards
     items:
     - name: Dashboards overview
@@ -57,51 +57,23 @@
       href: end-user-dashboard-open.md
     - name: Interact with dashboard tiles
       href: end-user-tiles.md
+  - name: Paginated reports
+    items:
+    - name: Paginated reports overview
+      href: end-user-paginated-report.md
+    - name: View a paginated report
+      href: paginated-reports-view-power-bi-service.md
+    - name: Interact with parameters
+      href: paginated-reports-view-parameters.md
   - name: View related content
     href: end-user-related.md
   - name: Check content freshness
     href: end-user-fresh.md
-  - name: Add comments
-    href: end-user-comment.md
-  - name: Download reports to Desktop
-    href: ../create-reports/service-export-to-pbix.md?context=/power-bi/explore-reports/context/context
-  - name: Accessibility
-    items:
-    - name: Accessibility overview
-      href: ../create-reports/desktop-accessibility-overview.md?context=/power-bi/explore-reports/context/context
-    - name: Use accessibility features
-      href: desktop-accessibility-consuming-tools.md
-    - name: Keyboard shortcuts
-      href: ../create-reports/desktop-accessibility-keyboard-shortcuts.md?context=/power-bi/explore-reports/context/context
 
 # =============================================================================
-# FILTER AND INTERACT
+# FIND WHAT MATTERS IN A REPORT
 # =============================================================================
-- name: Filter and interact
-  items:
-  - name: Interact with visuals
-    href: end-user-visualizations.md
-  - name: Understand cross-filtering
-    href: end-user-interactions.md
-  - name: Change sort order
-    href: end-user-change-sort.md
-  - name: Use filters
-    href: end-user-report-filter.md
-  - name: Use slicers
-    href: end-user-slicer.md
-  - name: Use buttons and actions
-    href: end-user-buttons.md
-  - name: Use Explore (preview)
-    href: explore-data-service.md
-  - name: Use ArcGIS maps
-    href: end-user-arcgis.md
-  - name: Interact with small multiples
-    href: ../visuals/power-bi-visualization-small-multiples-interact.md?context=/power-bi/explore-reports/context/context
-
-# =============================================================================
-# ASK QUESTIONS WITH AI
-# =============================================================================
-- name: Ask questions with AI
+- name: Find what matters in a report
   items:
   - name: Use Q&A
     items:
@@ -121,9 +93,45 @@
       href: ../create-reports/tutorial-copilot-power-bi-explore-data.md?context=/power-bi/explore-reports/context/context
 
 # =============================================================================
-# DISCOVER INSIGHTS
+# FILTER AND SLICE DATA
 # =============================================================================
-- name: Discover insights
+- name: Filter and slice data
+  items:
+  - name: Use filters
+    href: end-user-report-filter.md
+  - name: Use slicers
+    href: end-user-slicer.md
+  - name: Understand cross-filtering
+    href: end-user-interactions.md
+  - name: Change sort order
+    href: end-user-change-sort.md
+
+# =============================================================================
+# DRILL INTO DETAILS
+# =============================================================================
+- name: Drill into details
+  items:
+  - name: Use buttons and actions
+    href: end-user-buttons.md
+  - name: Use Explore (preview)
+    href: explore-data-service.md
+
+# =============================================================================
+# INTERACT WITH VISUALS
+# =============================================================================
+- name: Interact with visuals
+  items:
+  - name: Work with visuals in a report
+    href: end-user-visualizations.md
+  - name: Use ArcGIS maps
+    href: end-user-arcgis.md
+  - name: Interact with small multiples
+    href: ../visuals/power-bi-visualization-small-multiples-interact.md?context=/power-bi/explore-reports/context/context
+
+# =============================================================================
+# ANALYZE AND UNCOVER INSIGHTS
+# =============================================================================
+- name: Analyze and uncover insights
   items:
   - name: View automatic insights
     href: end-user-insights.md
@@ -135,33 +143,19 @@
     href: ../visuals/power-bi-visualization-anomaly-detection.md?context=/power-bi/explore-reports/context/context
 
 # =============================================================================
-# EXPORT AND SHARE
+# COMPARE AND EVALUATE DATA
 # =============================================================================
-- name: Export and share
+- name: Compare and evaluate data
   items:
   - name: View data behind a visual
     href: ../visuals/service-reports-show-data.md?context=/power-bi/explore-reports/context/context
-  - name: Export data from a visual
-    href: ../visuals/power-bi-visualization-export-data.md?context=/power-bi/explore-reports/context/context
   - name: Understand data point limits
     href: ../visuals/power-bi-data-points.md?context=/power-bi/explore-reports/context/context
-  - name: Export a report to PDF
-    href: ../collaborate-share/end-user-pdf.md?context=/power-bi/explore-reports/context/context
-  - name: Export a report to PowerPoint
-    href: ../collaborate-share/end-user-powerpoint.md?context=/power-bi/explore-reports/context/context
-  - name: Subscribe to reports and dashboards
-    href: ../collaborate-share/end-user-subscribe.md?context=/power-bi/explore-reports/context/context
-  - name: Set alerts on reports
-    href: business-user-set-alerts.md
-  - name: Set alerts on dashboards
-    href: end-user-alerts.md
-  - name: Print reports and dashboards
-    href: end-user-print.md
 
 # =============================================================================
-# PERSONALIZE YOUR VIEW
+# CUSTOMIZE AND SAVE VIEWS
 # =============================================================================
-- name: Personalize your view
+- name: Customize and save views
   items:
   - name: Personalize visuals
     href: end-user-personalize-visuals.md
@@ -173,9 +167,59 @@
     href: end-user-favorite.md
 
 # =============================================================================
-# USE POWER BI MOBILE
+# EXPORT AND WORK WITH REPORT DATA
 # =============================================================================
-- name: Use Power BI mobile
+- name: Export and work with report data
+  items:
+  - name: Export data from a visual
+    href: ../visuals/power-bi-visualization-export-data.md?context=/power-bi/explore-reports/context/context
+  - name: Export a report to PDF
+    href: ../collaborate-share/end-user-pdf.md?context=/power-bi/explore-reports/context/context
+  - name: Export a report to PowerPoint
+    href: ../collaborate-share/end-user-powerpoint.md?context=/power-bi/explore-reports/context/context
+  - name: Download reports to Desktop
+    href: ../create-reports/service-export-to-pbix.md?context=/power-bi/explore-reports/context/context
+  - name: Print reports and dashboards
+    href: end-user-print.md
+
+# =============================================================================
+# SHARE AND DISCUSS INSIGHTS
+# =============================================================================
+- name: Share and discuss insights
+  items:
+  - name: Add comments
+    href: end-user-comment.md
+  - name: Subscribe to reports and dashboards
+    href: ../collaborate-share/end-user-subscribe.md?context=/power-bi/explore-reports/context/context
+  - name: Set alerts on reports
+    href: business-user-set-alerts.md
+  - name: Set alerts on dashboards
+    href: end-user-alerts.md
+  - name: Use Power BI in Teams
+    items:
+    - name: Use data for productive meetings
+      href: business-user-teams-meetings.md
+    - name: Use metrics to drive results
+      href: business-user-teams-goals.md
+    - name: Lead data-driven discussions
+      href: business-user-teams-share-data.md
+
+# =============================================================================
+# USE ACCESSIBILITY TOOLS
+# =============================================================================
+- name: Use accessibility tools
+  items:
+  - name: Accessibility overview
+    href: ../create-reports/desktop-accessibility-overview.md?context=/power-bi/explore-reports/context/context
+  - name: Use accessibility features
+    href: desktop-accessibility-consuming-tools.md
+  - name: Keyboard shortcuts
+    href: ../create-reports/desktop-accessibility-keyboard-shortcuts.md?context=/power-bi/explore-reports/context/context
+
+# =============================================================================
+# EXPLORE REPORTS ON MOBILE
+# =============================================================================
+- name: Explore reports on mobile
   items:
   - name: Overview
     items:
@@ -266,31 +310,6 @@
     - name: Supported languages
       href: mobile/mobile-apps-supported-languages.md
 
-# =============================================================================
-# VIEW PAGINATED REPORTS
-# =============================================================================
-- name: View paginated reports
-  items:
-  - name: Paginated reports overview
-    href: end-user-paginated-report.md
-  - name: View a paginated report
-    href: paginated-reports-view-power-bi-service.md
-  - name: Interact with parameters
-    href: paginated-reports-view-parameters.md
-
-# =============================================================================
-# USE POWER BI IN TEAMS
-# =============================================================================
-- name: Use Power BI in Teams
-  items:
-  - name: Use data for productive meetings
-    href: business-user-teams-meetings.md
-  - name: Use metrics to drive results
-    href: business-user-teams-goals.md
-  - name: Lead data-driven discussions
-    href: business-user-teams-share-data.md
-
-# =============================================================================
 # =============================================================================
 # RESOURCES (don't change this - standardized with Fabric)
 # =============================================================================
