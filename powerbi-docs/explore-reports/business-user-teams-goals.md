@@ -86,4 +86,4 @@ Each project and organization can have its own metrics. You can find all your me
 - [Create scorecards and metrics in Power BI](../create-reports/service-goals-introduction.md)
 - [Use data to make better meetings in Microsoft Teams](business-user-teams-meetings.md)
 - [Share a data-driven discussion in Microsoft Teams](business-user-teams-share-data.md)
-- [Create reports from data in Microsoft Teams](business-user-teams-create-reports.md)
+- [Create reports from data in Microsoft Teams](../collaborate-share/business-user-teams-create-reports.md)

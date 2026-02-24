@@ -25,7 +25,7 @@ In this how-to article, we open a [dashboard](../explore-reports/end-user-dashbo
 
 ## Prerequisites
 
-- You just need a [Fabric free license](../explore-reports/end-user-features.md) to edit dashboards in My Workspace in the Power BI service.
+- You just need a [Fabric free license](../fundamentals/end-user-features.md) to edit dashboards in My Workspace in the Power BI service.
 - You need a Power BI Pro license to edit dashboards in other workspaces in the Power BI service. Read more about [Power BI Pro licenses](../fundamentals/service-self-service-signup-purchase-for-power-bi.md).
 - You also need at least a Contributor role in that workspace. Read more about [roles in workspaces](../collaborate-share/service-roles-new-workspaces.md).
 - If you want to follow along, get the [Retail Analysis sample dashboard](sample-retail-analysis.md#get-the-built-in-sample-in-the-power-bi-service).
@@ -72,7 +72,7 @@ In this how-to article, we open a [dashboard](../explore-reports/end-user-dashbo
 ## Related content
 
 - [Edit or remove a dashboard tile](service-dashboard-edit-tile.md)
-- [Display content in more detail: focus mode and full screen mode](../explore-reports/end-user-focus.md)
+- [Display content in more detail: focus mode and full screen mode](../explore-reports/end-user-report-view.md)
 - [Q&A for Power BI business users](../explore-reports/end-user-q-and-a.md)
 
 More questions? [Ask the Power BI Community](https://community.powerbi.com/)

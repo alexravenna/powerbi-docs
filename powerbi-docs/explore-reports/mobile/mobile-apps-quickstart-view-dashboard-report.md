@@ -33,7 +33,7 @@ A dashboard is a portal to your company's life cycle and processes. It is an ove
 
 - **Sign up for Power BI**: If you're not signed up for Power BI, [sign up for a free trial](https://app.powerbi.com/signupredirect?pbi_source=web) before you begin.
 - **Install the Power BI app for your device**: Download the Power BI mobile app** from the [App store](https://apps.apple.com/app/microsoft-power-bi/id929738808) (iOS) or [Google play](https://play.google.com/store/apps/details?id=com.microsoft.powerbim&amp;amp;clcid=0x409) (Android).
-- **Download the Retail Analysis Sample**: The first step in this quickstart is to download the Retail Analysis Sample in the Power BI service. [Learn how to download a sample](./mobile-apps-download-samples.md) into your Power BI account to get started. Be sure to choose the Retail Analysis Sample.
+- **Download the Retail Analysis Sample**: The first step in this quickstart is to download the Retail Analysis Sample in the Power BI service. [Learn how to download a sample](../../fundamentals/mobile-apps-download-samples.md) into your Power BI account to get started. Be sure to choose the Retail Analysis Sample.
 
 Once you've completed the prerequisites and downloaded the Retail Analysis Sample to your Power BI account, you are ready to begin this quick tour.
 

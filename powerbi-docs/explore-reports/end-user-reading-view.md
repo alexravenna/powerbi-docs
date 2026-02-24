@@ -17,7 +17,7 @@ ai-usage: ai-assisted
 This article explains how to interact with the Power BI service to discover data‑driven business insights. It focuses on the everyday tasks and tools available to Power BI **business users** (sometimes called consumers or readers).
 
 > [!NOTE]
-> Looking for navigation basics (Home, Browse, Apps, Learning center, workspaces)? Start with [Getting around in the Power BI service](end-user-experience.md). Need help locating content on the Home canvas? See [Find content from Power BI service Home](end-user-home.md).
+> Looking for navigation basics (Home, Browse, Apps, Learning center, workspaces)? Start with [Getting around in the Power BI service](end-user-experience.md). Need help locating content on the Home canvas? See [Find content from Power BI service Home](end-user-experience.md).
 
 If you're not signed up for the Power BI service, [sign up for a free trial](https://app.powerbi.com/signupredirect?pbi_source=web) before you begin.
 
@@ -162,7 +162,7 @@ To display that same visualization without the distraction of menu bars, filter 
 
 :::image type="content" source="media/end-user-reading-view/power-bi-full.png" alt-text="Screenshot of the visual displayed in full screen mode.":::
 
-Learn more about [focus mode and full screen mode.](end-user-focus.md)
+Learn more about [focus mode and full screen mode.](end-user-report-view.md)
 
 ### Sort a visualization
 

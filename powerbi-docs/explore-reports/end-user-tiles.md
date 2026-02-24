@@ -41,7 +41,7 @@ Need help understanding the Power BI building blocks? See [Basics of the Power B
    Available actions include:
 
    - [Open the report used to create the tile](end-user-reports.md) :::image type="icon" source="./media/end-user-tiles/power-bi-chart-icon-new.png":::
-   - [View the tile in focus mode](end-user-focus.md) :::image type="icon" source="./media/end-user-tiles/power-bi-fullscreen-icon.png":::
+   - [View the tile in focus mode](end-user-report-view.md) :::image type="icon" source="./media/end-user-tiles/power-bi-fullscreen-icon.png":::
    - [View insights](end-user-insights.md) :::image type="icon" source="./media/end-user-tiles/power-bi-insights-icon.png":::
    - [Add a comment to start a discussion](end-user-comment.md) :::image type="icon" source="./media/end-user-tiles/power-bi-comment-icon.png":::
    - [Export data to Excel](/power-bi/visuals/power-bi-visualization-export-data) :::image type="icon" source="./media/end-user-tiles/power-bi-export-icon-new.png":::

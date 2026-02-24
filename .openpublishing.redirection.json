@@ -1402,12 +1402,12 @@
     },
     {
       "source_path": "powerbi-docs/service-shared-with-me.md",
-      "redirect_url": "/power-bi/collaborate-share/end-user-shared-with-me",
+      "redirect_url": "/power-bi/explore-reports/end-user-shared-with-me",
       "redirect_document_id": false
     },
     {
       "source_path": "powerbi-docs/consumer/end-user-shared-with-me.md",
-      "redirect_url": "/power-bi/collaborate-share/end-user-shared-with-me",
+      "redirect_url": "/power-bi/explore-reports/end-user-shared-with-me",
       "redirect_document_id": true
     },
     {
@@ -7196,16 +7196,6 @@
       "redirect_document_id": true
     },
     {
-      "source_path": "powerbi-docs/consumer/end-user-features.md",
-      "redirect_url": "/power-bi/explore-reports/end-user-features",
-      "redirect_document_id": true
-    },
-    {
-      "source_path": "powerbi-docs/consumer/end-user-focus.md",
-      "redirect_url": "/power-bi/explore-reports/end-user-focus",
-      "redirect_document_id": true
-    },
-    {
       "source_path": "powerbi-docs/consumer/end-user-fresh.md",
       "redirect_url": "/power-bi/explore-reports/end-user-fresh",
       "redirect_document_id": true
@@ -7214,11 +7204,6 @@
       "source_path": "powerbi-docs/consumer/end-user-glossary.md",
       "redirect_url": "/power-bi/explore-reports/end-user-glossary",
       "redirect_document_id": true
-    },
-    {
-      "source_path": "powerbi-docs/consumer/end-user-home.md",
-      "redirect_url": "/power-bi/explore-reports/end-user-experience#home",
-      "redirect_document_id": false
     },
     {
       "source_path": "powerbi-docs/consumer/end-user-insight-types.md",
@@ -7296,11 +7281,6 @@
       "redirect_document_id": true
     },
     {
-      "source_path": "powerbi-docs/consumer/end-user-show-data.md",
-      "redirect_url": "/power-bi/explore-reports/end-user-show-data",
-      "redirect_document_id": true
-    },
-    {
       "source_path": "powerbi-docs/consumer/end-user-sign-in.md",
       "redirect_url": "/power-bi/explore-reports/end-user-sign-in",
       "redirect_document_id": true
@@ -7324,21 +7304,6 @@
       "source_path": "powerbi-docs/consumer/end-user-visualizations.md",
       "redirect_url": "/power-bi/explore-reports/end-user-visualizations",
       "redirect_document_id": true
-    },
-    {
-      "source_path": "powerbi-docs/consumer/end-user-workspaces.md",
-      "redirect_url": "/power-bi/explore-reports/end-user-workspaces",
-      "redirect_document_id": true
-    },
-    {
-      "source_path": "powerbi-docs/consumer/end-user-consumer.md",
-      "redirect_url": "/power-bi/personas/business-user/end-user-consumer",
-      "redirect_document_id": false
-    },
-    {
-      "source_path": "powerbi-docs/consumer/end-user-faq.yml",
-      "redirect_url": "/power-bi/personas/business-user/end-user-faq",
-      "redirect_document_id": false
     },
     {
       "source_path": "powerbi-docs/consumer/explore-data-service.md",
@@ -7534,11 +7499,6 @@
       "source_path": "powerbi-docs/consumer/mobile/tutorial-mobile-apps-ios-qna.md",
       "redirect_url": "/power-bi/explore-reports/mobile/tutorial-mobile-apps-ios-qna",
       "redirect_document_id": true
-    },
-    {
-      "source_path": "powerbi-docs/consumer/org-app-items/org-app-items.md",
-      "redirect_url": "/power-bi/explore-reports/org-app-items",
-      "redirect_document_id": false
     },
     {
       "source_path": "powerbi-docs/consumer/index.yml",

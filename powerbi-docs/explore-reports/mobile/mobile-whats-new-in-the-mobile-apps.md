@@ -363,7 +363,7 @@ To support WebView2, the minimum OS required by the Power BI Windows app has cha
 
 ### Data in space - your data, everywhere (iOS)
 
-Now you can connect your digital business data to real-world places in augmented reality, putting real-time data at the fingertips of employees where they need it, enabling them to make better, faster, more informed data-driven decisions. [Learn more!](./mobile-apps-data-in-space-overview.md)
+Now you can connect your digital business data to real-world places in augmented reality, putting real-time data at the fingertips of employees where they need it, enabling them to make better, faster, more informed data-driven decisions. Learn more!
 
 ![Screenshot of showing Power BI reports pinned to real-world locations in augmented reality using the data in space feature.](media/mobile-whats-new-in-the-mobile-apps/power-bi-mobile-app-data-in-space-final-result.png)
 
@@ -486,7 +486,7 @@ We've improved the load time of "Shared with me" content, making it faster for y
 
 ## August 2021
 ### Power BI Goals (preview) now available in the mobile apps (Android and iOS) 
-Now you can monitor your goals and scorecards, and even check in progress on the go, directly from the mobile app! You’ll find them right there on the home page in the new Goals Hub. [Learn more](mobile-apps-metrics)
+Now you can monitor your goals and scorecards, and even check in progress on the go, directly from the mobile app! You’ll find them right there on the home page in the new Goals Hub. Learn more
 
 ![Screenshot of Power BI mobile app Goals Hub.](media/mobile-whats-new-in-the-mobile-apps/power-bi-mobile-app-goals-hub.png)
 
@@ -503,7 +503,7 @@ We’ve simplified and improved the report footer to make it easier to find and 
 
 ## June 2021
 ### Updated look and new home page (preview) (Windows)
-We've introduced a new design and home page to simplify the way you find and open content. Turn on the **New look** toggle at the top of your screen and [check it out](mobile-windows-10-phone-app-get-started.md?tabs=new-look)!
+We've introduced a new design and home page to simplify the way you find and open content. Turn on the **New look** toggle at the top of your screen and check it out!
 
 ![Screenshot of new look for the Windows app home page](media/mobile-whats-new-in-the-mobile-apps/windows-10-new-look-home-page.png)
 
@@ -571,7 +571,7 @@ We've added a new button to the mobile app for Android tablets that lets you rem
 ### October 2020
 #### Automatic page refresh is now supported (Windows)
 
-Now, report pages configured with [auto page refresh](../../create-reports/desktop-automatic-page-refresh.md) will also automatically refresh in the Power BI app for Windows devices. And this doesn't mean just in regular report view. With auto page refresh, your [presentations and slideshows](mobile-windows-10-app-presentation-mode.md#slideshows) will also update in real-time, ensuring that you're always displaying the latest business data and insights.
+Now, report pages configured with [auto page refresh](../../create-reports/desktop-automatic-page-refresh.md) will also automatically refresh in the Power BI app for Windows devices. And this doesn't mean just in regular report view. With auto page refresh, your presentations and slideshows will also update in real-time, ensuring that you're always displaying the latest business data and insights.
 
 #### Support for notch displays (iOS)
 We've added support for notch displays on iPhone and iPads, giving you more screen space for your reports and dashboards. 
@@ -597,19 +597,19 @@ Now you can share links to Power BI content with your contacts. Use the new shar
 We've enabled pinch and zoom in all report views, making it easier for you to zoom in and out of your report content, whether you're on your phone or on your tablet.
 
 #### Auto play a slideshow on startup (Windows)
-You can choose a report to automatically play in a slideshow when the Power BI Windows app is launched. This is useful for creating a kiosk-like experience that runs a report in public displays without any manual intervention. [Learn more!](mobile-windows-10-app-presentation-mode.md#auto-play-a-slideshow-on-startup)
+You can choose a report to automatically play in a slideshow when the Power BI Windows app is launched. This is useful for creating a kiosk-like experience that runs a report in public displays without any manual intervention. Learn more!
 
 ### July 2020
 #### The Power BI mobile app for Windows now supports organizational branding
 Now, any changes the administrator makes to the look and feel of Power BI in order to match your organization's branding theme will also appear in the Power BI mobile app. Such changes might include a new color scheme for the top navigation bar, your organization's logo, and a banner image.  
 
 #### Disable single sign-on via remote configuration (iOS and Android)
-IT administrators can now remotely disable single sign-on to the Power BI mobile app, enhancing security and permissions compliance on multi-user devices. [Learn more!](mobile-app-configuration.md#disable-single-sign-on-ios-and-android)
+IT administrators can now remotely disable single sign-on to the Power BI mobile app, enhancing security and permissions compliance on multi-user devices. Learn more!
 
 ### June 2020
 #### Show your bookmarks in slideshows (Windows)
 Now you can include report and personal bookmarks in your slideshows, automatically as part of the presentation, to highlight specific insights in your data.
-[Check it out!](mobile-windows-10-app-presentation-mode.md#use-presentation-mode)
+Check it out!
 
 ### May 2020
 #### We've added dark mode to Power BI mobile (iOS)
@@ -618,7 +618,7 @@ Try out the new dark mode in the Power BI mobile app for iOS13. In dark mode, yo
 ![Dark mode in the Power BI mobile apps](media/mobile-whats-new-in-the-mobile-apps/mobile-apps-dark-mode.png)
 
 #### Apply bookmarks in presentation mode (Windows)
-Now, when presenting a report in presentation mode, you can apply both personal and report bookmarks to report pages, telling the story about your data. [Check it out!](mobile-windows-10-app-presentation-mode.md#use-presentation-mode)
+Now, when presenting a report in presentation mode, you can apply both personal and report bookmarks to report pages, telling the story about your data. Check it out!
 
 ### April 2020
 
@@ -669,7 +669,7 @@ Right click on Power BI app's icon in Windows taskbar to get a list of all your 
 
 #### Share annotations created in presentation mode (Windows)
 
-Annotations you create during presentations become an integral part of the presentation and a key component of the discussion. Now, when you annotate reports in presentation mode, you can share a snapshot of the report page with your colleagues. [Learn more](./mobile-windows-10-app-presentation-mode.md#use-presentation-mode)
+Annotations you create during presentations become an integral part of the presentation and a key component of the discussion. Now, when you annotate reports in presentation mode, you can share a snapshot of the report page with your colleagues. Learn more
 
 ### December 2019
 
@@ -915,7 +915,7 @@ Read the Power BI [blog post about dashboard comments](https://powerbi.microsoft
 #### Single sign-on (Windows)
 
 Single sign-on (SSO) is one of the most requested capabilities for Power BI mobile for Windows. 
-Now you can use your primary organizational account not only to sign in to your domain-joined Windows mobile devices, but also to sign in seamlessly to the Power BI service. Read more about [SSO and the Windows mobile apps](mobile-windows-10-app-single-sign-on-sso.md).
+Now you can use your primary organizational account not only to sign in to your domain-joined Windows mobile devices, but also to sign in seamlessly to the Power BI service. Read more about SSO and the Windows mobile apps.
 
 ### July 2018
 
@@ -1369,7 +1369,7 @@ See the [April Power BI Mobile Apps blog](https://powerbi.microsoft.com/blog/pow
 
 #### Power BI app for Windows 10 devices
 * **Presentation mode** Display Power BI dashboards and reports in presentation mode from the Power BI app.
-* **SQL Server 2016 [Reporting Services mobile reports](mobile-app-windows-10-ssrs-kpis-mobile-reports.md)** now on Windows 10 devices.
+* **SQL Server 2016 Reporting Services mobile reports** now on Windows 10 devices.
 * See **data tooltips** when you hover your mouse over a dashboard tile.
 
 ### March 2016
@@ -1400,7 +1400,7 @@ Read the [Power BI Mobile Apps blog for March 2016](https://powerbi.microsoft.co
 
 **Bing and R tiles** Open Bing and R tiles in focus mode.​
 
-**More live tiles on your Start screen** [Pin KPIs and row cards to your Start screen](mobile-pin-dashboard-start-screen-windows-10-phone-app.md) as live tiles, so you can see all of your critical goals at a glance.
+**More live tiles on your Start screen** Pin KPIs and row cards to your Start screen as live tiles, so you can see all of your critical goals at a glance.
 
 **Pinch to zoom** Use pinch-to-zoom on your tablet to examine dashboards in greater detail.
 
@@ -1419,7 +1419,7 @@ Faster time to insights on your Windows 10 mobile dashboards: Share a tile snaps
 
 ### January 2016
 
-All of the January improvements are already in the new [Power BI app for Windows 10 phones](mobile-windows-10-phone-app-get-started.md), released in December 2015. Now they're rolling out to the other Power BI apps for mobile devices. Read the blog post about these improvements.
+All of the January improvements are already in the new Power BI app for Windows 10 phones, released in December 2015. Now they're rolling out to the other Power BI apps for mobile devices. Read the blog post about these improvements.
 
 **Real-time data support** Dashboards refresh in real time, so you don't need to refresh them manually.
 
@@ -1444,10 +1444,10 @@ Now you can view your SQL Server mobile reports in the Power BI app on your iOS 
 * View [SQL Server mobile reports and KPIs in the iPhone and iPad apps](mobile-app-ssrs-kpis-mobile-on-premises-reports.md) documentation
 
 #### Power BI app for Windows 10 phones
-The new Power BI app for Windows 10 phones is optimized for touch and mobile productivity. Explore dashboards and reports, invite colleagues to view data, and share insights over email to engage your team. Plus you can [pin Power BI dashboards to your Windows phone Start screen](mobile-pin-dashboard-start-screen-windows-10-phone-app.md).
+The new Power BI app for Windows 10 phones is optimized for touch and mobile productivity. Explore dashboards and reports, invite colleagues to view data, and share insights over email to engage your team. Plus you can pin Power BI dashboards to your Windows phone Start screen.
 
 * Read the [Power BI app for Windows 10 phones blog post](https://powerbi.microsoft.com/blog/announcing-the-power-bi-app-for-windows-10-mobile/).
-* [Get started with the Power BI app for Windows 10 phones](mobile-windows-10-phone-app-get-started.md).
+* Get started with the Power BI app for Windows 10 phones.
 
 #### Other additions
 Read the [Power BI mobile apps December blog post](https://powerbi.microsoft.com/blog/power-bi-mobile-apps-update-2d00-december-2015/) for more details.

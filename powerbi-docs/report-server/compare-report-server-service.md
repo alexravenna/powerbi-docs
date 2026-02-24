@@ -52,7 +52,7 @@ Power BI Report Server and the Power BI service have many similarities and some 
 | Row-level security (RLS) | Yes | Yes | Available in both DirectQuery (data source) & Import mode <br><br>Row-level security in the [Power BI service](/fabric/security/service-admin-row-level-security) <br><br>Row-level security in [Power BI Report Server](row-level-security-report-server.md) |
 | Many-to-many relationships | Yes | Yes | [Apply many-to-many relationships](../transform-model/desktop-many-to-many-relationships.md) in Power BI Desktop |
 | Cross-report drillthrough | No | Yes | [Use cross-report drillthrough](../create-reports/desktop-drillthrough.md) |
-| Full-screen mode | Yes | Yes | [Full-screen mode](../explore-reports/end-user-focus.md) in the Power BI service |
+| Full-screen mode | Yes | Yes | [Full-screen mode](../explore-reports/end-user-report-view.md) in the Power BI service |
 | R scripts and visuals | No | Yes | [Create R visuals](../create-reports/desktop-r-visuals.md) and run R scripts in Power BI Desktop and publish them to the Power BI service. You can't save Power BI reports with R scripts or visuals to Power BI Report Server.  |
 | Python scripts and visuals | No | Yes | [Create Python scripts](../connect-data/desktop-python-scripts.md) and visuals in Power BI Desktop and publish them to the Power BI service. You can't save Power BI reports with Python scripts or visuals to Power BI Report Server. |
 | Preview features | No | Yes |   |

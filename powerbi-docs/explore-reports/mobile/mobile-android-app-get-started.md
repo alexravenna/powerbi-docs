@@ -59,7 +59,7 @@ If you haven't signed up yet, go to the [Power BI service](https://powerbi.com/)
 
 1. To sign in to Power BI, tap the **Power BI** tab and fill in your sign-in details.
 
-    If you get a message that Power BI can't sign you in, see ["Could not authenticate because your corporate SSL certificate is untrusted"](mobile-android-app-error-corporate-ssl-account-is-untrusted.md) for details on how to resolve the issue.
+    If you get a message that Power BI can't sign you in, see ["Could not authenticate because your corporate SSL certificate is untrusted"](../../troubleshoot/mobile-android-app-error-corporate-ssl-account-is-untrusted.md) for details on how to resolve the issue.
 
    To sign in to your Reporting Services KPIs, tap the **Report server** tab and fill in your sign-in details.
 

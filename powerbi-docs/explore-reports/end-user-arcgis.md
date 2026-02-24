@@ -34,9 +34,9 @@ The features available depend on whether you're the report designer (person who 
 
 |Action  |Premium customer (with view permissions)  | Power BI Pro customer  |
 |---------|---------|---------|
-|[View the data used to create the visual](end-user-show-data.md)   |   Y      |     Y    |
+|[View the data used to create the visual](../create-reports/end-user-show-data.md)   |   Y      |     Y    |
 |[Subscribe for reports and dashboards](/power-bi/collaborate-share/end-user-subscribe)    |   Y      |    Y     |
-|[See the map in focus mode and full screen mode](end-user-focus.md)     |    Y     |     Y    |
+|[See the map in focus mode and full screen mode](end-user-report-view.md)     |    Y     |     Y    |
 |[View related content](end-user-related.md)    |    Y     |     Y    |
 |[Interact with the filters](end-user-report-filter.md) set by the report designer    |      Y   |     Y    |
 |[Share the report](../collaborate-share/service-share-reports.md)    |   Y      |     Y    |

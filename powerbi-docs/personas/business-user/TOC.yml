@@ -32,7 +32,7 @@
     - name: Install and use apps
       href: ../../explore-reports/end-user-app-view.md?context=/power-bi/personas/business-user/context/context
     - name: Get started with org apps (preview)
-      href: ../../explore-reports/org-app-items/org-app-items.md?context=/power-bi/personas/business-user/context/context
+      href: ../../explore-reports/org-app-items.md?context=/power-bi/personas/business-user/context/context
   - name: Glossary and terminology
     href: ../../explore-reports/end-user-glossary.md?context=/power-bi/personas/business-user/context/context
   - name: Frequently asked questions

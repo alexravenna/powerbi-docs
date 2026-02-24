@@ -32,7 +32,7 @@
     - name: Install and use apps
       href: end-user-app-view.md
     - name: Get started with org apps (preview)
-      href: org-app-items/org-app-items.md
+      href: org-app-items.md
 
 # =============================================================================
 # VIEW REPORTS AND DASHBOARDS

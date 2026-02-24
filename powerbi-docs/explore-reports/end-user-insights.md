@@ -34,7 +34,7 @@ When you run insights on a dashboard tile, Power BI searches just the data used 
 
    :::image type="content" source="./media/end-user-insights/power-bi-hover.png" alt-text=" Screenshot of a tile showing selection of ellipsis highlighted and displaying a dropdown menu with View insights highlighted.":::
 
-1. The tile opens in Focus mode with the insights cards displayed along the right. Select the pin icon to save any of these insight tiles to your dashboard. For more information, see [Display content in more detail: focus mode and full screen mode](end-user-focus.md).
+1. The tile opens in Focus mode with the insights cards displayed along the right. Select the pin icon to save any of these insight tiles to your dashboard. For more information, see [Display content in more detail: focus mode and full screen mode](end-user-report-view.md).
 
    :::image type="content" source="./media/end-user-insights/power-bi-insights-tiles.png" alt-text=" Screenshot of a tile and the insights cards.":::
 

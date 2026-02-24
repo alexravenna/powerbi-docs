@@ -95,7 +95,7 @@ To enter full screen mode:
 
 To exit full screen mode, press **Esc** or select **Exit full screen** in the top right corner.
 
-For other display options, including focus mode, see [Display content in more detail](end-user-focus.md).
+For other display options, including focus mode, see [Display content in more detail](end-user-report-view.md).
 
 ## What you can do as a business user
 

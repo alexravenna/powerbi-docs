@@ -65,9 +65,9 @@ Experiment with your browser's settings until you get the look you like. Some br
 
 ## Print a dashboard tile
 
-1. Open the dashboard in [full screen mode](end-user-focus.md). Select the full screen icon :::image type="icon" source="./media/end-user-print/power-bi-full-screen.png"::: from the upper menu bar.
+1. Open the dashboard in [full screen mode](end-user-report-view.md). Select the full screen icon :::image type="icon" source="./media/end-user-print/power-bi-full-screen.png"::: from the upper menu bar.
 
-1. After the dashboard opens in full screen mode, [open the tile in Focus mode](end-user-focus.md). Hover over the tile to reveal **More options** (...), and then select **Open in focus mode** or the focus icon. :::image type="icon" source="./media/end-user-print/power-bi-focus-icon.png":::
+1. After the dashboard opens in full screen mode, [open the tile in Focus mode](end-user-report-view.md). Hover over the tile to reveal **More options** (...), and then select **Open in focus mode** or the focus icon. :::image type="icon" source="./media/end-user-print/power-bi-focus-icon.png":::
 
       :::image type="content" source="./media/end-user-print/power-bi-focus-tile.png" alt-text="Screenshot of the More options menu expanded and Open in focus mode selected.":::
 
@@ -114,7 +114,7 @@ You can print reports one page at a time.
 
 ## Print a report visual
 
-1. Open the visual in [Focus mode](end-user-focus.md). Hover over the tile, and then select the Focus icon :::image type="icon" source="./media/end-user-print/power-bi-focus-icon.png"::: from the top-right corner.
+1. Open the visual in [Focus mode](end-user-report-view.md). Hover over the tile, and then select the Focus icon :::image type="icon" source="./media/end-user-print/power-bi-focus-icon.png"::: from the top-right corner.
 
     :::image type="content" source="./media/end-user-print/power-bi-visual-focus.png" alt-text="Screenshot of a report visual with the focus mode icon selected.":::
 

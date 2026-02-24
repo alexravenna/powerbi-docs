@@ -121,15 +121,15 @@
   - name: Power BI mobile app administration
     items:
     - name: "Configure mobile app settings (MDM)"
-      href: mobile-app-configuration.md
+      href: ../../explore-reports/mobile/mobile-app-configuration.md
     - name: "Shared device mode for mobile apps"
-      href: mobile-app-shared-device-mode.md
+      href: ../../explore-reports/mobile/mobile-app-shared-device-mode.md
     - name: "Configure interaction settings"
-      href: mobile-app-interaction-settings.md
+      href: ../../explore-reports/mobile/mobile-app-interaction-settings.md
     - name: "Set up a launch item"
-      href: mobile-apps-launch-item.md
+      href: ../../explore-reports/mobile/mobile-apps-launch-item.md
     - name: "Use NFC tags with Power BI"
-      href: mobile-apps-nfc-tags.md
+      href: ../../explore-reports/mobile/mobile-apps-nfc-tags.md
   - name: Support
     items:
     - name: "Troubleshoot your embedded application"

@@ -34,4 +34,4 @@ Use spotlights to draw attention to a specific visual on a report page.
 
 ## Related content
 
-* [Display content in more detail: focus mode and full screen mode](end-user-focus.md)
+* [Display content in more detail: focus mode and full screen mode](end-user-report-view.md)

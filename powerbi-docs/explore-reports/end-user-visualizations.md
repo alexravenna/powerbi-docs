@@ -46,14 +46,14 @@ The administrator or the designer can disable your ability to see or use these f
 |[Open and explore a visual in Q&A (if the designer used Q&A to create the visual)](end-user-q-and-a.md).|Yes|n/a|n/a|
 |[Explore and create a visual in Q&A (visuals created with Q&A can't be saved)](end-user-q-and-a.md).|Yes|If designer adds Q&A to the report.|Yes|
 |[Use Power BI to find interesting facts or trends (automatically generated visuals are called insights)](end-user-insights.md).|Yes, for tiles.|No|No|
-|[View one visual at a time using focus mode](end-user-focus.md).|Yes, for tiles.|Yes, for visuals.|n/a|
+|[View one visual at a time using focus mode](end-user-report-view.md).|Yes, for tiles.|Yes, for visuals.|n/a|
 |[Check the visual's timestamp and see the latest refresh time](end-user-fresh.md).|Yes|Yes|n/a|
-|[View one visual at a time, without borders or nav panes, using full screen mode](end-user-focus.md).|Yes|Yes|By default|
+|[View one visual at a time, without borders or nav panes, using full screen mode](end-user-report-view.md).|Yes|Yes|By default|
 |[How to Print from the Power BI service](end-user-print.md).|Yes|Yes|No|
 |[Dig into the visual by adding and modifying visual filters.](end-user-report-filter.md)|No|Yes|No|
 |Hover over a visual to reveal more details and tooltips.|Yes|Yes|Yes|
 |[How visuals cross-filter and cross-highlight each other in a Power BI report.](end-user-interactions.md)|No|Yes|n/a |
-|[Show the data used to create the visual](end-user-show-data.md).|No|Yes|No|
+|[Show the data used to create the visual](../create-reports/end-user-show-data.md).|No|Yes|No|
 |[Change the way the visual is sorted](end-user-change-sort.md).|No| Yes|You can change sort by rewording the question.|
 |[Add a spotlight to a visual](end-user-spotlight.md).|No|Yes|No|
 |[Export data to Excel from a Power BI dashboard tile or a report visual.](/power-bi/visuals/power-bi-visualization-export-data)|Yes|Yes|No|

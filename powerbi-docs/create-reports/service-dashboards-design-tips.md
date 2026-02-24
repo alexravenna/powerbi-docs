@@ -48,7 +48,7 @@ Because dashboards are meant to show important information at a glance, having a
 
 ## Make use of full-screen mode
 
-When presenting a dashboard, display it in [full-screen mode](../explore-reports/end-user-focus.md) and without distractions.
+When presenting a dashboard, display it in [full-screen mode](../explore-reports/end-user-report-view.md) and without distractions.
 
 ## Accent the most important information
 

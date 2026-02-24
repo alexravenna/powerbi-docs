@@ -61,7 +61,7 @@ The following functions are optional. The optional functions can be used to crea
   The same settings can be applied to the visuals in desktop browsers and, if needed, be overridden to adapt the visual to smaller screens.
 
   > [!NOTE]
-  > To optimize a visual in **Focus** mode, both portrait and landscape screen size orientations should be considered. See [Display content in Focus mode](../../explore-reports/end-user-focus.md).
+  > To optimize a visual in **Focus** mode, both portrait and landscape screen size orientations should be considered. See [Display content in Focus mode](../../explore-reports/end-user-report-view.md).
 
 * **Recommended interactivity**
 

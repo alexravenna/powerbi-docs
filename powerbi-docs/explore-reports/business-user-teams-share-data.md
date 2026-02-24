@@ -72,4 +72,4 @@ If you use Power BI in a web browser, it’s easy to send a link to a colleague.
 - [Add the Power BI app to Microsoft Teams](../collaborate-share/service-microsoft-teams-app.md)
 - [Use data to make better meetings in Microsoft Teams](business-user-teams-meetings.md)
 - [Use Power BI metrics to improve results in Microsoft Teams](business-user-teams-goals.md)
-- [Create reports from data in Microsoft Teams](business-user-teams-create-reports.md)
+- [Create reports from data in Microsoft Teams](../collaborate-share/business-user-teams-create-reports.md)

@@ -105,13 +105,13 @@ Still a little confused by the difference between dashboards and reports?  Learn
 Apps have different layouts, visuals, colors, and options, but they all have most of the features shown in this example:
 
 1. Name of the app and last updated time. Select the dropdown arrow to look up the owner and Help contact.
-1. Select **Power BI** to return to [Home](end-user-home.md).
+1. Select **Power BI** to return to [Home](end-user-experience.md).
 1. Your menu bar.
 1. The report page canvas.
 1. The app navigation pane.  Below the name of the app is the list of content. This app has one report with six pages. Select a report page name to open it. We currently have the *Return rate* page open.
 1. Select the arrow to expand the **Filters** pane.
 
-You can explore the associated workspace if you've been given access. When you install or download a template app, the Power BI service creates a workspace for you. When you install an organizational app, it might not include access to the workspace. For more information, see [Collaborate in workspaces](end-user-workspaces.md). Select **Power BI** (number 2) to return to **Home** and choose **Workspaces**.
+You can explore the associated workspace if you've been given access. When you install or download a template app, the Power BI service creates a workspace for you. When you install an organizational app, it might not include access to the workspace. For more information, see [Collaborate in workspaces](../collaborate-share/end-user-workspaces.md). Select **Power BI** (number 2) to return to **Home** and choose **Workspaces**.
 
 :::image type="content" source="./media/end-user-app-view/power-bi-new-workspace.png" alt-text="Screenshot of the Sales and Marketing workspace showing one report and one semantic model.":::
 

@@ -69,7 +69,7 @@ Grab a tile and [move it around on the dashboard](service-dashboard-edit-tile.md
 
      - [Add comments to the dashboard](../explore-reports/end-user-comment.md).
      - [Open the report that was used to create this tile](../explore-reports/end-user-reports.md).
-     - [View in focus mode](../explore-reports/end-user-focus.md).
+     - [View in focus mode](../explore-reports/end-user-report-view.md).
      - [Export the data used in the tile](../visuals/power-bi-visualization-export-data.md).
      - [Edit the title and subtitle and add a hyperlink](service-dashboard-edit-tile.md).
      - [Run insights](service-insights.md).

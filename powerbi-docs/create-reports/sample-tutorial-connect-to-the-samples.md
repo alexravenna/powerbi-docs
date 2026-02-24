@@ -41,7 +41,7 @@ The prerequisites depend on whether you're using the Power BI service or Power B
 
 ### Power BI service (app.powerbi.com)
 
-- You need a [Fabric free license](../explore-reports/end-user-features.md) to explore samples and save them to your workspace in the [Power BI service](https://app.powerbi.com). [Sign up for a free trial](https://aka.ms/try-fabric) if you don't have access.
+- You need a [Fabric free license](../fundamentals/end-user-features.md) to explore samples and save them to your workspace in the [Power BI service](https://app.powerbi.com). [Sign up for a free trial](https://aka.ms/try-fabric) if you don't have access.
 
 ### Power BI Desktop
 
