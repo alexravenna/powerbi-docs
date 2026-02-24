@@ -27,32 +27,6 @@ landingContent:
           - text: Chat with your data using Copilot
             url: copilot-chat-with-data-standalone.md
 
-  - title: Filter and slice data
-    linkLists:
-      - linkListType: how-to-guide
-        links:
-          - text: Use filters in a report
-            url: end-user-report-filter.md
-          - text: Use slicers to filter data
-            url: end-user-slicer.md
-          - text: Understand cross-filtering
-            url: end-user-interactions.md
-          - text: Change the sort order
-            url: end-user-change-sort.md
-
-  - title: Drill into details
-    linkLists:
-      - linkListType: how-to-guide
-        links:
-          - text: Use drillthrough in reports
-            url: ../create-reports/desktop-drillthrough.md
-          - text: Use the decomposition tree
-            url: ../visuals/power-bi-visualization-decomposition-tree.md
-          - text: Use buttons and actions
-            url: end-user-buttons.md
-          - text: Use Explore (preview)
-            url: explore-data-service.md
-
   - title: Interact with visuals
     linkLists:
       - linkListType: how-to-guide
