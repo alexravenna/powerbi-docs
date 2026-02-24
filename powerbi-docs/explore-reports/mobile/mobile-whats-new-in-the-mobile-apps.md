@@ -486,7 +486,7 @@ We've improved the load time of "Shared with me" content, making it faster for y
 
 ## August 2021
 ### Power BI Goals (preview) now available in the mobile apps (Android and iOS) 
-Now you can monitor your goals and scorecards, and even check in progress on the go, directly from the mobile app! You’ll find them right there on the home page in the new Goals Hub. [Learn more](/power-bi/explore-reports/mobile/mobile-apps-metrics)
+Now you can monitor your goals and scorecards, and even check in progress on the go, directly from the mobile app! You’ll find them right there on the home page in the new Goals Hub. [Learn more](mobile-apps-metrics)
 
 ![Screenshot of Power BI mobile app Goals Hub.](media/mobile-whats-new-in-the-mobile-apps/power-bi-mobile-app-goals-hub.png)
 

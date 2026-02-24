@@ -15,13 +15,13 @@ LocalizationGroup: Consumers
 
 # Collaborate and organize in Power BI workspaces
 
- *Workspaces* are places to collaborate with colleagues on specific content. Power BI *designers* create workspaces to hold collections of dashboards and reports. The designer can then share the workspace with colleagues. Designers can also bundle a collection of dashboards and reports into an *app* and distribute it to the entire community, to their organization, or to specific people or groups. Certain types of apps called *template apps*, create a workspace when the app is installed. [Learn more about apps](end-user-apps.md).
+ *Workspaces* are places to collaborate with colleagues on specific content. Power BI *designers* create workspaces to hold collections of dashboards and reports. The designer can then share the workspace with colleagues. Designers can also bundle a collection of dashboards and reports into an *app* and distribute it to the entire community, to their organization, or to specific people or groups. Certain types of apps called *template apps*, create a workspace when the app is installed. [Learn more about apps](../explore-reports/end-user-apps.md).
 
  Everyone using the Power BI service also has a **My workspace**. Use **My workspace** as your personal sandbox where you can create content for yourself.
 
  You can see your workspaces in Power BI by selecting **Workspaces** from your navigation pane.
 
- :::image type="content" source="media/end-user-workspaces/power-bi-home-workspaces.png" alt-text="Screenshot shows the navigation pane with two types of workspaces.":::
+ :::image type="content" source="../explore-reports/media/end-user-workspaces/power-bi-home-workspaces.png" alt-text="Screenshot shows the navigation pane with two types of workspaces.":::
 
 ## Types of workspaces
 
@@ -33,7 +33,7 @@ When a *designer* creates an app, they bundle together all the content that's ne
 
 The following **Azure Decom** workspace contains several reports and a dashboard.
 
-:::image type="content" source="media/end-user-workspaces/power-bi-app-workspaces.png" alt-text="Screenshot shows how a workspace appears under the Workspaces menu item and contains reports and a dashboard.":::
+:::image type="content" source="../explore-reports/media/end-user-workspaces/power-bi-app-workspaces.png" alt-text="Screenshot shows how a workspace appears under the Workspaces menu item and contains reports and a dashboard.":::
 
 ## Permissions in the workspaces
 
@@ -41,7 +41,7 @@ Access permissions determine what you can do in a workspace, so teams can collab
 
 As a Power BI *business user*, you typically interact in workspaces by using the **Viewer** role. But *designers* can also assign you to the **Member** or **Contributor** role. The Viewer role lets you view and interact with content (dashboards, reports, apps) created by others and shared with you. And because the Viewer role can't access the underlying semantic model, it's a safe way to interact with content and not worry that you'll "hurt" the underlying data.
 
-For a detailed list of what you can do as a *business user* with the Viewer role, see [Power BI features for business users](end-user-features.md).
+For a detailed list of what you can do as a *business user* with the Viewer role, see [Power BI features for business users](../explore-reports/end-user-features.md).
 
 For a detailed list of all four roles and their capabilities, see [Workspace roles](../collaborate-share/service-roles-new-workspaces.md).
 
@@ -59,5 +59,5 @@ To learn more, see [Which license do I have?](../fundamentals/end-user-license.m
 
 ## Related content
 
-- [Apps in Power BI](end-user-apps.md)
+- [Apps in Power BI](../explore-reports/end-user-apps.md)
 - Questions? [Try asking the Power BI Community](https://community.powerbi.com/)

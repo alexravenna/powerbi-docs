@@ -225,6 +225,8 @@
       href: mobile/tutorial-mobile-apps-ios-qna.md
     - name: Dark mode
       href: mobile/mobile-apps-dark-mode.md
+    - name: Access reports with NFC tags
+      href: mobile/mobile-apps-nfc-tags.md
   - name: Offline access and external content
     items:
     - name: View your data offline
@@ -251,6 +253,14 @@
     items:
     - name: Work side by side with other apps
       href: mobile/mobile-apps-split-screen.md
+    - name: Configure interaction settings
+      href: mobile/mobile-app-interaction-settings.md
+    - name: Choose your startup view
+      href: mobile/mobile-apps-launch-item.md
+    - name: Use shared device mode
+      href: mobile/mobile-app-shared-device-mode.md
+    - name: Remote app configuration
+      href: mobile/mobile-app-configuration.md
   - name: Mobile resources
     items:
     - name: Supported languages
