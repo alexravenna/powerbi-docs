@@ -465,7 +465,7 @@ The Power BI brand color and icon logo remain yellow.
 
 #### Publish .rdl and .pbix files to Power BI from Power BI Report Server
 
-- Power BI Pro licenses now support [paginated reports](../consumer/end-user-paginated-report.md).
+- Power BI Pro licenses now support [paginated reports](../explore-reports/end-user-paginated-report.md).
 - Power BI Report Server has a [new tool to migrate .rdl reports to the Power BI service](../guidance/publish-reporting-services-power-bi-service.md). The new migration tool is available in the January 2023 release.
 
 You can migrate reports without Report Server downtime or disruption to your report users. You don’t need to remove any data or reports. You can keep your current environment in place until you’re ready to retire it.

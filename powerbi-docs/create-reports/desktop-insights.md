@@ -133,4 +133,4 @@ For more information about **Power BI** and how to get started, see:
 * [Connect to data sources in Power BI Desktop](../connect-data/desktop-connect-to-data.md)
 * [Shape and combine data in Power BI Desktop](../connect-data/desktop-shape-and-combine-data.md)
 * [Common query tasks in Power BI Desktop](../transform-model/desktop-common-query-tasks.md)
-* [Apps in Power BI](../consumer/end-user-apps.md)
+* [Apps in Power BI](../explore-reports/end-user-apps.md)
