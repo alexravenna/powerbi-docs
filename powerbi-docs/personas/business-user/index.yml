@@ -1,7 +1,7 @@
 ### YamlMime:Landing
 
 title: Power BI for business users
-summary: Learn how to view reports, explore data, ask questions, and stay informed with Power BI.
+summary: This section is for people who use Power BI to understand data and make decisions—not to build reports. If you're a business user, Power BI helps you explore data, spot trends, and answer questions using reports and dashboards created by others. This section focuses on what you can do in Power BI as a consumer of data—how to get value from shared content, collaborate with others, and work confidently without needing to build reports yourself. For step-by-step guidance on working inside reports, see the [Power BI report exploration documentation](../explore-reports/index.yml).
 
 metadata:
   title: Power BI for business users

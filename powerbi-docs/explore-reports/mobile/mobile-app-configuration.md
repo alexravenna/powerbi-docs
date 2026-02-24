@@ -86,7 +86,7 @@ Get a valid URL by using one of these methods:
 
 - Open the launch item in the Power BI service, then copy the URL from the browser address bar.
 - Copy the link from the item's **Share** option.
-- For apps, get it [from within the app](./mobile-apps-deep-link-specific-location.md#links-to-apps-and-items-in-apps).
+- For apps, get it [from within the app](../../developer/embedded/mobile-apps-deep-link-specific-location.md#links-to-apps-and-items-in-apps).
 
 For more information about launch items, see [Choose a launch item for your Power BI mobile app](./mobile-apps-launch-item.md).
 

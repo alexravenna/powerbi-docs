@@ -1,8 +1,7 @@
 ### YamlMime:Landing
 
 title: Power BI report exploration documentation
-summary: Learn how to view, filter, and interact with Power BI reports and dashboards. Find quick starts, how-to guides, and tips for getting insights from your data—in the browser, on mobile, or in Microsoft Teams.
-
+summary: When you're viewing a Power BI report, there are many ways to explore the data beyond just scrolling and reading visuals. This section shows you how to interact with reports—filter, drill, analyze, and customize views—so you can focus on the questions you're trying to answer. If you're new to Power BI or primarily consume shared content, start with the [Power BI for business users documentation](../personas/business-user/index.yml).
 metadata:
   title: Power BI report exploration documentation
   description: Learn how to view, filter, and interact with Power BI reports and dashboards in the Power BI service, mobile apps, and Microsoft Teams.

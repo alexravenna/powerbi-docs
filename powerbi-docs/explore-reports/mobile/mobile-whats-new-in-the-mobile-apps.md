@@ -83,7 +83,7 @@ To see a semantic model's related reports, open the model in the app and tap **L
 
 :::image type="content" source="./media/mobile-whats-new-in-the-mobile-apps/power-bi-app-dataset-linked-content.png" alt-text="Screenshot showing the Linked content tab of the semantic model info pane in the Power BI mobile app." border="false":::
 
-[Check out our documentation!](./mobile-apps-dataset-refresh.md)
+[Check out our documentation!](../../connect-data/mobile-apps-dataset-refresh.md)
 
 ## February 2025
 
@@ -145,7 +145,7 @@ Opening an item directly in full screen mode is supported for launch items and u
 
 * To make a launch item open in full screen mode, select **Always open in full screen mode** when setting a new launch item, or turn on the **Open in full screen** toggle in the app settings if you already have a launch item chosen. For more information, see [Choose a launch item for your Power BI mobile app](./mobile-apps-launch-item.md).
 
-* To open an item in full screen mode using a universal link, add the query parameter *?fullScreen=1* to the item's link. For more information, see [Create a link that works anywhere](./mobile-apps-deep-link-specific-location.md#create-a-link-that-works-anywhere). Mobile device admins can add the *?fullScreen=1* query parameter to launch item configuration as well. For detail, see [Launch item configuration using an MDM tool](./mobile-app-configuration.md#launch-item-configuration-ios-and-android).
+* To open an item in full screen mode using a universal link, add the query parameter *?fullScreen=1* to the item's link. For more information, see [Create a link that works anywhere](../../developer/embedded/mobile-apps-deep-link-specific-location.md#create-a-link-that-works-anywhere). Mobile device admins can add the *?fullScreen=1* query parameter to launch item configuration as well. For detail, see [Launch item configuration using an MDM tool](./mobile-app-configuration.md#launch-item-configuration-ios-and-android).
 
 ### New "Clear barcode" action in the report footer  
 
@@ -233,7 +233,7 @@ Now it's easy to quickly switch between web and mobile layouts when you're devel
 
 ### Semantic model refresh (iOS and Android)
 
-Now you can view semantic model info and refresh status, and even refresh semantic models manually, right from the mobile app! Moreover, whenever one of your semantic models has a refresh failure, you'll get notified in the mobile app so that you can start addressing the issue right away. [Check out the details](./mobile-apps-dataset-refresh.md)!
+Now you can view semantic model info and refresh status, and even refresh semantic models manually, right from the mobile app! Moreover, whenever one of your semantic models has a refresh failure, you'll get notified in the mobile app so that you can start addressing the issue right away. [Check out the details](../../connect-data/mobile-apps-dataset-refresh.md)!
 
 :::image type="content" source="./media/mobile-whats-new-in-the-mobile-apps/power-bi-app-dataset-refresh.png" alt-text="Screenshot showing the semantic model info page in the Power BI app for mobile devices." border="false":::
 
