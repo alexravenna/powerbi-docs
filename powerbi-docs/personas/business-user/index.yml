@@ -5,7 +5,7 @@ summary: This section is for people who use Power BI to understand data and make
 
 metadata:
   title: Power BI for business users
-  description: Learn how to view reports, interact with visualizations, ask questions with Q&A, set alerts, and access Power BI on mobile devices.
+  description: Learn how to view reports, interact with visualizations, ask Copilot, set alerts, and access Power BI on mobile devices.
   ms.service: powerbi
   ms.subservice: pbi-explore
   ms.topic: landing-page
@@ -60,18 +60,20 @@ landingContent:
 
   - title: Ask better questions of the data
     linkLists:
-      - linkListType: concept
+      - linkListType: overview
         links:
-          - text: Q&A for business users
-            url: ../../explore-reports/end-user-q-and-a.md?context=/power-bi/personas/business-user/context/context
+          - text: Copilot in Power BI
+            url: ../../create-reports/copilot-introduction.md?context=/power-bi/personas/business-user/context/context
       - linkListType: how-to-guide
         links:
-          - text: Tips for asking questions
-            url: ../../explore-reports/end-user-q-and-a-tips.md?context=/power-bi/personas/business-user/context/context
+          - text: Chat with your data
+            url: ../../explore-reports/copilot-chat-with-data-standalone.md?context=/power-bi/personas/business-user/context/context
+          - text: Summarize report content
+            url: ../../explore-reports/copilot-pane-summarize-content.md?context=/power-bi/personas/business-user/context/context
       - linkListType: tutorial
         links:
-          - text: Q&A tutorial
-            url: ../../natural-language/end-user-q-and-a-tutorial.md?context=/power-bi/personas/business-user/context/context
+          - text: "Tutorial: Discover data with Copilot"
+            url: ../../create-reports/tutorial-copilot-power-bi-discover-data.md?context=/power-bi/personas/business-user/context/context
 
   - title: Personalize your experience
     linkLists:

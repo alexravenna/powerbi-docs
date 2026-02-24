@@ -24,8 +24,6 @@ landingContent:
             url: end-user-search-sort.md
           - text: Find content shared with you
             url: end-user-shared-with-me.md
-          - text: Ask questions with Q&A
-            url: end-user-q-and-a.md
           - text: Chat with your data using Copilot
             url: copilot-chat-with-data-standalone.md
 
