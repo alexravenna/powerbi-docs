@@ -71,7 +71,7 @@ Anyone with Admin permissions can rename a workspace.
 
 Don't like the name of a page in your Power BI report? A new name is just a click away. Rename pages in [report Editing view](service-interact-with-a-report-in-editing-view.md).
 
-1. Open the report in [Editing View](../consumer/end-user-reading-view.md).
+1. Open the report in [Editing View](../explore-reports/end-user-reading-view.md).
 1. Find the report page tabs at the bottom of the Power BI window.
 
     :::image type="content" source="media/service-rename/report-page-tabs-new.png" alt-text="Screenshot of the report page tabs at the bottom of the Power BI window.":::
