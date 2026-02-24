@@ -1,4 +1,4 @@
-- name: Connect to data in Power BI
+- name: Power BI data connection documentation
   href: index.yml
   expanded: true
   items:

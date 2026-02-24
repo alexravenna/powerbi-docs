@@ -93,30 +93,6 @@
       href: ../create-reports/tutorial-copilot-power-bi-explore-data.md?context=/power-bi/explore-reports/context/context
 
 # =============================================================================
-# FILTER AND SLICE DATA
-# =============================================================================
-- name: Filter and slice data
-  items:
-  - name: Use filters
-    href: end-user-report-filter.md
-  - name: Use slicers
-    href: end-user-slicer.md
-  - name: Understand cross-filtering
-    href: end-user-interactions.md
-  - name: Change sort order
-    href: end-user-change-sort.md
-
-# =============================================================================
-# DRILL INTO DETAILS
-# =============================================================================
-- name: Drill into details
-  items:
-  - name: Use buttons and actions
-    href: end-user-buttons.md
-  - name: Use Explore (preview)
-    href: explore-data-service.md
-
-# =============================================================================
 # INTERACT WITH VISUALS
 # =============================================================================
 - name: Interact with visuals
@@ -127,6 +103,22 @@
     href: end-user-arcgis.md
   - name: Interact with small multiples
     href: ../visuals/power-bi-visualization-small-multiples-interact.md?context=/power-bi/explore-reports/context/context
+  - name: Filter and slice data
+    items:
+    - name: Use filters
+      href: end-user-report-filter.md
+    - name: Use slicers
+      href: end-user-slicer.md
+    - name: Understand cross-filtering
+      href: end-user-interactions.md
+    - name: Change sort order
+      href: end-user-change-sort.md
+  - name: Drill into details
+    items:
+    - name: Use buttons and actions
+      href: end-user-buttons.md
+    - name: Use Explore (preview)
+      href: explore-data-service.md
 
 # =============================================================================
 # ANALYZE AND UNCOVER INSIGHTS
