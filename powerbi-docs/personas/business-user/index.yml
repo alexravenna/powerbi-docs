@@ -107,8 +107,6 @@ landingContent:
             url: ../../collaborate-share/end-user-subscribe.md?context=/power-bi/personas/business-user/context/context
           - text: Set data alerts
             url: ../../explore-reports/end-user-alerts.md?context=/power-bi/personas/business-user/context/context
-          - text: View your notification center
-            url: ../../explore-reports/end-user-notification-center.md?context=/power-bi/personas/business-user/context/context
 
   - title: Use Power BI on mobile
     linkLists:
