@@ -7529,6 +7529,11 @@
       "source_path": "powerbi-docs/consumer/end-user-faq.yml",
       "redirect_url": "/power-bi/personas/business-user/end-user-faq",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "powerbi-docs/consumer/context/context.yml",
+      "redirect_url": "/power-bi/personas/business-user/context/context",
+      "redirect_document_id": true
     }
   ]
 }                           
