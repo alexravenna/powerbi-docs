@@ -23,7 +23,7 @@ You must have a Power BI service account to be able to download data. If you're 
 1. Open the Power BI service (`app.powerbi.com`), and select **Learn** in the navigation pane.
 1. On the **Learning center** page, under **Sample reports**, scroll left and right to view the samples.
 
-   :::image type="content" source="media/mobile-apps-download-samples/power-bi-service-learning-center.png" alt-text="Screenshot shows the Learning center in the Power BI service." lightbox="media/mobile-apps-download-samples/power-bi-service-learning-center.png":::
+   :::image type="content" source="../explore-reports/mobile/media/mobile-apps-download-samples/power-bi-service-learning-center.png" alt-text="Screenshot shows the Learning center in the Power BI service." lightbox="../explore-reports/mobile/media/mobile-apps-download-samples/power-bi-service-learning-center.png":::
 
 1. Select a sample to download. It opens in Reading mode.
 
@@ -32,11 +32,11 @@ You must have a Power BI service account to be able to download data. If you're 
 
 Power BI imports the sample, and adds a new dashboard, report, and semantic model to **My workspace**.
 
-:::image type="content" source="media/mobile-apps-download-samples/power-bi-service-sample-dashboard.png" alt-text="Screenshot shows imported samples in My workspace in the Power BI service.":::
+:::image type="content" source="../explore-reports/mobile/media/mobile-apps-download-samples/power-bi-service-sample-dashboard.png" alt-text="Screenshot shows imported samples in My workspace in the Power BI service.":::
 
 You're now ready to view the samples on your mobile device.
 
 ## Related content
 
-- Complete a quickstart and [explore dashboards and reports in the Power BI mobile apps](mobile-apps-quickstart-view-dashboard-report.md).
+- Complete a quickstart and [explore dashboards and reports in the Power BI mobile apps](../explore-reports/mobile/mobile-apps-quickstart-view-dashboard-report.md).
 - Questions? Check the [Mobile apps section of the Power BI Community](https://community.fabric.microsoft.com/t5/Mobile-Apps/bd-p/power-bi-mobile).

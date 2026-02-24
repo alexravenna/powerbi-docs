@@ -18,9 +18,9 @@ ms.collection: ce-skilling-ai-copilot
 
 Copilot lets you create insightful summaries about your reports. Copilot takes the visuals that were curated and built by report authors and generates summaries, overviews, insights and answers grounded in the report data. You can access these summaries in the Copilot report pane or in the standalone Copilot agent in Power BI. 
 
-:::image type="content" source="media/copilot-pane-summarize-content/copilot-summary-1.png" alt-text="Screenshot showing select Enter and watch Copilot generate your summary." lightbox="media/copilot-pane-summarize-content/copilot-summary-1.png":::
+:::image type="content" source="../create-reports/media/copilot-pane-summarize-content/copilot-summary-1.png" alt-text="Screenshot showing select Enter and watch Copilot generate your summary." lightbox="../create-reports/media/copilot-pane-summarize-content/copilot-summary-1.png":::
 
-:::image type="content" source="media/copilot-pane-summarize-content/copilot-immersive-report-summary.png" alt-text="Screenshot of Copilot showing spending patterns as a report summary." lightbox="media/copilot-pane-summarize-content/copilot-immersive-report-summary.png":::
+:::image type="content" source="../create-reports/media/copilot-pane-summarize-content/copilot-immersive-report-summary.png" alt-text="Screenshot of Copilot showing spending patterns as a report summary." lightbox="../create-reports/media/copilot-pane-summarize-content/copilot-immersive-report-summary.png":::
 
 [!INCLUDE [copilot-notes](../includes/copilot-notes.md)]
 
@@ -37,21 +37,21 @@ Let’s begin with the report experience. Here, you’re inside of a Power BI Re
 > [!TIP]
 > If you don't see Copilot, your admins likely didn't enable it, or you could be in a workspace that doesn't meet the Copilot requirements. 
  
-:::image type="content" source="media/copilot-pane-summarize-content/copilot-button-ribbon.png" alt-text="Screenshot showing select the Copilot button in the ribbon in either Power BI Desktop or the Power BI service." lightbox="media/copilot-pane-summarize-content/copilot-button-ribbon.png":::
+:::image type="content" source="../create-reports/media/copilot-pane-summarize-content/copilot-button-ribbon.png" alt-text="Screenshot showing select the Copilot button in the ribbon in either Power BI Desktop or the Power BI service." lightbox="../create-reports/media/copilot-pane-summarize-content/copilot-button-ribbon.png":::
 
 The Copilot pane opens. 
 
-:::image type="content" source="media/copilot-pane-summarize-content/copilot-report-copilot-pane.png" alt-text="Screenshot showing the Copilot pane open." lightbox="media/copilot-pane-summarize-content/copilot-report-copilot-pane.png":::
+:::image type="content" source="../create-reports/media/copilot-pane-summarize-content/copilot-report-copilot-pane.png" alt-text="Screenshot showing the Copilot pane open." lightbox="../create-reports/media/copilot-pane-summarize-content/copilot-report-copilot-pane.png":::
  
 You can choose from suggested prompts of summaries from the main Copilot menu such as "What is this report page about?” or “Prep a summary for my team.”
 
 Or you can select other prompts from the user prompt guide in the lower left-hand corner of the dialogue input box.
 
-:::image type="content" source="media/copilot-pane-summarize-content/copilot-updated-prompt-guide.png" alt-text="Screenshot showing select prompts from the user prompt guide." lightbox="media/copilot-pane-summarize-content/copilot-updated-prompt-guide.png":::
+:::image type="content" source="../create-reports/media/copilot-pane-summarize-content/copilot-updated-prompt-guide.png" alt-text="Screenshot showing select prompts from the user prompt guide." lightbox="../create-reports/media/copilot-pane-summarize-content/copilot-updated-prompt-guide.png":::
 
 After you choose a prompt, select **Enter** and watch Copilot generate your summary.  Once the summary begins, you can watch it update as it writes the response.
  
-:::image type="content" source="media/copilot-pane-summarize-content/copilot-updated-report-summary-response.png" alt-text="Screenshot showing and updated view of the report summary response." lightbox="media/copilot-pane-summarize-content/copilot-updated-report-summary-response.png":::
+:::image type="content" source="../create-reports/media/copilot-pane-summarize-content/copilot-updated-report-summary-response.png" alt-text="Screenshot showing and updated view of the report summary response." lightbox="../create-reports/media/copilot-pane-summarize-content/copilot-updated-report-summary-response.png":::
 
 Copilot uses Azure OpenAI to look at the visual metadata on the report and create a natural language summary. By default, Copilot summarizes visuals across the entire report. You can adjust the scope of the summary by specifying the prompt.  The summaries will give a general overview of the data that's currently visualized. 
 
@@ -59,13 +59,13 @@ Copilot uses Azure OpenAI to look at the visual metadata on the report and creat
 
 In a summary response from the Copilot pane, citations are provided within the summary to indicate which visuals Copilot referenced to generate the summary. These citations help you quickly cross-check the summary output to ensure accuracy, increasing productivity. If a reference is from a page you aren't currently on, the reference takes you to that page when clicked.
  
-:::image type="content" source="media/copilot-pane-summarize-content/reference-hover-state.png" alt-text="Screenshot showing that footnotes are provided within the summary to indicate which data visuals Copilot referenced to generate the summary." lightbox="media/copilot-pane-summarize-content/reference-hover-state.png":::
+:::image type="content" source="../create-reports/media/copilot-pane-summarize-content/reference-hover-state.png" alt-text="Screenshot showing that footnotes are provided within the summary to indicate which data visuals Copilot referenced to generate the summary." lightbox="../create-reports/media/copilot-pane-summarize-content/reference-hover-state.png":::
 
 ## Custom prompts
 
 The benefit goes beyond providing a generic summary for a consumer. You can type custom prompts to request a specific summary, such as a bulleted list or a summary specifically about sales, or about another nuanced slice of your data. You can even ask about data behind slicers and filters on your report page.  So long as the filter or slicer exists in the report, Copilot can filter the response for you.
  
-:::image type="content" source="media/copilot-pane-summarize-content/bulleted-insights.png" alt-text="Screenshot showing type custom prompts to request a specific summary." lightbox="media/copilot-pane-summarize-content/bulleted-insights.png":::
+:::image type="content" source="../create-reports/media/copilot-pane-summarize-content/bulleted-insights.png" alt-text="Screenshot showing type custom prompts to request a specific summary." lightbox="../create-reports/media/copilot-pane-summarize-content/bulleted-insights.png":::
 
 Copilot allows you to generate a custom summary to fit your business needs. Here are some examples of custom summaries:
  
@@ -104,7 +104,7 @@ The Copilot pane also allows you to ask specific questions about your report con
 
 Now, let’s take a look at the standalone Copilot experience. For more details, see [Standalone Copilot experience in Power BI (preview)](copilot-chat-with-data-standalone.md). Although the core functionality remains the same, this version includes some enhanced features that are unique to the standalone experience.
 
-:::image type="content" source="media/copilot-introduction/copilot-standalone-screen.png" alt-text="Screenshot of the standalone Copilot experience in Power BI, showing a chat interface for interacting with data." lightbox="media/copilot-introduction/copilot-standalone-screen.png":::
+:::image type="content" source="../create-reports/media/copilot-introduction/copilot-standalone-screen.png" alt-text="Screenshot of the standalone Copilot experience in Power BI, showing a chat interface for interacting with data." lightbox="../create-reports/media/copilot-introduction/copilot-standalone-screen.png":::
 
 To get started, select the Copilot button in the left navigation menu in Power BI service. You see a landing page that offers helpful prompts to get started exploring data. This is similar to the starter prompts shown in the report pane, but using these lets you search for relevant reports you have access to. This means you don’t need to start the exploration experience in the context of the report, you can just ask Copilot to find it for you.
 
@@ -115,19 +115,19 @@ In this standalone Copilot experience, you can ask to summarize data, ask questi
 
 There are a few key differences in the standalone Copilot experience compared to the report pane.  The first difference is the way visuals are embedded directly into the summary responses. Unlike report summaries, where visuals remain part of the main report view, the standalone experience presents them alongside the text. Visual citations are especially important here; they let you validate the data in the summary, see the original visual it references, and explore further without leaving the Copilot view. The overall layout reads more like a newspaper article, combining narrative and visuals into a single, digestible format.
 
-:::image type="content" source="media/copilot-pane-summarize-content/copilot-immersive-full-summary.png" alt-text="Screenshot showing the full immersive summary in Copilot." lightbox="media/copilot-pane-summarize-content/copilot-immersive-full-summary.png":::
+:::image type="content" source="../create-reports/media/copilot-pane-summarize-content/copilot-immersive-full-summary.png" alt-text="Screenshot showing the full immersive summary in Copilot." lightbox="../create-reports/media/copilot-pane-summarize-content/copilot-immersive-full-summary.png":::
 
 You can even hover over some of the additional visual citations that aren't rendered inline to make sure you have a good understanding of which visual the information in the summary came from. 
 
-:::image type="content" source="media/copilot-pane-summarize-content/copilot-immersive-citation-hover.png" alt-text="Screenshot showing what happens when users hover over citations in the full immersive summary in Copilot." lightbox="media/copilot-pane-summarize-content/copilot-immersive-citation-hover.png":::
+:::image type="content" source="../create-reports/media/copilot-pane-summarize-content/copilot-immersive-citation-hover.png" alt-text="Screenshot showing what happens when users hover over citations in the full immersive summary in Copilot." lightbox="../create-reports/media/copilot-pane-summarize-content/copilot-immersive-citation-hover.png":::
 
 In this immersive experience, you can also dive deeper into the visuals provided to continue your analysis - another key difference from the Copilot pane in the report view. Use the **Explore** buttons under the visuals to open them in a format that supports deeper exploration, allowing you to slice, dice, and interact with the data more directly.
 
-:::image type="content" source="media/copilot-pane-summarize-content/copilot-explore-in-immersive.png" alt-text="Screenshot showing what happens when users explore in the full immersive summary in Copilot." lightbox="media/copilot-pane-summarize-content/copilot-explore-in-immersive.png":::
+:::image type="content" source="../create-reports/media/copilot-pane-summarize-content/copilot-explore-in-immersive.png" alt-text="Screenshot showing what happens when users explore in the full immersive summary in Copilot." lightbox="../create-reports/media/copilot-pane-summarize-content/copilot-explore-in-immersive.png":::
 
 Remember, you can filter. Here is an example where I have asked Copilot specifically for a summary about Maui, rather than an overview.  
 
-:::image type="content" source="media/copilot-create-narrative/copilot-filtered-summary.png" alt-text="Screenshot of a filtered summary and hover icon in standalone experience." lightbox="media/copilot-create-narrative/copilot-filtered-summary.png":::
+:::image type="content" source="../create-reports/media/copilot-create-narrative/copilot-filtered-summary.png" alt-text="Screenshot of a filtered summary and hover icon in standalone experience." lightbox="../create-reports/media/copilot-create-narrative/copilot-filtered-summary.png":::
 
 You can see based on the description that the summary was filtered, but you can even hover over the filter icon and see that the Maui filter was applied to all the visuals I see in the response. You can click the **view in report** button in the standalone experience and be taken to the visual being referenced, with the appropriate filters applied. There are some filtering limitations which are noted below.
 
@@ -147,7 +147,7 @@ The quality of the results depends heavily on the amount of data and the clarity
 > [!TIP]
 > If report summaries or answers are taking longer than you expect, you can look at the visuals being used, and how long they take to query.  This means that if crucial visuals important for answering questions are taking a long time to load, you can break the visuals up into smaller pieces to make them faster for Copilot.  Additionally, you can remove long running query time visuals if they are not important for Copilot to use.  You can see this information in the diagnostics available in the ellipses menu.
 >
-> :::image type="content" source="media/copilot-create-narrative/copilot-diagnostics-entry-point.png" alt-text="Screenshot showing the Copilot diagnostics entry point in standalone." lightbox="media/copilot-create-narrative/copilot-diagnostics-entry-point.png":::
+> :::image type="content" source="../create-reports/media/copilot-create-narrative/copilot-diagnostics-entry-point.png" alt-text="Screenshot showing the Copilot diagnostics entry point in standalone." lightbox="../create-reports/media/copilot-create-narrative/copilot-diagnostics-entry-point.png":::
 
 The information we give is:
 
@@ -155,7 +155,7 @@ The information we give is:
 1. The page the visual is located on
 1. The time in seconds it took to load/query the visual
 
-:::image type="content" source="media/copilot-create-narrative/copilot-diagnostic-timings.png" alt-text="Screenshot of an example diagnostic file that showcases visual timings for Copilot queries." lightbox="media/copilot-create-narrative/copilot-diagnostic-timings.png":::
+:::image type="content" source="../create-reports/media/copilot-create-narrative/copilot-diagnostic-timings.png" alt-text="Screenshot of an example diagnostic file that showcases visual timings for Copilot queries." lightbox="../create-reports/media/copilot-create-narrative/copilot-diagnostic-timings.png":::
 
 ### Report composition
 
@@ -206,8 +206,8 @@ We always welcome your feedback about our products. Your feedback helps us impro
 
 ## Next steps
 
-- [Overview of Copilot for Power BI](copilot-introduction.md)
-- [Create a report with Copilot for Power BI](copilot-create-report-service.md)
-- [Create a narrative summary visual with Copilot for Power BI](copilot-create-narrative.md)
-- [Update your data model to work well with Copilot](copilot-evaluate-data.md)
+- [Overview of Copilot for Power BI](../create-reports/copilot-introduction.md)
+- [Create a report with Copilot for Power BI](../create-reports/copilot-create-report-service.md)
+- [Create a narrative summary visual with Copilot for Power BI](../create-reports/copilot-create-narrative.md)
+- [Update your data model to work well with Copilot](../create-reports/copilot-evaluate-data.md)
 - [Frequently asked questions about Copilot for Power BI and Fabric](/fabric/get-started/copilot-faq-fabric)

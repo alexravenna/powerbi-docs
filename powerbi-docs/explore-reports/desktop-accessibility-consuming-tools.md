@@ -98,7 +98,7 @@ When readers navigate around objects, the screen reader reads the type of object
 
 You can press **Alt + Shift + F11** to present an accessible version of the **Show data** window. This window lets you explore the data used in the visual in an HTML table by using the same keyboard shortcuts you normally use with your screen reader.
 
-:::image type="content" source="media/desktop-accessibility/accessibility-04.png" alt-text="Screenshot of a visual with a Show data window.":::
+:::image type="content" source="../create-reports/media/desktop-accessibility/accessibility-04.png" alt-text="Screenshot of a visual with a Show data window.":::
 
 The **Show data** feature is an HTML table that's only accessible to a screen reader through this keyboard shortcut. If you open **Show data** from the option in the visual header, a table that's *not* screen reader compatible is displayed. When using **Show data** through keyboard shortcuts, turn on scan mode to take advantage of all the hot keys your screen reader provides.
 

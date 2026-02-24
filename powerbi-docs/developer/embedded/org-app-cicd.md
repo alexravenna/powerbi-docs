@@ -13,7 +13,7 @@ ms.date: 12/15/2025
 
 # CI/CD for org apps in Fabric (Preview)
 
-This article explains how [Git integration](/fabric/cicd/git-integration/intro-to-git-integration) and [deployment pipelines](/fabric/cicd/deployment-pipelines/intro-to-deployment-pipelines) work for [org apps](./org-app-items.md) in Microsoft Fabric. Learn how to set up a connection to your repository, manage your org app through Git, and deploy it across different environments.
+This article explains how [Git integration](/fabric/cicd/git-integration/intro-to-git-integration) and [deployment pipelines](/fabric/cicd/deployment-pipelines/intro-to-deployment-pipelines) work for [org apps](../../explore-reports/org-app-items.md) in Microsoft Fabric. Learn how to set up a connection to your repository, manage your org app through Git, and deploy it across different environments.
 
 ## Org apps and Git integration
 
@@ -40,7 +40,7 @@ The definition file is divided into two sections:
 
 The following diagram shows the structure of the org app.
 
-:::image type="content" source="./media/org-app-cicd/org-app-structure.png" alt-text="Diagram showing the structure of an Org app item. The static settings are shown above the org app and the item elements follow it." border="false" lightbox="./media/org-app-cicd/org-app-structure.png":::
+:::image type="content" source="../../explore-reports/media/org-app-cicd/org-app-structure.png" alt-text="Diagram showing the structure of an Org app item. The static settings are shown above the org app and the item elements follow it." border="false" lightbox="../../explore-reports/media/org-app-cicd/org-app-structure.png":::
 
 The definition file contains:
 
@@ -122,5 +122,5 @@ To learn how to use deployment pipelines, see [Introduction to deployment pipeli
 
 ## Related content
 
-- [Get started with Org Apps](./org-app-items.md)
+- [Get started with Org Apps](../../explore-reports/org-app-items.md)
 - [Introduction to the CI/CD process as part of application lifecycle management (ALM) in Microsoft Fabric](/fabric/cicd/cicd-overview)

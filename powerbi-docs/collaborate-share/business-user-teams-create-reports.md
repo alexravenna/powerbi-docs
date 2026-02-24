@@ -30,7 +30,7 @@ If you have a table with data, such as an Excel spreadsheet, and want to try vis
 
 1. Select the **Create** tab, then choose **Paste or manually enter data** to open the Power BI service on your browser.
 
-    :::image type="content" source="media/business-user-teams-create-reports/teams-power-bi-create-paste-manually.png" alt-text="Screenshot of the Power BI app open in Teams with the Create tab and Paste or manually enter data option selected." lightbox="media/business-user-teams-create-reports/teams-power-bi-create-paste-manually.png":::
+    :::image type="content" source="../explore-reports/media/business-user-teams-create-reports/teams-power-bi-create-paste-manually.png" alt-text="Screenshot of the Power BI app open in Teams with the Create tab and Paste or manually enter data option selected." lightbox="../explore-reports/media/business-user-teams-create-reports/teams-power-bi-create-paste-manually.png":::
 
 1. After the Power BI service opens in your browser, go to Step 3 in [Create an automatic report with the Power BI service](#create-an-automatic-report-with-the-power-bi-service) to finish creating your report.
 
@@ -39,31 +39,31 @@ If you have a table with data, such as an Excel spreadsheet, and want to try vis
 1. Open the Power BI service.
 1. Select the **New report** button.
 
-    :::image type="content" source="media/business-user-teams-create-reports/power-bi-new-report.png" alt-text="Screenshot of the Power BI service open and the New Report button selected." lightbox="media/business-user-teams-create-reports/power-bi-new-report.png":::
+    :::image type="content" source="../explore-reports/media/business-user-teams-create-reports/power-bi-new-report.png" alt-text="Screenshot of the Power BI service open and the New Report button selected." lightbox="../explore-reports/media/business-user-teams-create-reports/power-bi-new-report.png":::
 
 1. Select **Paste or manually enter data**.
 
-    :::image type="content" source="media/business-user-teams-create-reports/power-bi-create-paste-manually.png" alt-text="Screenshot of the Power BI service open and the Paste or manually enter data option selected." lightbox="media/business-user-teams-create-reports/power-bi-create-paste-manually.png":::
+    :::image type="content" source="../explore-reports/media/business-user-teams-create-reports/power-bi-create-paste-manually.png" alt-text="Screenshot of the Power BI service open and the Paste or manually enter data option selected." lightbox="../explore-reports/media/business-user-teams-create-reports/power-bi-create-paste-manually.png":::
 
 1. Copy the data or spreadsheet you want to visualize, then select the first cell in the Power Query dialog box and paste the data.
 1. Select **Use first row as headers** from the dropdown menu if you want to apply the setting. Then name your table and choose **Auto-create report**.
 
-    :::image type="content" source="media/business-user-teams-create-reports/power-bi-paste-auto-create.png" alt-text="Screenshot of the Power Query dialog box and the options to generate an Auto-create report." lightbox="media/business-user-teams-create-reports/power-bi-paste-auto-create.png":::
+    :::image type="content" source="../explore-reports/media/business-user-teams-create-reports/power-bi-paste-auto-create.png" alt-text="Screenshot of the Power Query dialog box and the options to generate an Auto-create report." lightbox="../explore-reports/media/business-user-teams-create-reports/power-bi-paste-auto-create.png":::
 
 1. Set a sensitivity label, if prompted.
 
     Power BI automatically analyzes and visualizes your data in a prebuilt report.
 
-    :::image type="content" source="media/business-user-teams-create-reports/power-bi-auto-created-report.png" alt-text="Screenshot of the visualizations the Power BI service automatically creates from the data." lightbox="media/business-user-teams-create-reports/power-bi-auto-created-report.png":::
+    :::image type="content" source="../explore-reports/media/business-user-teams-create-reports/power-bi-auto-created-report.png" alt-text="Screenshot of the visualizations the Power BI service automatically creates from the data." lightbox="../explore-reports/media/business-user-teams-create-reports/power-bi-auto-created-report.png":::
 
 1. Customize your visuals. If you want to customize a single visual on your report, select the **Personalize this visual** icon.
 
-    :::image type="content" source="media/business-user-teams-create-reports/teams-power-bi-auto-created-report-personalize-visual.png" alt-text="Screenshot of a visual and the Personalize this visual icon selected.":::
+    :::image type="content" source="../explore-reports/media/business-user-teams-create-reports/teams-power-bi-auto-created-report-personalize-visual.png" alt-text="Screenshot of a visual and the Personalize this visual icon selected.":::
 
 1. **Save** the report.
 1. After you save the report, you can customize the whole report by selecting **Edit**.
 
-    :::image type="content" source="media/business-user-teams-create-reports/power-bi-edit-auto-created-report.png" alt-text="Screenshot of the visualizations the Power BI service automatically created with the Edit option selected." lightbox="media/business-user-teams-create-reports/power-bi-edit-auto-created-report.png":::
+    :::image type="content" source="../explore-reports/media/business-user-teams-create-reports/power-bi-edit-auto-created-report.png" alt-text="Screenshot of the visualizations the Power BI service automatically created with the Edit option selected." lightbox="../explore-reports/media/business-user-teams-create-reports/power-bi-edit-auto-created-report.png":::
 
 When you’re done, save and share the report with your colleagues in Teams.
 
@@ -94,11 +94,11 @@ It's easy to find all the semantic models your organization has shared with you.
 1. Go to the **OneLake data hub** tab.
 1. Select a semantic model from the list or from the recommended semantic models.
 
-    :::image type="content" source="media/business-user-teams-create-reports/teams-power-bi-datasets-tab.png" alt-text="Screenshot showing the Data Hub tab selected with the recommended semantic models and a list of semantic models." lightbox="media/business-user-teams-create-reports/teams-power-bi-datasets-tab.png":::
+    :::image type="content" source="../explore-reports/media/business-user-teams-create-reports/teams-power-bi-datasets-tab.png" alt-text="Screenshot showing the Data Hub tab selected with the recommended semantic models and a list of semantic models." lightbox="../explore-reports/media/business-user-teams-create-reports/teams-power-bi-datasets-tab.png":::
 
 1. Explore the **Semantic model details** page.
 
-    :::image type="content" source="media/business-user-teams-create-reports/teams-power-bi-datasets-details.png" alt-text="Screenshot of the Semantic model details page and related reports." lightbox="media/business-user-teams-create-reports/teams-power-bi-datasets-details.png":::
+    :::image type="content" source="../explore-reports/media/business-user-teams-create-reports/teams-power-bi-datasets-details.png" alt-text="Screenshot of the Semantic model details page and related reports." lightbox="../explore-reports/media/business-user-teams-create-reports/teams-power-bi-datasets-details.png":::
 
     - Discover prebuilt reports that use the semantic model.
     - Create a report in Power BI from the semantic model with **Create a report**.
@@ -117,15 +117,15 @@ For example, ask a question about your data by adding a *Q&A visual*, where you 
 
 1. In the Visualizations pane, select the **Q&A** icon.
 
-    :::image type="content" source="media/business-user-teams-create-reports/power-bi-teams-qna-visual-icon.png" alt-text="Screenshot of Visualization pane with Q&A visual icon selected.":::
+    :::image type="content" source="../explore-reports/media/business-user-teams-create-reports/power-bi-teams-qna-visual-icon.png" alt-text="Screenshot of Visualization pane with Q&A visual icon selected.":::
 
     Power BI generates a list of suggested questions you can choose from or type your own.
 
-    :::image type="content" source="media/business-user-teams-create-reports/power-bi-teams-qna-visual.png" alt-text="Screenshot of a Visualization pane with the Q&A visual selected and a list of suggested questions.":::
+    :::image type="content" source="../explore-reports/media/business-user-teams-create-reports/power-bi-teams-qna-visual.png" alt-text="Screenshot of a Visualization pane with the Q&A visual selected and a list of suggested questions.":::
 
 1. If you like the visual that Power BI creates, you can convert it from a Q&A visual to a standard visual on the page.
 
-    :::image type="content" source="media/business-user-teams-create-reports/power-bi-teams-pin-qna-visual.png" alt-text="Screenshot of a Q&A result with the Convert Q&A visual icon selected.":::
+    :::image type="content" source="../explore-reports/media/business-user-teams-create-reports/power-bi-teams-pin-qna-visual.png" alt-text="Screenshot of a Q&A result with the Convert Q&A visual icon selected.":::
 
 For more information, see [Create a Q&A visual in a report in Power BI](../visuals/power-bi-visualization-q-and-a.md).
 
@@ -135,11 +135,11 @@ You can also easily create a *smart narrative* visual, a dynamically generated t
 
 1. In the Visualizations pane, select the **Smart narrative** visual icon.
 
-    :::image type="content" source="media/business-user-teams-create-reports/power-bi-teams-smart-narrative-visual-icon.png" alt-text="Screenshot of a Visualization pane with the Smart narrative visual icon selected.":::
+    :::image type="content" source="../explore-reports/media/business-user-teams-create-reports/power-bi-teams-smart-narrative-visual-icon.png" alt-text="Screenshot of a Visualization pane with the Smart narrative visual icon selected.":::
 
     Power BI generates a text description of key takeaways in your report.
 
-    :::image type="content" source="media/business-user-teams-create-reports/power-bi-teams-smart-narrative-visual.png" alt-text="Screenshot of visuals and the text description dialog box generated with the Smart narrative." lightbox="media/business-user-teams-create-reports/power-bi-teams-smart-narrative-visual.png":::
+    :::image type="content" source="../explore-reports/media/business-user-teams-create-reports/power-bi-teams-smart-narrative-visual.png" alt-text="Screenshot of visuals and the text description dialog box generated with the Smart narrative." lightbox="../explore-reports/media/business-user-teams-create-reports/power-bi-teams-smart-narrative-visual.png":::
 
 1. You can edit the visual, change the way it looks, and change the inline values it generates.
 
@@ -166,6 +166,6 @@ To get started with Power BI Desktop, follow these steps.
 ## Related content
 
 - [Add the Power BI app to Microsoft Teams](../collaborate-share/service-microsoft-teams-app.md)
-- [Use data to make meetings productive in Microsoft Teams](business-user-teams-meetings.md)
-- [Use Power BI metrics to improve results in Microsoft Teams](business-user-teams-goals.md)
-- [Lead data-driven discussions in Microsoft Teams](business-user-teams-share-data.md)
+- [Use data to make meetings productive in Microsoft Teams](../explore-reports/business-user-teams-meetings.md)
+- [Use Power BI metrics to improve results in Microsoft Teams](../explore-reports/business-user-teams-goals.md)
+- [Lead data-driven discussions in Microsoft Teams](../explore-reports/business-user-teams-share-data.md)

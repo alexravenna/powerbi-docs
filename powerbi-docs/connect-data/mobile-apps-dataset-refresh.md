@@ -25,19 +25,19 @@ If you're the owner of a semantic model or a user who has access to the semantic
 
 1. Navigate to the workspace where the semantic model is located and tap the **Semantic models** tab. All the semantic models you have access to in that workspace will be listed. A warning symbol indicates semantic model refresh failures.
 
-    :::image type="content" source="./media/mobile-apps-dataset-refresh/power-bi-app-dataset-list.png" alt-text="Screenshot of semantic model list page in the Power BI mobile app." border="false":::
+    :::image type="content" source="../explore-reports/mobile/media/mobile-apps-dataset-refresh/power-bi-app-dataset-list.png" alt-text="Screenshot of semantic model list page in the Power BI mobile app." border="false":::
 
 1. Tap the semantic model you want to refresh. The Semantic model info page opens, showing some details about the semantic model. If there was a refresh failure, you can tap **See more** to display failure details. You'll be able to copy the details to facilitate investigating the failure.
 
-    :::image type="content" source="./media/mobile-apps-dataset-refresh/power-bi-app-dataset-info-page.png" alt-text="Screenshot of semantic model info page in the Power BI mobile app." border="false":::
+    :::image type="content" source="../explore-reports/mobile/media/mobile-apps-dataset-refresh/power-bi-app-dataset-info-page.png" alt-text="Screenshot of semantic model info page in the Power BI mobile app." border="false":::
 
 3.	Tap **Refresh now** if you want to refresh the semantic model. This button is disabled if a refresh is already in progress.
 
 ## Respond to a refresh failure notification
 
-If you're a semantic model owner, or a [specified recipient for scheduled refresh failure notifications](../../connect-data/refresh-data.md#getting-refresh-failure-notifications) for the semantic model, you'll receive a notification on your mobile app when there's a scheduled refresh failure. Tap the notification to open the semantic model info page, where you can view error details and refresh the semantic model.
+If you're a semantic model owner, or a [specified recipient for scheduled refresh failure notifications](refresh-data.md#getting-refresh-failure-notifications) for the semantic model, you'll receive a notification on your mobile app when there's a scheduled refresh failure. Tap the notification to open the semantic model info page, where you can view error details and refresh the semantic model.
 
-:::image type="content" source="./media/mobile-apps-dataset-refresh/power-bi-app-dataset-failure-notification.png" alt-text="Screenshot of semantic model refresh failure notification in the Power BI mobile app." border="false":::
+:::image type="content" source="../explore-reports/mobile/media/mobile-apps-dataset-refresh/power-bi-app-dataset-failure-notification.png" alt-text="Screenshot of semantic model refresh failure notification in the Power BI mobile app." border="false":::
 
 ## Find a semantic model's related content
 
@@ -49,7 +49,7 @@ To find and access a semantic model's related content:
 
 1. The semantic model's info page opens. Tap **Linked content** to display the list of content that is built on the semantic model. The list shows only the related content you have access to. The name of the workspace each item is located in is shown directly below the item's name.
 
-    :::image type="content" source="./media/mobile-apps-dataset-refresh/power-bi-app-dataset-linked-content.png" alt-text="Screenshot of semantic model linked content page in the Power BI mobile app." border="false":::
+    :::image type="content" source="../explore-reports/mobile/media/mobile-apps-dataset-refresh/power-bi-app-dataset-linked-content.png" alt-text="Screenshot of semantic model linked content page in the Power BI mobile app." border="false":::
 
     > [!NOTE]
     > Currently, only related reports are listed.
@@ -58,4 +58,4 @@ To find and access a semantic model's related content:
 
 ## Related content
 
-- [Getting refresh failure notifications](../../connect-data/refresh-data.md#getting-refresh-failure-notifications)
+- [Getting refresh failure notifications](refresh-data.md#getting-refresh-failure-notifications)

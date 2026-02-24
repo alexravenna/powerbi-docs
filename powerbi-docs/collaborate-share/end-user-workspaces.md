@@ -41,7 +41,7 @@ Access permissions determine what you can do in a workspace, so teams can collab
 
 As a Power BI *business user*, you typically interact in workspaces by using the **Viewer** role. But *designers* can also assign you to the **Member** or **Contributor** role. The Viewer role lets you view and interact with content (dashboards, reports, apps) created by others and shared with you. And because the Viewer role can't access the underlying semantic model, it's a safe way to interact with content and not worry that you'll "hurt" the underlying data.
 
-For a detailed list of what you can do as a *business user* with the Viewer role, see [Power BI features for business users](../explore-reports/end-user-features.md).
+For a detailed list of what you can do as a *business user* with the Viewer role, see [Power BI features for business users](../fundamentals/end-user-features.md).
 
 For a detailed list of all four roles and their capabilities, see [Workspace roles](../collaborate-share/service-roles-new-workspaces.md).
 
@@ -51,9 +51,9 @@ Licensing also plays a part in determining what you can and can't do in a worksp
 
 Often, *business users* work with a free license. [Learn more about licensing](../fundamentals/end-user-license.md). If the content isn't stored in Premium capacity, the business user doesn't have access.
 
-If the workspace is stored in Premium capacity, *business users* who are granted permission by the designer can view and interact with the content in that workspace. This icon :::image type="icon" source="media/end-user-workspaces/power-bi-diamond-icon.png"::: identifies Premium workspaces. This icon :::image type="icon" source="media/end-user-workspaces/power-bi-PPU-icon.png"::: identifies Premium Per User workspaces.
+If the workspace is stored in Premium capacity, *business users* who are granted permission by the designer can view and interact with the content in that workspace. This icon :::image type="icon" source="../explore-reports/media/end-user-workspaces/power-bi-diamond-icon.png"::: identifies Premium workspaces. This icon :::image type="icon" source="../explore-reports/media/end-user-workspaces/power-bi-ppu-icon.png"::: identifies Premium Per User workspaces.
 
-:::image type="content" source="media/end-user-workspaces/power-bi-diamond.png" alt-text="Screenshot showing a list of Workspaces with Premium icons outlined.":::
+:::image type="content" source="../explore-reports/media/end-user-workspaces/power-bi-diamond.png" alt-text="Screenshot showing a list of Workspaces with Premium icons outlined.":::
 
 To learn more, see [Which license do I have?](../fundamentals/end-user-license.md).
 
