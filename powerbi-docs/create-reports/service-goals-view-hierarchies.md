@@ -3,8 +3,6 @@ title: View hierarchies in Power BI scorecards
 description: You can view  and interact with hierarchies for a scorecard two different ways.
 author: kgremban
 ms.author: kgremban
-ms.reviewer: ''
-featuredvideoid: ''
 ms.service: powerbi
 ms.subservice: pbi-reports-dashboards
 ms.topic: how-to

@@ -4,7 +4,6 @@ description: Set up goal-level permissions.
 author: kgremban
 ms.author: kgremban
 ms.reviewer: 'cnews'
-featuredvideoid: ''
 ms.service: powerbi
 ms.subservice: pbi-reports-dashboards
 ms.topic: how-to
@@ -68,9 +67,11 @@ Default permissions *don't* apply to the underlying semantic model. If you give 
 
 After you create roles and set up permissions, the final step is to share the scorecard with users.  
 
-- Select the **Share** button in the ribbon, same as you would share a normal report.  
+1. Select the **Share** button in the ribbon.
 
-    If you don't want to give permissions to the underlying scorecard semantic model, in the Share dialog clear the option **Allow recipients to build content with the data associated with this report** to give build permissions to the underlying report.
+1. Select the **Specific people can view and share** option to customize the sharing permissions.
+
+1. If you don't want to give permissions to the underlying scorecard semantic model, uncheck the **Allow recipients to build content with the data associated with this report** option in the **Send link** dialog.
 
 ### Workspace roles and scorecard roles
 

@@ -4,7 +4,6 @@ description: Learn how to customize statuses in your Power BI scorecards to meet
 author: kgremban
 ms.author: kgremban
 ms.reviewer: carlylan
-featuredvideoid: ''
 ms.service: powerbi
 ms.subservice: pbi-reports-dashboards
 ms.topic: how-to

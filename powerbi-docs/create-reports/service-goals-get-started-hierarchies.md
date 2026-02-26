@@ -3,8 +3,6 @@ title: Get started with hierarchies in Power BI scorecards
 description: You can set up a hierarchy for a scorecard and map the Power BI semantic models referenced by your metrics to the hierarchy levels and owner fields, automatically creating a new scorecard view for each slice of your data.
 author: kgremban
 ms.author: kgremban
-ms.reviewer: ''
-featuredvideoid: ''
 ms.service: powerbi
 ms.subservice: pbi-reports-dashboards
 ms.search.form: Get started with hierarchies in scorecards

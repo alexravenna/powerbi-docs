@@ -4,7 +4,6 @@ description: Create scorecards and manual goals in Power BI.
 author: kgremban
 ms.author: kgremban
 ms.reviewer: 'cnews'
-featuredvideoid: ''
 ms.service: powerbi
 ms.subservice: pbi-reports-dashboards
 ms.search.form: Create scorecards
@@ -58,6 +57,9 @@ You need a Power BI Pro license to author and share goals in standard workspaces
 
 ## Step 2: Create a goal
 
+>[!TIP]
+>If a goal already exists on another scorecard, you can [link to it](service-goals-linked-goals.md) instead of creating a duplicate.
+
 1. In the scorecard, select **New goal**. 
 
 1. Provide the following values for your goal:
@@ -98,15 +100,13 @@ All new goals created within scorecards have a default daily tracking cycle, whi
  
 ## Step 5 (Optional): Share your scorecard and set permissions
 
-Sharing is the easiest way to give people access to your scorecard in the Power BI service. To share, select the **Share** button in the scorecard action bar.
+Sharing is the easiest way to give people access to your scorecard in the Power BI service. To share, select the **Share** button in the scorecard action bar. You can choose whether the people you share with can share the scorecard with others, and whether they can access the underlying scorecard semantic model.
 
 You can also set up goal-level permissions to control which goals different users can view and update within a scorecard. For more information, see [Protect your scorecards with goal-level permissions](service-goals-set-permissions.md).
 
 ## Related content
 
-- [Get started with goals in Power BI](service-goals-introduction.md)
 - [Create connected goals in Power BI](service-goals-create-connected.md)
 - [Stay on top of your goals in Power BI](service-goals-check-in.md)
-- [Protect your scorecards with goal-level permissions](service-goals-set-permissions.md)
 
 More questions? [Try the Power BI Community](https://community.powerbi.com/).

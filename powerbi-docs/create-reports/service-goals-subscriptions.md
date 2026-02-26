@@ -4,7 +4,6 @@ description: Set up subscriptions to receive email notifications and stay up to 
 author: kgremban
 ms.author: kgremban
 ms.reviewer: 'anphil'
-featuredvideoid: ''
 ms.service: powerbi
 ms.subservice: pbi-reports-dashboards
 ms.topic: how-to

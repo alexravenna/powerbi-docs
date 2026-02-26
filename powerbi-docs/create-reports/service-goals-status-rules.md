@@ -3,8 +3,6 @@ title: Automate status rules for goals in Power BI
 description: Learn how to automate status updates for goals in Power BI based on rules that trigger changes using value, percentage of target met, or date conditions.
 author: kgremban
 ms.author: kgremban
-ms.reviewer: ''
-featuredvideoid: ''
 ms.service: powerbi
 ms.subservice: pbi-reports-dashboards
 ms.topic: how-to
