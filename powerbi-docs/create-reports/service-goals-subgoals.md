@@ -90,5 +90,7 @@ When you switch a goal type from connected to rollup, you might want to preserve
 * [Get started with goals in Power BI](service-goals-introduction.md)
 * [Create scorecards and manual goals in Power BI](service-goals-create.md)
 * [Create connected goals in Power BI](service-goals-create-connected.md)
+* [Stay on top of your goals in Power BI](service-goals-check-in.md)
+* [Create automated status rules for goals](service-goals-status-rules.md)
 
 More questions? [Try the Power BI Community](https://community.powerbi.com/).

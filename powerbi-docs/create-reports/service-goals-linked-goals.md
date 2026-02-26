@@ -73,5 +73,6 @@ If you link a rollup goal onto a different scorecard, it continues to show its c
 - [Get started with goals in Power BI](service-goals-introduction.md)
 - [Create scorecards and manual goals in Power BI](service-goals-create.md)
 - [Create connected goals in Power BI](service-goals-create-connected.md)
+- [Protect your scorecards with goal-level permissions](service-goals-set-permissions.md)
 
 Have more questions? [Try the Power BI Community](https://community.powerbi.com/).

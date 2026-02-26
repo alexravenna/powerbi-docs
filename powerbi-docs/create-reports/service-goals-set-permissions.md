@@ -1,5 +1,5 @@
 ---
-title: Protect Your Scorecards with Goal-Level Permissions
+title: Protect your scorecards with goal-level permissions
 description: Set up goal-level permissions.
 author: kgremban
 ms.author: kgremban
@@ -18,7 +18,7 @@ ai-usage: ai-assisted
 
 In many organizations, different roles should have access to view and update different goals. For example, maybe only managers should see goals related to human resources and finances, while all employees can view goals related to operations.  
 
-With goal-level permissions, these scenarios are easily accomplished. In this article, we go over how to set up goal-level permissions for your scorecard.
+With goal-level permissions, these scenarios are easily accomplished. This article describes how to set up goal-level permissions for your scorecard.
 
 ## Get started
 
@@ -34,7 +34,7 @@ Follow these steps to get started setting up your permissions.
 
     :::image type="content" source="media/service-goals-set-permissions/goals-permissions-settings-pane.png" alt-text="Screenshot of opening goal-level permissions by accessing the scorecard settings and selecting permissions." lightbox="media/service-goals-set-permissions/goals-permissions-settings-pane.png":::
 
-On the **Role settings** page, you  can create roles with different permission sets and assign those roles to specific user groups. We support different types of permissions at the goal level:
+On the **Role settings** page, you can create roles with different permission sets and assign those roles to specific user groups. The following types of permissions are available at the goal level:
 
 - **View permissions**: Grant access for users to view specified goals within a scorecard.
 - **Update permissions**: Grant access for users to update or check in specific aspects of a goal. There are a few options available under update permissions.
@@ -60,9 +60,9 @@ The default permissions apply to anyone accessing the scorecard who isn't a memb
 
     :::image type="content" source="media/service-goals-set-permissions/goals-permissions-create-default.png" alt-text="Screenshot of setting a role to become the default role from the More options menu." lightbox="media/service-goals-set-permissions/goals-permissions-create-default.png":::
 
-Goal-level permissions roles apply to the underlying scorecard semantic model we generate, except for the default role. For example, say you create a role and assign the sales team view access to five goals on the scorecard. Those five goals are the ones they see in the underlying semantic model as well.
+Goal-level permissions roles apply to the underlying scorecard semantic model that Power BI generates, except for the default role. For example, say you create a role and assign the sales team view access to five goals on the scorecard. Those five goals are the ones they see in the underlying semantic model as well.
 
-Default permissions *don't* apply to the underlying semantic model. If I give view permissions to all goals as the default role, anyone who adopts those default permissions can't access any goals in the underlying semantic model.
+Default permissions *don't* apply to the underlying semantic model. If you give view permissions to all goals as the default role, anyone who adopts those default permissions can't access any goals in the underlying semantic model.
 
 ## Share the scorecard
 

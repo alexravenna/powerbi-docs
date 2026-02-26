@@ -700,18 +700,12 @@
       href: service-goals-check-in.md        
     - name: Create email subscriptions for goals
       href: service-goals-subscriptions.md        
-    - name: Follow your goals
-      href: service-goals-follow.md        
     - name: Set goal-level permissions
       href: service-goals-set-permissions.md
     - name: Arrange goals and columns in scorecards
       href: service-goals-move.md
     - name: Create linked goals
       href: service-goals-linked-goals.md
-    - name: Create automated status rules
-      href: service-goals-status-rules.md
-    - name: Create and add scorecards to reports
-      href: service-goals-create.md 
     - name: Hierarchies in scorecards
       items: 
       - name: Get started with hierarchies
