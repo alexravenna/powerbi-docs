@@ -33,7 +33,7 @@ To reorder goals on the scorecard, or make them subgoals:
 
 1. When you make it a subgoal, it takes the color of the goal it's under.
 
-  :::image type="content" source="media/service-goals-move/power-bi-moved-metric.png" alt-text="Screenshot that shows the moved subgoal." lightbox="media/service-goals-move/power-bi-moved-metric.png":::
+    :::image type="content" source="media/service-goals-move/power-bi-moved-metric.png" alt-text="Screenshot that shows the moved subgoal." lightbox="media/service-goals-move/power-bi-moved-metric.png":::
 
 ## Hide or move a column
 
