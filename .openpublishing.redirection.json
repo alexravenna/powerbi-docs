@@ -57,8 +57,13 @@
     },
     {
       "source_path": "powerbi-docs/create-reports/service-metrics-follow.md",
-      "redirect_url": "/power-bi/create-reports/service-goals-follow",
-      "redirect_document_id": true
+      "redirect_url": "/power-bi/create-reports/service-goals-check-in",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "powerbi-docs/create-reports/service-goals-follow.md",
+      "redirect_url": "/power-bi/create-reports/service-goals-check-in",
+      "redirect_document_id": false
     },
     {
       "source_path": "powerbi-docs/create-reports/service-metrics-submetrics.md",
